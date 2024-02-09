@@ -5,7 +5,7 @@
 					<div class="elementor-element elementor-element-4613b9e1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4613b9e1" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img src="https://codmsoftware.com/assect/upload/logo/logo-change-color.jpg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img src="wp-content\uploads\sites\logo-change-color -1.jpg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
 									<p class="elementor-image-box-description">Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success. </p>
 								</div>

@@ -597,8 +597,8 @@
                                 vertical-align: middle;
                                 display: inline-block
                             }
-                            </style> <a href="https://library.elementor.com/local-services-wireframe-4-flexbox">
-                                <img src="https://codmsoftware.com/assect/upload/logo/logo-change-color.jpg"
+                            </style> <a href="/">
+                                <img src="wp-content\uploads\sites\logo-change-color -1.jpg"
                                     class="attachment-full size-full wp-image-11" alt="" loading="lazy" /> </a>
                         </div>
                     </div>
@@ -656,7 +656,7 @@
                         data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a href="get-a-quote/index.html"
+                                <a href="#!"
                                     class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-text">Get a Quote</span>
