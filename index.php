@@ -478,7 +478,7 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-													"Working with [CodM] was a turning point for us. Their expertise in building customised CRM solutions has transformed our customer interactions. We now have a unified platform that has streamlined our processes, resulting in improved efficiency and ultimately increased revenue. The team's dedication and innovative approach has exceeded our expectations”</div>
+													"Working with CodM was a turning point for us. Their expertise in building customised CRM solutions has transformed our customer interactions. We now have a unified platform that has streamlined our processes, resulting in improved efficiency and ultimately increased revenue. The team's dedication and innovative approach has exceeded our expectations”</div>
 													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">John H., CEO Of Tech Innovators Inc</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
@@ -502,7 +502,7 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-													“Thanks to [CodM], our marketing efforts skyrocketed. The personalized CRM solution enhanced our targeting, resulting in higher conversion rates. Smooth transition, user-friendly interface—our marketing team is now more agile than ever” </div>
+													“Thanks to CodM, our marketing efforts skyrocketed. The personalized CRM solution enhanced our targeting, resulting in higher conversion rates. Smooth transition, user-friendly interface—our marketing team is now more agile than ever” </div>
 													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Dynamic Solutions Ltd</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
@@ -526,7 +526,7 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-													“[CodM] has given our company a strategic boost. Customised solutions improved our workflows and supply chain management. Valuable insights for better decision making. Their understanding of our business needs sets them apart” </div>
+													“CodM has given our company a strategic boost. Customised solutions improved our workflows and supply chain management. Valuable insights for better decision making. Their understanding of our business needs sets them apart” </div>
 													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Precision Manufacturing Group</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
@@ -550,7 +550,7 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-													“[CodM] transformed our customer service. Their CRM solution centralized information, enabling prompt and personalized support. Increased customer satisfaction is now our norm. They've been a true partner in our journey towards service excellence.” </div>
+													“CodM transformed our customer service. Their CRM solution centralized information, enabling prompt and personalized support. Increased customer satisfaction is now our norm. They've been a true partner in our journey towards service excellence.” </div>
 													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Stellar Services Corp</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
