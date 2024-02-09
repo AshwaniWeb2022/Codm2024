@@ -444,14 +444,20 @@
     <script src='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/js/v4-shims.mine56c.js?ver=3.12.2' id='font-awesome-4-shim-js'></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/71.html" />
-    <link rel='shortlink' href='index.html' />
+    <link rel='shortlink' href='index.php' />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed56ec.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede0c5.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
     <meta name="generator" content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 
-    <link rel="icon" href="wp-content/uploads/sites/231/2022/08/elementor_favicon.png" sizes="32x32" />
-    <link rel="icon" href="wp-content/uploads/sites/231/2022/08/elementor_favicon.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
+    <!-- favicon icon  -->
+    <link rel="apple-touch-icon" sizes="180x180" href="wp-content/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="wp-content/favicon//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="wp-content/favicon//favicon-16x16.png">
+<link rel="manifest" href="wp-content/favicon//site.webmanifest">
+<link rel="mask-icon" href="wp-content/favicon//safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- favicon icon  -->
 
     <meta name="msapplication-TileImage" content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
@@ -472,9 +478,9 @@
         }
     </style>
     <header data-elementor-type="header" data-elementor-id="18" class="elementor elementor-18 elementor-location-header">
-        <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+        <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd" data-element_type="container">
             <div class="e-con-inner">
-                <div class="elementor-element elementor-element-444ee561 e-con-full e-con" data-id="444ee561" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                <div class="elementor-element elementor-element-444ee561 e-con-full e-con" data-id="444ee561" data-element_type="container" >
                     <div class="elementor-element elementor-element-7cc111af elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="7cc111af" data-element_type="widget" data-widget_type="theme-site-logo.default">
                         <div class="elementor-widget-container">
                             <style>
@@ -495,8 +501,10 @@
                                     vertical-align: middle;
                                     display: inline-block
                                 }
-                            </style> <a href="https://library.elementor.com/local-services-wireframe-4-flexbox">
-                                <img src="wp-content/uploads/sites/231/2022/08/logo.svg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /> </a>
+                            </style> 
+                            <a href="/">
+                                <img src="wp-content/uploads/sites/231/2022/08/logo.svg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" />
+                             </a>
                         </div>
                     </div>
                 </div>
