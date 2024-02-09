@@ -5,9 +5,9 @@
 				<div class="elementor-element elementor-element-4613b9e1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4613b9e1" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img src="wp-content/uploads/sites/231/2022/08/logo.svg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<p class="elementor-image-box-description">Summarize your business so the visitor can learn about your offerings from any page on your website.</p>
+								<figure class="elementor-image-box-img"><img src="https://codmsoftware.com/assect/upload/logo/logo-change-color.jpg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
+								<div class="elementor-image-box-content">
+									<p class="elementor-image-box-description">Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success. </p>
 							</div>
 						</div>
 					</div>
@@ -331,6 +331,7 @@
 									<span class="elementor-screen-only">Twitter</span>
 									<i class="fab fa-twitter"></i> </a>
 							</span>
+
 						</div>
 					</div>
 				</div>
@@ -390,7 +391,6 @@
 						</ul>
 					</div>
 				</div>
-			</div>
 			<div class="elementor-element elementor-element-2c0a5fa5 e-con-full e-con" data-id="2c0a5fa5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 				<div class="elementor-element elementor-element-3cf4c82c elementor-widget elementor-widget-google_maps" data-id="3cf4c82c" data-element_type="widget" data-widget_type="google_maps.default">
 					<div class="elementor-widget-container">
@@ -517,6 +517,17 @@
 			"print": {
 				"title": "Print"
 			}
+
+		};
+	</script>
+	<script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend.mine56c.js?ver=3.12.2' id='elementor-frontend-js'></script>
+	<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/elements-handlers.min0fca.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
+	<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/sticky/jquery.sticky.min0fca.js?ver=3.12.3' id='e-sticky-js'></script>
+	<!-- for including bootstrap -->
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+	<!-- for including bootstrap -->	
+
 		},
 		"facebook_sdk": {
 			"lang": "en_US",
@@ -656,6 +667,7 @@
 <script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend.mine56c.js?ver=3.12.2' id='elementor-frontend-js'></script>
 <script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/elements-handlers.min0fca.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
 <script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/sticky/jquery.sticky.min0fca.js?ver=3.12.3' id='e-sticky-js'></script>
+
 
 </body>
 

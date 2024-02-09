@@ -173,6 +173,7 @@
 		</div>
 		<div class="elementor-element elementor-element-d56296d e-con-boxed e-con" data-id="d56296d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
 			<div class="e-con-inner">
+				<img src="wp-content\uploads\sites\231\2022\08\indexbg.jpg">
 			</div>
 		</div>
 		<div class="elementor-element elementor-element-7224be0e e-con-boxed e-con" data-id="7224be0e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
@@ -695,7 +696,7 @@
 					<div class="elementor-widget-container">
 						<div class="elementor-cta">
 							<div class="elementor-cta__bg-wrapper">
-								<div class="elementor-cta__bg elementor-bg" style="background-image: url(wp-content/uploads/sites/231/2022/08/cta-img.jpg);"></div>
+								<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://images.unsplash.com/photo-1485217988980-11786ced9454?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);"></div>
 								<div class="elementor-cta__bg-overlay"></div>
 							</div>
 							<div class="elementor-cta__content">
