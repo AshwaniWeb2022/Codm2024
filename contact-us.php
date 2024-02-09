@@ -397,6 +397,7 @@
                     content: "" !important
                 }
                 </style>
+				<h2 class="fs-1 "> Contact US</h2> 
                 <form class="elementor-form" method="post" name="Contact Form">
                     <input type="hidden" name="post_id" value="50" />
                     <input type="hidden" name="form_id" value="4db6c19f" />
