@@ -532,17 +532,21 @@
         id='font-awesome-4-shim-js'></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/71.html" />
-    <link rel='shortlink' href='index.html' />
-    <link rel="alternate" type="application/json+oembed"
-        href="wp-json/embed/1.0/embed56ec.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
-    <link rel="alternate" type="text/xml+embed"
-        href="wp-json/embed/1.0/embed0c5.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
-    <meta name="generator"
-        content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 
-    <link rel="icon" href="wp-content/uploads/sites/231/2022/08/elementor_favicon.png" sizes="32x32" />
-    <link rel="icon" href="wp-content/uploads/sites/231/2022/08/elementor_favicon.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
+    <link rel='shortlink' href='index.php' />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed56ec.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede0c5.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
+    <meta name="generator" content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+
+    <!-- favicon icon  -->
+    <link rel="apple-touch-icon" sizes="180x180" href="wp-content/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="wp-content/favicon//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="wp-content/favicon//favicon-16x16.png">
+<link rel="manifest" href="wp-content/favicon//site.webmanifest">
+<link rel="mask-icon" href="wp-content/favicon//safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- favicon icon  -->
 
     <meta name="msapplication-TileImage"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
