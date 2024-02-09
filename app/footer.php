@@ -346,22 +346,22 @@
 						<div class="elementor-widget-container">
 							<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
 								<ul id="menu-1-613edb19" class="elementor-nav-menu sm-vertical">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.html" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us/index.html" class="elementor-item">About Us</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.html" class="elementor-item">Services</a></li>
-									<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.html" class="elementor-item">Blog</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us/index.html" class="elementor-item">Contact Us</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.html" class="elementor-item">Get a Quote</a></li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us.php" class="elementor-item">About Us</a></li>
+									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.html" class="elementor-item">Services</a></li> -->
+									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.html" class="elementor-item">Blog</a></li> -->
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us.php" class="elementor-item">Contact Us</a></li>
+									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.html" class="elementor-item">Get a Quote</a></li> -->
 								</ul>
 							</nav>
 							<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
 								<ul id="menu-2-613edb19" class="elementor-nav-menu sm-vertical">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.html" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us/index.html" class="elementor-item" tabindex="-1">About Us</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.html" class="elementor-item" tabindex="-1">Services</a></li>
-									<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.html" class="elementor-item" tabindex="-1">Blog</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us/index.html" class="elementor-item" tabindex="-1">Contact Us</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.html" class="elementor-item" tabindex="-1">Get a Quote</a></li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
+									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.html" class="elementor-item" tabindex="-1">Services</a></li> -->
+									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.html" class="elementor-item" tabindex="-1">Blog</a></li> -->
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a></li>
+									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.html" class="elementor-item" tabindex="-1">Get a Quote</a></li> -->
 								</ul>
 							</nav>
 						</div>
@@ -379,14 +379,13 @@
 							<ul class="elementor-icon-list-items">
 								<li class="elementor-icon-list-item">
 									<a href="https://library.elementor.com/cdn-cgi/l/email-protection#0d6e6263796c6e794d60747e647968236e6260">
-
-										<span class="elementor-icon-list-text">Email: <span class="__cf_email__" data-cfemail="fc9f9392889d9f88bc91858f958899d29f9391">[email&#160;protected]</span></span>
+										<span class="elementor-icon-list-text">Email: <span class="__cf_email__"> info@codmsoftware.com</span></span>
 									</a>
 								</li>
 								<li class="elementor-icon-list-item">
 									<a href="tel:123-456-7890">
 
-										<span class="elementor-icon-list-text">Phone: 123-456-7890</span>
+										<span class="elementor-icon-list-text">Phone: (+44) 0121 818 6924</span>
 									</a>
 								</li>
 							</ul>
@@ -422,16 +421,14 @@
 			<div class="e-con-inner">
 				<div class="elementor-element elementor-element-63b6d5d4 elementor-widget elementor-widget-heading" data-id="63b6d5d4" data-element_type="widget" data-widget_type="heading.default">
 					<div class="elementor-widget-container">
-						<p class="elementor-heading-title elementor-size-default">© All Rights Reserved.</p>
+						<p class="elementor-heading-title elementor-size-default"> © All Rights Reserved CodM Software.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</footer>
-
-
     <link rel='stylesheet' id='e-animations-css' href='wp-content/plugins/elementor-3.12.2/assets/lib/animations/animations.mine56c.css?ver=3.12.2' media='all' />
-	<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<!-- <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
 	<script src='wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
 	<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1' id='smartmenus-js'></script>
 	<script src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
