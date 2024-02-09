@@ -150,8 +150,8 @@
 						<div class="elementor-image-box-wrapper">
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Administrator.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">Salesforce Administrator </h4>
-								<p class="elementor-image-box-description">Job Title</p>
+								<h4 class="elementor-image-box-title">Sfdc Administrator </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
 					</div>
@@ -162,7 +162,7 @@
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Platform-App-Builder.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">platform app builder </h4>
-								<p class="elementor-image-box-description">Job Title</p>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
 					</div>
@@ -173,7 +173,7 @@
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Application-Architect.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">Application Architect</h4>
-								<p class="elementor-image-box-description">Job Title</p>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
 					</div>
@@ -184,7 +184,7 @@
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\B2C-Solution-Architect-2-1024x1004.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">B2C Solution Architect</h4>
-								<p class="elementor-image-box-description">Job Title</p>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
 					</div>
@@ -197,7 +197,7 @@
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\CPQ-Specialist.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">CPQ Specialist </h4>
-								<p class="elementor-image-box-description">Job Title</p>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
 					</div>
