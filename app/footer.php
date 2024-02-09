@@ -5,9 +5,9 @@
 					<div class="elementor-element elementor-element-4613b9e1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4613b9e1" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img src="wp-content/uploads/sites/231/2022/08/logo.svg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img src="https://codmsoftware.com/assect/upload/logo/logo-change-color.jpg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
-									<p class="elementor-image-box-description">Summarize your business so the visitor can learn about your offerings from any page on your website.</p>
+									<p class="elementor-image-box-description">Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success. </p>
 								</div>
 							</div>
 						</div>
@@ -317,7 +317,8 @@
 								<span class="elementor-grid-item">
 									<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3f1b7ac" target="_blank">
 										<span class="elementor-screen-only">Facebook-f</span>
-										<i class="fab fa-facebook-f"></i> </a>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+											<path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"/></svg></a>
 								</span>
 								<span class="elementor-grid-item">
 									<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-5c0ce3c" target="_blank">
@@ -330,7 +331,8 @@
 								<span class="elementor-grid-item">
 									<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132" target="_blank">
 										<span class="elementor-screen-only">Twitter</span>
-										<i class="fab fa-twitter"></i> </a>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+											<path d="M459.4 151.7c.3 4.5 .3 9.1 .3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53 51.7 63.7 129.3 105.3 216.4 109.8-1.6-7.8-2.6-15.9-2.6-24 0-57.8 46.8-104.9 104.9-104.9 30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3z"/></svg></a>
 								</span>
 							</div>
 						</div>
@@ -410,7 +412,7 @@
 								}
 							</style>
 							<div class="elementor-custom-embed">
-								<iframe loading="lazy" src="https://maps.google.com/maps?q=pace%20university&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" title="pace university" aria-label="pace university"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.1439124927406!2d-1.906749023934412!3d52.4765299720498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bd5f589ef0d5%3A0xca4de25613579339!2sSpaces%20-%20Birmingham%2C%20The%20Mailbox!5e0!3m2!1sen!2sin!4v1707474457027!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</div>
 						</div>
 					</div>
@@ -657,6 +659,9 @@
 	<script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend.mine56c.js?ver=3.12.2' id='elementor-frontend-js'></script>
 	<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/elements-handlers.min0fca.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
 	<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/sticky/jquery.sticky.min0fca.js?ver=3.12.3' id='e-sticky-js'></script>
-
+	<!-- for including bootstrap -->
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+	<!-- for including bootstrap -->	
 </body>
 </html>
