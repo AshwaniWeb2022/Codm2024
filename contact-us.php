@@ -78,6 +78,35 @@
                             </div>
                         </div>
 
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
+                                USA </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse " aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="accordionAddress">
+                                        <div style="float: left; width: 70%;">
+                                            <img src="https://codmsoftware.com/assect/upload/contact/flag-uk.webp" alt="uk Flag"><br />
+                                            <a href="#!" target="_blank" rel="noopener">
+                                                <span class="address-content"><br />Talent4world LLC<br /> 4501
+                                                    Nightland
+                                                    Dr Plano <br />
+                                                    TX75024,<br /> USA </span></a><br /><br />
+                                        </div>
+                                        <div style="float: right; width: 30%;"><img loading="lazy" loading="lazy" decoding="async" class="alignnone size-medium wp-image-15730" role="img" src="https://www.nickelfox.com/wp-content/uploads/2023/01/UKlocation.svg" alt="CodM India Office Address" width="154" height="133" />
+                                        </div>
+                                        <div class="footerMailPhoneIcon">
+                                            <!-- <i class="fa-solid fa-envelope"></i> -->
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">info@talent4world.com</a>
+                                        </div>
+                                        <div class="footerMailPhoneIcon">
+                                            <a href="tel:+44 7436934216" class="text-dark">+1(972)-945-5043</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
