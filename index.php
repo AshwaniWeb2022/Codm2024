@@ -147,14 +147,14 @@
 									font-size: 59px
 								}
 							</style>
-							<h1 class="elementor-heading-title elementor-size-default">This Headline Grabs<br>Visitors’ Attention</h1>
+							<h1 class="elementor-heading-title elementor-size-default">How can we help your business ?</h1>
 						</div>
 					</div>
 				</div>
 				<div class="elementor-element elementor-element-48ba4a30 e-con-full e-con" data-id="48ba4a30" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 					<div class="elementor-element elementor-element-342f3f1b elementor-widget elementor-widget-heading" data-id="342f3f1b" data-element_type="widget" data-widget_type="heading.default">
 						<div class="elementor-widget-container">
-							<h5 class="elementor-heading-title elementor-size-default">A short description introducing your business and the services to visitors.</h5>
+							<h5 class="elementor-heading-title elementor-size-default">We create ready-made websites, mobile applications and sophisticated services for online businesses</h5>
 						</div>
 					</div>
 					<div class="elementor-element elementor-element-20d2d8fc elementor-tablet-align-center elementor-mobile-align-center elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="20d2d8fc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="button.default">
@@ -180,24 +180,24 @@
 				<div class="elementor-element elementor-element-4fc66bb1 e-con-full e-con" data-id="4fc66bb1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 					<div class="elementor-element elementor-element-275e1bb4 elementor-invisible elementor-widget elementor-widget-image" data-id="275e1bb4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 						<div class="elementor-widget-container">
-							<img decoding="async" width="134" height="104" src="wp-content/uploads/sites/231/2022/08/cta-gallery3.jpg" class="attachment-large size-large wp-image-72" alt="" loading="lazy" />
+							<img decoding="async" width="134" height="104" src="wp-content\uploads\sites\231\2022\08\hand-drawn-business-planning.avif" class="attachment-large size-large wp-image-72" alt="" loading="lazy" />
 						</div>
 					</div>
 					<div class="elementor-element elementor-element-75408383 elementor-invisible elementor-widget elementor-widget-image" data-id="75408383" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="image.default">
 						<div class="elementor-widget-container">
-							<img decoding="async" width="300" height="231" src="wp-content/uploads/sites/231/2022/08/cta-gallery2.jpg" class="attachment-large size-large wp-image-73" alt="" loading="lazy" />
+							<img decoding="async" width="300" height="231" src="wp-content\uploads\sites\231\2022\08\chart.avif" class="attachment-large size-large wp-image-73" alt="" loading="lazy" />
 						</div>
 					</div>
 				</div>
 				<div class="elementor-element elementor-element-3400ff5f e-con-full e-con" data-id="3400ff5f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 					<div class="elementor-element elementor-element-356a1d84 elementor-invisible elementor-widget elementor-widget-image" data-id="356a1d84" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="image.default">
 						<div class="elementor-widget-container">
-							<img decoding="async" width="407" height="352" src="wp-content/uploads/sites/231/2022/08/cta-gallery1.jpg" class="attachment-large size-large wp-image-74" alt="" loading="lazy" />
+							<img decoding="async" width="407" height="352" src="wp-content\uploads\sites\231\2022\08\workers.avif" class="attachment-large size-large wp-image-74" alt="" loading="lazy" />
 						</div>
 					</div>
 					<div class="elementor-element elementor-element-1b55eda elementor-invisible elementor-widget elementor-widget-image" data-id="1b55eda" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="image.default">
 						<div class="elementor-widget-container">
-							<img decoding="async" width="134" height="104" src="wp-content/uploads/sites/231/2022/08/cta-gallery3.jpg" class="attachment-large size-large wp-image-72" alt="" loading="lazy" />
+							<img decoding="async" width="134" height="104" src="wp-content\uploads\sites\231\2022\08\website.avif" class="attachment-large size-large wp-image-72" alt="" loading="lazy" />
 						</div>
 					</div>
 				</div>
@@ -208,9 +208,9 @@
 							<div class="elementor-cta">
 								<div class="elementor-cta__content">
 
-									<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">A Title to Turn the Visitor Into a Lead</h2>
+									<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Expand Your Business With Our CRM Tools And Project Management </h2>
 									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-										This is your chance to emphasize why<br>the visitor should contact you right now. </div>
+									Salesforce is a popular CRM tool for support,<br>Sales, and marketing teams worldwide.</div>
 
 									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
 										<a class="elementor-cta__button elementor-button elementor-size-md" href="contact-us/index.html">
@@ -232,7 +232,7 @@
 				</div>
 				<div class="elementor-element elementor-element-66ef376a elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="66ef376a" data-element_type="widget" data-widget_type="heading.default">
 					<div class="elementor-widget-container">
-						<h5 class="elementor-heading-title elementor-size-default">This text briefly introduces your main services to your visitors.</h5>
+						<h5 class="elementor-heading-title elementor-size-default">We offer customized solutions for various industries.</h5>
 					</div>
 				</div>
 				<div class="elementor-element elementor-element-4674314f e-con-full e-con" data-id="4674314f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
@@ -303,10 +303,10 @@
 								}
 							</style>
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content/uploads/sites/231/2022/08/Image_Placeholder-13122021.jpg" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content\uploads\sites\231\2022\08\api integration.avif" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">Service 1</h4>
-									<p class="elementor-image-box-description">A short description of the service and how the visitor will benefit from it.</p>
+									<h4 class="elementor-image-box-title">API Integration </h4>
+									<p class="elementor-image-box-description">links Software for optimised data exchange, increasing efficiency and enabling seamless connectivity</p>
 								</div>
 							</div>
 						</div>
@@ -314,10 +314,10 @@
 					<div class="elementor-element elementor-element-265350fe elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="265350fe" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content/uploads/sites/231/2022/08/Image_Placeholder-13122021.jpg" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content\uploads\sites\231\2022\08\data migration.avif" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">Service 2</h4>
-									<p class="elementor-image-box-description">A short description of the service and how the visitor will benefit from it.</p>
+									<h4 class="elementor-image-box-title">Data Migration</h4>
+									<p class="elementor-image-box-description">Seamless transfer of information between systems for smooth transitions and business continuity</p>
 								</div>
 							</div>
 						</div>
@@ -325,10 +325,10 @@
 					<div class="elementor-element elementor-element-7975a0de elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7975a0de" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content/uploads/sites/231/2022/08/Image_Placeholder-13122021.jpg" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content\uploads\sites\231\2022\08\manufacturing cloud.avif" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">Service 3</h4>
-									<p class="elementor-image-box-description">A short description of the service and how the visitor will benefit from it.</p>
+									<h4 class="elementor-image-box-title">Manufacturing Cloud</h4>
+									<p class="elementor-image-box-description">Salesforce solution for real-time transparency and optimization in manufacturing processes</p>
 								</div>
 							</div>
 						</div>
@@ -336,10 +336,10 @@
 					<div class="elementor-element elementor-element-13aeb549 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="13aeb549" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content/uploads/sites/231/2022/08/Image_Placeholder-13122021.jpg" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img decoding="async" width="683" height="600" src="wp-content\uploads\sites\231\2022\08\consulting service.avif" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">Service 4</h4>
-									<p class="elementor-image-box-description">A short description of the service and how the visitor will benefit from it.</p>
+									<h4 class="elementor-image-box-title">Consulting Services</h4>
+									<p class="elementor-image-box-description">consulting for individuals or businesses by experts who provide strategic advice on how to achieve goals and overcome challenges</p>
 								</div>
 							</div>
 						</div>
@@ -348,7 +348,7 @@
 				<div class="elementor-element elementor-element-258b4811 elementor-align-center elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="258b4811" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-button-wrapper">
-							<a href="services/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+							<a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 								<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">View all services</span>
 								</span>
@@ -380,10 +380,10 @@
 								<div class="elementor-icon-box-content">
 									<h4 class="elementor-icon-box-title">
 										<span>
-											benefit 1 </span>
+										360-Degree Customer View</span>
 									</h4>
 									<p class="elementor-icon-box-description">
-										A short description of the benefit. </p>
+									Comprehensive insights into customer behavior, preferences and interactions in one place.</p>
 								</div>
 							</div>
 						</div>
@@ -401,10 +401,10 @@
 								<div class="elementor-icon-box-content">
 									<h4 class="elementor-icon-box-title">
 										<span>
-											benefit 2 </span>
+										Co-Operation In Real Time</span>
 									</h4>
 									<p class="elementor-icon-box-description">
-										A short description of the benefit. </p>
+									Facilitates teamwork by providing a common platform for sales, marketing and support teams.</p>
 								</div>
 							</div>
 						</div>
@@ -422,10 +422,10 @@
 								<div class="elementor-icon-box-content">
 									<h4 class="elementor-icon-box-title">
 										<span>
-											benefit 3 </span>
+										Integration Of Social Media</span>
 									</h4>
 									<p class="elementor-icon-box-description">
-										A short description of the benefit. </p>
+									Integrates with social platforms for a deeper understanding of customer sentiment and engagement.</p>
 								</div>
 							</div>
 						</div>
@@ -443,10 +443,10 @@
 								<div class="elementor-icon-box-content">
 									<h4 class="elementor-icon-box-title">
 										<span>
-											benefit 4 </span>
+										Automation Of The Workflow</span>
 									</h4>
 									<p class="elementor-icon-box-description">
-										A short description of the benefit. </p>
+									Automates complex workflows, reduces manual intervention and increases efficiency.</p>
 								</div>
 							</div>
 						</div>
@@ -477,12 +477,12 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-														“A testimonial from a client who benefited from your product or service. Testimonials can be a highly effective way of establishing credibility and increasing your company's reputation.” </div>
-													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Client Name</span></cite>
+													"Working with [CodM] was a turning point for us. Their expertise in building customised CRM solutions has transformed our customer interactions. We now have a unified platform that has streamlined our processes, resulting in improved efficiency and ultimately increased revenue. The team's dedication and innovative approach has exceeded our expectations”</div>
+													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">John H., CEO Of Tech Innovators Inc</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
 													<div class="elementor-testimonial__image">
-														<img decoding="async" src="wp-content/uploads/sites/231/2022/08/testiminials-pic-light.jpg" alt="Client Name">
+														<img decoding="async" src="wp-content\uploads\sites\231\2022\08\avtar3.avif" alt="Client Name">
 													</div>
 												</div>
 											</div>
@@ -501,12 +501,12 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-														“A testimonial from a client who benefited from your product or service. Testimonials can be a highly effective way of establishing credibility and increasing your company's reputation.” </div>
-													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Client Name</span></cite>
+													“Thanks to [CodM], our marketing efforts skyrocketed. The personalized CRM solution enhanced our targeting, resulting in higher conversion rates. Smooth transition, user-friendly interface—our marketing team is now more agile than ever” </div>
+													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Dynamic Solutions Ltd</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
 													<div class="elementor-testimonial__image">
-														<img decoding="async" src="wp-content/uploads/sites/231/2022/08/testiminials-pic-light.jpg" alt="Client Name">
+														<img decoding="async" src="wp-content\uploads\sites\231\2022\08\beautiful-young-woman.avif" alt="Client Name">
 													</div>
 												</div>
 											</div>
@@ -525,12 +525,12 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-														“A testimonial from a client who benefited from your product or service. Testimonials can be a highly effective way of establishing credibility and increasing your company's reputation.” </div>
-													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Client Name</span></cite>
+													“[CodM] has given our company a strategic boost. Customised solutions improved our workflows and supply chain management. Valuable insights for better decision making. Their understanding of our business needs sets them apart” </div>
+													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Precision Manufacturing Group</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
 													<div class="elementor-testimonial__image">
-														<img decoding="async" src="wp-content/uploads/sites/231/2022/08/testiminials-pic-light.jpg" alt="Client Name">
+														<img decoding="async" src="wp-content\uploads\sites\231\2022\08\avtar 2.avif" alt="Client Name">
 													</div>
 												</div>
 											</div>
@@ -549,12 +549,12 @@
 											<div class="elementor-testimonial">
 												<div class="elementor-testimonial__content">
 													<div class="elementor-testimonial__text">
-														“A testimonial from a client who benefited from your product or service. Testimonials can be a highly effective way of establishing credibility and increasing your company's reputation.” </div>
-													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Client Name</span></cite>
+													“[CodM] transformed our customer service. Their CRM solution centralized information, enabling prompt and personalized support. Increased customer satisfaction is now our norm. They've been a true partner in our journey towards service excellence.” </div>
+													<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Stellar Services Corp</span></cite>
 												</div>
 												<div class="elementor-testimonial__footer">
 													<div class="elementor-testimonial__image">
-														<img decoding="async" src="wp-content/uploads/sites/231/2022/08/testiminials-pic-light.jpg" alt="Client Name">
+														<img decoding="async" src="wp-content\uploads\sites\231\2022\08\avtar 1.avif" alt="Client Name">
 													</div>
 												</div>
 											</div>
@@ -605,8 +605,8 @@
 							<div class="elementor-counter">
 								<div class="elementor-counter-number-wrapper">
 									<span class="elementor-counter-number-prefix"></span>
-									<span class="elementor-counter-number" data-duration="2000" data-to-value="30" data-from-value="0" data-delimiter=",">0</span>
-									<span class="elementor-counter-number-suffix">k</span>
+									<span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">0</span>
+									<span class="elementor-counter-number-suffix">+</span>
 								</div>
 							</div>
 						</div>
@@ -615,8 +615,7 @@
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">lorem ipsum</h4>
-									<p class="elementor-image-box-description">Donec pede justo, fringilla vitae, eleifend acer sem</p>
+									<h4 class="elementor-image-box-title">Projects</h4>
 								</div>
 							</div>
 						</div>
@@ -628,8 +627,8 @@
 							<div class="elementor-counter">
 								<div class="elementor-counter-number-wrapper">
 									<span class="elementor-counter-number-prefix"></span>
-									<span class="elementor-counter-number" data-duration="2000" data-to-value="2.5" data-from-value="0" data-delimiter=",">0</span>
-									<span class="elementor-counter-number-suffix">k</span>
+									<span class="elementor-counter-number" data-duration="2000" data-to-value="3" data-from-value="0" data-delimiter=",">0</span>
+									<span class="elementor-counter-number-suffix">+</span>
 								</div>
 							</div>
 						</div>
@@ -638,8 +637,7 @@
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">lorem ipsum</h4>
-									<p class="elementor-image-box-description">Donec pede justo, fringilla vitae, eleifend acer sem</p>
+									<h4 class="elementor-image-box-title">Countries</h4>
 								</div>
 							</div>
 						</div>
@@ -651,8 +649,8 @@
 							<div class="elementor-counter">
 								<div class="elementor-counter-number-wrapper">
 									<span class="elementor-counter-number-prefix"></span>
-									<span class="elementor-counter-number" data-duration="2000" data-to-value="400" data-from-value="0" data-delimiter=",">0</span>
-									<span class="elementor-counter-number-suffix"></span>
+									<span class="elementor-counter-number" data-duration="2000" data-to-value="14" data-from-value="0" data-delimiter=",">0</span>
+									<span class="elementor-counter-number-suffix">+</span>
 								</div>
 							</div>
 						</div>
@@ -661,8 +659,7 @@
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">lorem ipsum</h4>
-									<p class="elementor-image-box-description">Donec pede justo, fringilla vitae, eleifend acer sem</p>
+									<h4 class="elementor-image-box-title">Repeat Business</h4>
 								</div>
 							</div>
 						</div>
@@ -674,8 +671,8 @@
 							<div class="elementor-counter">
 								<div class="elementor-counter-number-wrapper">
 									<span class="elementor-counter-number-prefix"></span>
-									<span class="elementor-counter-number" data-duration="2000" data-to-value="550" data-from-value="0" data-delimiter=",">0</span>
-									<span class="elementor-counter-number-suffix"></span>
+									<span class="elementor-counter-number" data-duration="2000" data-to-value="10" data-from-value="0" data-delimiter=",">0</span>
+									<span class="elementor-counter-number-suffix">+</span>
 								</div>
 							</div>
 						</div>
@@ -684,8 +681,7 @@
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
 								<div class="elementor-image-box-content">
-									<h4 class="elementor-image-box-title">lorem ipsum</h4>
-									<p class="elementor-image-box-description">Donec pede justo, fringilla vitae, eleifend acer sem</p>
+									<h4 class="elementor-image-box-title">Certificates</h4>
 								</div>
 							</div>
 						</div>
@@ -704,9 +700,9 @@
 							</div>
 							<div class="elementor-cta__content">
 
-								<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">A Key Benefit You Want to Emphasize</h2>
+								<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Customised CRM Solutions For Your Unique Success Story</h2>
 								<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-									Tell the visitor how you will deliver this benefit if they decide to work with you. </div>
+								Our commitment doesn't end with development; we're your reliable partner for continuous CRM support.</div>
 
 								<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
 									<a class="elementor-cta__button elementor-button elementor-size-md" href="about-us/index.html">
