@@ -618,7 +618,7 @@
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
                                         <a href="index.php" aria-current="page"
-                                            class="elementor-item elementor-item-active">Home</a></li>
+                                            class="elementor-item">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item">About Us</a></li>
                                     <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.html" class="elementor-item">Services</a></li> -->
@@ -639,7 +639,7 @@
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
                                         <a href="index.php" aria-current="page"
-                                            class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
+                                            class="elementor-item" tabindex="-1">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
                                     <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.html" class="elementor-item" tabindex="-1">Services</a></li> -->
