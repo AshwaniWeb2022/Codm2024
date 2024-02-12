@@ -348,7 +348,7 @@
 						<div class="elementor-widget-container">
 							<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
 								<ul id="menu-1-613edb19" class="elementor-nav-menu sm-vertical">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item ">Home</a></li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us.php" class="elementor-item">About Us</a></li>
 									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.html" class="elementor-item">Services</a></li> -->
 									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.html" class="elementor-item">Blog</a></li> -->
@@ -358,7 +358,7 @@
 							</nav>
 							<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
 								<ul id="menu-2-613edb19" class="elementor-nav-menu sm-vertical">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item " tabindex="-1">Home</a></li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
 									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.html" class="elementor-item" tabindex="-1">Services</a></li> -->
 									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.html" class="elementor-item" tabindex="-1">Blog</a></li> -->
