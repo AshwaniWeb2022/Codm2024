@@ -25,7 +25,7 @@
     <meta name="description" content="CodM Software Pvt. Ltd. is a certified Salesforce Consulting Partner.">
     <!--Description for Google bot  -->
     <!-- 
-<meta property="og:url" content="index.html" />
+<meta property="og:url" content="index.php" />
 <meta property="og:site_name" content="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
 <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/Home-Page.jpg" />
 <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/Home-Page.jpg" />
@@ -37,8 +37,8 @@
 <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/Home-Page.jpg" /> -->
     <!-- / Yoast SEO plugin. -->
 
-    <!-- <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed" href="comments/feed/index.html" /> -->
+    <!-- <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed" href="comments/feed/index.php" /> -->
 
     <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minae48.css?ver=6.2'
         media='all' />
@@ -530,12 +530,12 @@
     <script src='wp-includes/js/jquery/jquery-migrate.min6b00.js?ver=3.4.0' id='jquery-migrate-js'></script>
     <script src='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/js/v4-shims.mine56c.js?ver=3.12.2'
         id='font-awesome-4-shim-js'></script>
-    <link rel="https://api.w.org/" href="wp-json/index.html" />
-    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/71.html" />
+    <link rel="https://api.w.org/" href="wp-json/index.php" />
+    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/71.php" />
 
     <link rel='shortlink' href='index.php' />
-    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed56ec.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede0c5.html?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
+    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed56ec.php?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede0c5.php?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
     <meta name="generator" content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 
     <!-- favicon icon  -->
@@ -621,8 +621,8 @@
                                             class="elementor-item">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item">About Us</a></li>
-                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.html" class="elementor-item">Services</a></li> -->
-                                    <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.html" class="elementor-item">Blog</a></li> -->
+                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.php" class="elementor-item">Services</a></li> -->
+                                    <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item">Contact Us</a></li>
                                 </ul>
@@ -642,8 +642,8 @@
                                             class="elementor-item" tabindex="-1">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
-                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.html" class="elementor-item" tabindex="-1">Services</a></li> -->
-                                    <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.html" class="elementor-item" tabindex="-1">Blog</a></li> -->
+                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.php" class="elementor-item" tabindex="-1">Services</a></li> -->
+                                    <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a>
                                     </li>
@@ -651,12 +651,12 @@
                             </nav>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-23149d1 elementor-mobile-align-right elementor-widget__width-auto elementor-tablet-align-right elementor-align-right elementor-widget elementor-widget-button"
+                    <!-- <div class="elementor-element elementor-element-23149d1 elementor-mobile-align-right elementor-widget__width-auto elementor-tablet-align-right elementor-align-right elementor-widget elementor-widget-button"
                         data-id="23149d1" data-element_type="widget"
                         data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a href="get-a-quote/index.html"
+                                <a href="get-a-quote/index.php"
                                     class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-text">Get a Quote</span>
@@ -664,7 +664,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
