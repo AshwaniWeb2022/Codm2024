@@ -1,4 +1,4 @@
-<?php include 'app\header.php';?>
+<?php include 'app/header.php';?>
 	<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-dark-grayscale">
@@ -716,8 +716,9 @@
 			</div>
 		</div>
 	</div>
-
-	<?php include 'app\footer.php';?>
-	<!-- <?php include 'app\popup.php';?> -->
+	<!-- footer section  -->
+	<?php include 'app/footer.php';?>
+	
+	<!-- <?php include 'app/popup.php';?> -->
 
 	

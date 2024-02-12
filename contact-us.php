@@ -1,4 +1,4 @@
-<?php include 'app\header.php';?>
+<?php include 'app/header.php';?>
 <!-- Accordion starts -->
 <div data-elementor-type="wp-page" data-elementor-id="50" class="elementor elementor-50">
     <div class="elementor-element elementor-element-7faf9f0c e-con-full e-con" data-id="7faf9f0c"
@@ -571,4 +571,4 @@
 			</div>
 		</div>
 	</div> -->
-<?php include 'app\footer.php';?>
+<?php include 'app/footer.php';?>
