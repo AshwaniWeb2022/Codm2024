@@ -597,8 +597,8 @@
                                 vertical-align: middle;
                                 display: inline-block
                             }
-                            </style> <a href="https://library.elementor.com/local-services-wireframe-4-flexbox">
-                                <img src="https://codmsoftware.com/assect/upload/logo/logo-change-color.jpg"
+                            </style> <a href="index.php">
+                                <img src="logo-change-color.jpg"
                                     class="attachment-full size-full wp-image-11" alt="" loading="lazy" /> </a>
                         </div>
                     </div>
