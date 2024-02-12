@@ -1,4 +1,4 @@
-<?php include 'app\header.php';?>
+<?php include 'app/header.php';?>
 <div data-elementor-type="wp-page" data-elementor-id="61" class="elementor elementor-61">
 	<div class="elementor-element elementor-element-7cf7f80e e-con-boxed e-con" data-id="7cf7f80e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 		<div class="e-con-inner">
@@ -607,4 +607,4 @@
 		</div>
 	</div>
 </div>
-<?php include 'app\footer.php';?>
+<?php include 'app/footer.php';?>
