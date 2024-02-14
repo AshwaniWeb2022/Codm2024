@@ -539,11 +539,15 @@
     <meta name="generator" content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 
     <!-- favicon icon  -->
-    <link rel="apple-touch-icon" sizes="180x180" href="wp-content/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="wp-content/favicon//favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="wp-content/favicon//favicon-16x16.png">
-<link rel="manifest" href="wp-content/favicon//site.webmanifest">
-<link rel="mask-icon" href="wp-content/favicon//safari-pinned-tab.svg" color="#5bbad5">
+    
+<link rel="icon" type="image/png" sizes="512x512" href="wp-content\favicon_io\android-chrome-512x512.png">
+<link rel="icon" type="image/png" sizes="192x192" href="wp-content\favicon_io\android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="wp-content\favicon_io\apple-touch-icon.png">    
+<link rel="icon" type="image/png" sizes="32x32" href="wp-content\favicon_io\favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="wp-content\favicon_io\favicon-16x16.png">
+
+<link rel="manifest" href="wp-content\favicon_io\site.webmanifest">
+<link rel="mask-icon" href="wp-content\favicon\safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <!-- favicon icon  -->
@@ -569,7 +573,7 @@
     }
     </style>
     <header data-elementor-type="header" data-elementor-id="18"
-        class="elementor elementor-18 elementor-location-header">
+        class="shadow-sm p-3 mb-2 bg-body-tertiary rounded elementor elementor-18 elementor-location-header">
         <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd"
             data-element_type="container"
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
