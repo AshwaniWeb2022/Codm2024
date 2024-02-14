@@ -84,7 +84,7 @@
                                 </div>
                                 <div class="footerMailPhoneIcon">
                                     <!-- <i class="fa-solid fa-phone text-info"></i> -->
-                                    <a href="tel:+44 7436934216" class="text-dark">+44 7436934216</a>
+                                    <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
                                 </div>
                                 <div class="footerMailPhoneIcon">
                                     <!-- <i class="fa-sharp fa-solid fa-envelope text-info"></i> -->
