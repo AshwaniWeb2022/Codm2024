@@ -185,7 +185,7 @@
     </div>
 	
     <!-- nav bar ends -->
-    <!-- image -->
+    <!-- Industries sections starts -->
     <div data-elementor-type="footer" data-elementor-id="999"
         class="elementor elementor-999 elementor-location-footer">
         <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
@@ -269,7 +269,7 @@
                 </div>
             </div>
 		</div>
-        <!-- carousel ends -->
+        <!-- industries carousel ends -->
         <div class="elementor-element elementor-element-7224be0e e-con-boxed e-con" data-id="7224be0e"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
             <div class="e-con-inner">
@@ -813,6 +813,8 @@
             </div>
         </div>
         <!-- Client section ends -->
+
+        <!-- counter section starts  -->
         <div class="elementor-element elementor-element-2938523d e-con-boxed e-con" data-id="2938523d"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
             <div class="e-con-inner">
@@ -906,7 +908,7 @@
                             <div class="elementor-counter">
                                 <div class="elementor-counter-number-wrapper">
                                     <span class="elementor-counter-number-prefix"></span>
-                                    <span class="elementor-counter-number" data-duration="2000" data-to-value="14"
+                                    <span class="elementor-counter-number" data-duration="2000" data-to-value="12"
                                         data-from-value="0" data-delimiter=",">0</span>
                                     <span class="elementor-counter-number-suffix">+</span>
                                 </div>
@@ -932,7 +934,7 @@
                             <div class="elementor-counter">
                                 <div class="elementor-counter-number-wrapper">
                                     <span class="elementor-counter-number-prefix"></span>
-                                    <span class="elementor-counter-number" data-duration="2000" data-to-value="10"
+                                    <span class="elementor-counter-number" data-duration="2000" data-to-value="25"
                                         data-from-value="0" data-delimiter=",">0</span>
                                     <span class="elementor-counter-number-suffix">+</span>
                                 </div>
@@ -961,7 +963,7 @@
                         <div class="elementor-cta">
                             <div class="elementor-cta__bg-wrapper">
                                 <div class="elementor-cta__bg elementor-bg"
-                                    style="background-image: url(https://images.unsplash.com/photo-1485217988980-11786ced9454?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);">
+                                    style="background-image: url(wp-content/uploads/sites/231/2022/08/photo-1485217988980-11786ced9454.jpg);">
                                 </div>
                                 <div class="elementor-cta__bg-overlay"></div>
                             </div>
