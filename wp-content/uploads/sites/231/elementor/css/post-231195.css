@@ -210,6 +210,7 @@ body:not(.rtl) .elementor-23 .elementor-element.elementor-element-4d52af14 .elem
 
 .elementor-23 .elementor-element.elementor-element-3cf4c82c iframe {
     height: 245px;
+    filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg ) !important;
 }
 
 .elementor-23 .elementor-element.elementor-element-bc7c86 {

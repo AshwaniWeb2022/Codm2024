@@ -5,7 +5,7 @@
 					<div class="elementor-element elementor-element-4613b9e1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4613b9e1" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
-								<figure class="elementor-image-box-img"><img src="https://codmsoftware.com/assect/upload/logo/logo-change-color.jpg" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
+								<figure class="elementor-image-box-img"><img src="wp-content\uploads\sites\231\2022\08\Logo 1.png" class="attachment-full size-full wp-image-11" alt="" loading="lazy" /></figure>
 								<div class="elementor-image-box-content">
 									<p class="elementor-image-box-description">Boost your business with our customised CRM solutions. Optimised processes, improved customer relationships and scalable growth – we deliver innovations for your success. </p>
 								</div>
@@ -315,21 +315,22 @@
 							</style>
 							<div class="elementor-social-icons-wrapper elementor-grid">
 								<span class="elementor-grid-item">
-									<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3f1b7ac" target="_blank">
-										<span class="elementor-screen-only">Facebook-f</span>
+									<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3f1b7ac" href="https://www.linkedin.com/company/codmsoftware/" target="_blank">
+										<span class="elementor-screen-only">Linked In</span>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+											<path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/>
+										</svg>
+								</span>
+								<span class="elementor-grid-item">
+									<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-5c0ce3c" href="mailto:info@codmsoftware.com" target="_blank">
+										<span class="elementor-screen-only">Email</span>
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-											<path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"/></svg></a>
+											<path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+										</svg> 
+									</a>
 								</span>
 								<span class="elementor-grid-item">
-									<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-5c0ce3c" target="_blank">
-										<span class="elementor-screen-only"></span>
-										<svg xmlns="http://www.w3.org/2000/svg" id="aaf4d88f-6908-42b9-b3d6-5d6a3ec06a43" data-name="Layer 1" width="27" height="26" viewBox="0 0 27 26">
-											<path d="M26.9922,13.12c0-1.952.0071-3.904-.0054-5.856a7.4912,7.4912,0,0,0-.12-1.3338,6.9762,6.9762,0,0,0-2.4989-4.1911,7.3149,7.3149,0,0,0-4.73-1.7279c-4.031-.02-8.0623-.0061-12.0935-.0071a7.347,7.347,0,0,0-3.6653.907,6.9367,6.9367,0,0,0-3.85,6.2265C-.025,11.0332.0121,14.93.0169,18.8272a6.5069,6.5069,0,0,0,.8908,3.3475A7.2785,7.2785,0,0,0,7.419,25.9708c4.0565.0558,8.1145.0148,12.1719.0131a7.6378,7.6378,0,0,0,4.9015-1.8408,6.9218,6.9218,0,0,0,2.4928-5.276C27.0143,16.9517,26.9915,15.0354,26.9922,13.12ZM13.4174,20.21a7.3625,7.3625,0,0,1-7.4061-7.2182,7.3505,7.3505,0,0,1,7.4992-7.2115,7.3516,7.3516,0,0,1,7.4852,7.2146A7.37,7.37,0,0,1,13.4174,20.21ZM22.4962,5.7791a1.48,1.48,0,0,1-1.5005-1.4476,1.5014,1.5014,0,0,1,3-.0009A1.481,1.481,0,0,1,22.4962,5.7791Z" transform="translate(0 0)" style="fill-rule:evenodd"></path>
-											<path d="M13.4969,8.3571a4.7331,4.7331,0,0,0-4.8183,4.6445,4.74,4.74,0,0,0,4.8241,4.6413,4.74,4.74,0,0,0,4.8187-4.6466A4.7342,4.7342,0,0,0,13.4969,8.3571Z" transform="translate(0 0)" style="fill-rule:evenodd"></path>
-										</svg> </a>
-								</span>
-								<span class="elementor-grid-item">
-									<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132" target="_blank">
+									<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132" href="https://x.com/CodmSoftwa?s=20" target="_blank">
 										<span class="elementor-screen-only">Twitter</span>
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 											<path d="M459.4 151.7c.3 4.5 .3 9.1 .3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53 51.7 63.7 129.3 105.3 216.4 109.8-1.6-7.8-2.6-15.9-2.6-24 0-57.8 46.8-104.9 104.9-104.9 30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3z"/></svg></a>
@@ -381,11 +382,11 @@
 							<ul class="elementor-icon-list-items">
 								<li class="elementor-icon-list-item">
 									<a href="https://library.elementor.com/cdn-cgi/l/email-protection#0d6e6263796c6e794d60747e647968236e6260">
-										<span class="elementor-icon-list-text">Email: <span class="__cf_email__"> info@codmsoftware.com</span></span>
+										<span class="elementor-icon-list-text">Email:info@codmsoftware.com</span>
 									</a>
 								</li>
 								<li class="elementor-icon-list-item">
-									<a href="tel:123-456-7890">
+									<a href="tel:(+44) 0121 818 6924">
 
 										<span class="elementor-icon-list-text">Phone: (+44) 0121 818 6924</span>
 									</a>
