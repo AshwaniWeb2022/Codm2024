@@ -17,7 +17,7 @@
     --gap: 32px;
     --background-transition: 0.3s;
     --padding-top: 0%;
-    --padding-right: 23%;
+    --padding-right: 10%;
     --padding-bottom: 0%;
     --padding-left: 0%
 }
@@ -264,7 +264,7 @@ body:not(.rtl) .elementor-23 .elementor-element.elementor-element-4d52af14 .elem
     .elementor-23 .elementor-element.elementor-element-1fd26ddc {
         --gap: 30px;
         --padding-top: 0%;
-        --padding-right: 4%;
+        --padding-right: 2%;
         --padding-bottom: 0%;
         --padding-left: 0%
     }
@@ -336,7 +336,7 @@ body:not(.rtl) .elementor-23 .elementor-element.elementor-element-4d52af14 .elem
 @media(max-width:767px) {
     .elementor-23 .elementor-element.elementor-element-283b119f {
         --padding-top: 20%;
-        --padding-right: 6%;
+        --padding-right: 19% !important;
         --padding-bottom: 20%;
         --padding-left: 6%
     }
