@@ -1,7 +1,7 @@
 <footer data-elementor-type="footer" data-elementor-id="23" class="elementor elementor-23 elementor-location-footer">
 		<div class="elementor-element elementor-element-283b119f e-con-boxed e-con" data-id="283b119f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 			<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1fd26ddc e-con-full e-con" data-id="1fd26ddc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-1fd26ddc e-con-full e-con" data-id="1fd26ddc" data-element_type="container" >
 					<div class="elementor-element elementor-element-4613b9e1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4613b9e1" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
@@ -382,8 +382,12 @@
 							<link rel="stylesheet" href="wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-list.min.css">
 							<ul class="elementor-icon-list-items">
 								<li class="elementor-icon-list-item">
+
 									<a href="">
-										<span class="elementor-icon-list-text">Email:info@codmsoftware.com</span>
+										<span class="elementor-icon-list-text">Email:
+                      info@codmsoftware.com</span>
+
+						
 									</a>
 								</li>
 								<li class="elementor-icon-list-item">
