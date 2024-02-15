@@ -320,6 +320,7 @@
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
 											<path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/>
 										</svg>
+									</a>
 								</span>
 								<span class="elementor-grid-item">
 									<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-5c0ce3c" href="mailto:info@codmsoftware.com" target="_blank">
@@ -330,7 +331,7 @@
 									</a>
 								</span>
 								<span class="elementor-grid-item">
-									<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132" href="https://x.com/CodmSoftwa?s=20" target="_blank">
+									<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132" href="https://twitter.com/CodmSoftwa?s=20" target="_blank">
 										<span class="elementor-screen-only">Twitter</span>
 										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 											<path d="M459.4 151.7c.3 4.5 .3 9.1 .3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53 51.7 63.7 129.3 105.3 216.4 109.8-1.6-7.8-2.6-15.9-2.6-24 0-57.8 46.8-104.9 104.9-104.9 30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3z"/></svg></a>
@@ -351,7 +352,7 @@
 								<ul id="menu-1-613edb19" class="elementor-nav-menu sm-vertical">
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item ">Home</a></li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us.php" class="elementor-item">About Us</a></li>
-									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.php" class="elementor-item">Services</a></li> -->
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services.php" class="elementor-item">Services</a></li>
 									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us.php" class="elementor-item">Contact Us</a></li>
 									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.php" class="elementor-item">Get a Quote</a></li> -->
@@ -361,7 +362,7 @@
 								<ul id="menu-2-613edb19" class="elementor-nav-menu sm-vertical">
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-93"><a href="index.php" aria-current="page" class="elementor-item " tabindex="-1">Home</a></li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
-									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services/index.php" class="elementor-item" tabindex="-1">Services</a></li> -->
+									 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
 									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a></li>
 									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.php" class="elementor-item" tabindex="-1">Get a Quote</a></li> -->
@@ -381,7 +382,7 @@
 							<link rel="stylesheet" href="wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-list.min.css">
 							<ul class="elementor-icon-list-items">
 								<li class="elementor-icon-list-item">
-									<a href="https://library.elementor.com/cdn-cgi/l/email-protection#0d6e6263796c6e794d60747e647968236e6260">
+									<a href="">
 										<span class="elementor-icon-list-text">Email:info@codmsoftware.com</span>
 									</a>
 								</li>
@@ -663,6 +664,37 @@
 	<!-- for including bootstrap -->
 	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+
 	<!-- for including bootstrap -->
+<!-- for services page -->
+<link rel='stylesheet' id='e-animations-css' href='../wp-content/plugins/elementor-3.12.2/assets/lib/animations/animations.mine56c.css?ver=3.12.2' media='all' />
+<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src='wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
+<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/webpack-pro.runtime.min0fca.js?ver=3.12.3' id='elementor-pro-webpack-runtime-js'></script>
+<script src='wp-content/plugins/elementor-3.12.2/assets/js/webpack.runtime.mine56c.js?ver=3.12.2' id='elementor-webpack-runtime-js'></script>
+<script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend-modules.mine56c.js?ver=3.12.2' id='elementor-frontend-modules-js'></script>
+<script src='wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script src='wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='wp-includes/js/dist/hooks.min6c65.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='wp-includes/js/dist/i18n.mine57b.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-admin\/admin-ajax.php","nonce":"277a20e906","urls":{"assets":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/plugins\/elementor-pro-3.12.3\/assets\/","rest":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/plugins\/elementor-pro-3.12.3\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/frontend.min0fca.js?ver=3.12.3' id='elementor-pro-frontend-js'></script>
+<script src='wp-content/plugins/elementor-3.12.2/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.2","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"container":true,"hello-theme-header-footer":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/plugins\/elementor-3.12.2\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":55,"title":"Services%20-%20Local%20Services%20Wireframe%204%20%28Flexbox%29%20%7C%20Elementor%20Kit%20Library","excerpt":"","featuredImage":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/uploads\/sites\/231\/2022\/08\/Services.jpg"}};
+</script>
+<script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend.mine56c.js?ver=3.12.2' id='elementor-frontend-js'></script>
+<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/elements-handlers.min0fca.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
+<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/sticky/jquery.sticky.min0fca.js?ver=3.12.3' id='e-sticky-js'></script>
+<!-- for services page ends -->
+
 </body>
 </html>
