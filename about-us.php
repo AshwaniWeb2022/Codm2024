@@ -611,7 +611,6 @@
 								<img src="wp-content\uploads\sites\231\2022\08\xqlClinet.png" width="100" height="300" alt="partner image" >
 								<img src="wp-content\uploads\sites\231\2022\08\tech14networks.webp" width="100" height="300" alt="partner image" >
 								<img src="wp-content\uploads\sites\231\2022\08\cloudsr.webp" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\Logo Icon.png" width="100" height="300" alt="partner image" >
 								<img src="wp-content\uploads\sites\231\2022\08\Logo Icon (1) (1).png" width="100" height="300" alt="partner image" >
 				</div>
 			</div>
