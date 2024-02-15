@@ -22,7 +22,7 @@
     <meta property="og:title" content="CODM SOFTWARE | Salesforce Consulting Partner" />
 
     <!--Description for Google bot  -->
-    <meta name="description" content="CodM Software Pvt. Ltd. is a certified Salesforce Consulting Partner.">
+    <meta name="description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner.">
     <!--Description for Google bot  -->
     <!-- 
 <meta property="og:url" content="index.php" />
