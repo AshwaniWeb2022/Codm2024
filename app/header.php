@@ -383,7 +383,7 @@
         line-height: 1.6;
     }
     </style>
-
+    
     <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1'
         media='all' />
     <link rel='stylesheet' id='hello-elementor-theme-style-css'
@@ -467,6 +467,58 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
         media='all' />
+<!-- Services stylesheet -->
+<link rel='stylesheet' id='wp-block-library-css'
+        href='wp-includes/css/dist/block-library/style.minae48.css?ver=6.2' media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.minae48.css?ver=6.2'
+        media='all' />
+        <link rel="stylesheet"
+         href="wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-call-to-action.min.css">
+
+   <link rel='stylesheet' id='hello-elementor-css'
+        href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1' media='all' />
+    <link rel='stylesheet' id='hello-elementor-theme-style-css'
+        href='wp-content/themes/hello-elementor/theme.minc141.css?ver=2.6.1' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
+    <link rel='stylesheet' id='elementor-post-16-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
+    <link rel='stylesheet' id='elementor-icons-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
+        media='all' />
+    <link rel='stylesheet' id='swiper-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
+    <link rel='stylesheet' id='elementor-pro-css'
+        href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
+    <link rel='stylesheet' id='font-awesome-5-all-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2'
+        media='all' />
+    <link rel='stylesheet' id='font-awesome-4-shim-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
+        media='all' />
+    <link rel='stylesheet' id='elementor-global-css'
+        href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' />
+    <link rel='stylesheet' id='elementor-post-55-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-55e3e6.css?ver=1684345019' media='all' />
+    <link rel='stylesheet' id='elementor-post-18-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-1894ef.css?ver=1691498103' media='all' />
+    <link rel='stylesheet' id='elementor-post-23-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-231195.css?ver=1684334870' media='all' />
+    <link rel='stylesheet' id='google-fonts-1-css'
+        href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
+        media='all' />
+        
+<!-- services ends -->
+
     <!-- contact us stylesheet lists  -->
     <link rel='stylesheet' id='hello-elementor-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1'
@@ -535,7 +587,6 @@
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed56ec.php?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede0c5.php?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
     <meta name="generator" content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
-
     <!-- favicon icon  -->
     
 <link rel="icon" type="image/png" sizes="512x512" href="wp-content\favicon_io\android-chrome-512x512.png">
@@ -609,7 +660,7 @@
                     data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                     <div class="elementor-element elementor-element-f0c4eec elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__align-left elementor-widget__width-auto elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
                         data-id="f0c4eec" data-element_type="widget"
-                        data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}"
+                        data-settings="full_width:stretch layout:horizontal submenu_icon: value: <i class= fa-solid fa-list></i> library fa-solid toggle burger"
                         data-widget_type="nav-menu.default">
                         <div class="elementor-widget-container">
                             <link rel="stylesheet"
@@ -623,7 +674,7 @@
                                             class="elementor-item">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item">About Us</a></li>
-                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.php" class="elementor-item">Services</a></li> -->
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item">Services</a></li>
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item">Contact Us</a></li>
@@ -644,7 +695,7 @@
                                             class="elementor-item" tabindex="-1">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
-                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services/index.php" class="elementor-item" tabindex="-1">Services</a></li> -->
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a>
