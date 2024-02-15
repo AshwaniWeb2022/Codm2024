@@ -82,9 +82,9 @@
     --align-items: stretch;
     --gap: 0px;
     --background-transition: 0.3s;
-    --padding-top: 8%;
+    --padding-top: 0%;
     --padding-right: 4%;
-    --padding-bottom: 8%;
+    --padding-bottom: 0%;
     --padding-left: 4%
 }
 
