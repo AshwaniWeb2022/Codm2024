@@ -1,7 +1,7 @@
 <footer data-elementor-type="footer" data-elementor-id="23" class="elementor elementor-23 elementor-location-footer">
 		<div class="elementor-element elementor-element-283b119f e-con-boxed e-con" data-id="283b119f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 			<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1fd26ddc e-con-full e-con" data-id="1fd26ddc" data-element_type="container" >
+			<div class="elementor-element elementor-element-1fd26ddc e-con-full e-con" data-id="1fd26ddc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 					<div class="elementor-element elementor-element-4613b9e1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4613b9e1" data-element_type="widget" data-widget_type="image-box.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-image-box-wrapper">
@@ -671,7 +671,7 @@
 
 	<!-- for including bootstrap -->
 <!-- for services page -->
-<link rel='stylesheet' id='e-animations-css' href='../wp-content/plugins/elementor-3.12.2/assets/lib/animations/animations.mine56c.css?ver=3.12.2' media='all' />
+<!-- <link rel='stylesheet' id='e-animations-css' href='../wp-content/plugins/elementor-3.12.2/assets/lib/animations/animations.mine56c.css?ver=3.12.2' media='all' />
 <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script src='wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
 <script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1' id='smartmenus-js'></script>
@@ -698,7 +698,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend.mine56c.js?ver=3.12.2' id='elementor-frontend-js'></script>
 <script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/elements-handlers.min0fca.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
 <script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/sticky/jquery.sticky.min0fca.js?ver=3.12.3' id='e-sticky-js'></script>
-<!-- for services page ends -->
+for services page ends -->
 
 </body>
 </html>

@@ -24,18 +24,18 @@
     <!--Description for Google bot  -->
     <meta name="description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner.">
     <!--Description for Google bot  -->
-    <!-- 
-<meta property="og:url" content="index.php" />
-<meta property="og:site_name" content="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
-<meta property="og:image" content="wp-content/uploads/sites/231/2022/08/Home-Page.jpg" />
-<meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/Home-Page.jpg" />
+
+<meta property="og:url" content="codmsoftware.com" />
+<meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
+<meta property="og:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
+<meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
 <meta property="og:image:width" content="400" />
 <meta property="og:image:height" content="380" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="This Headline GrabsVisitors’ Attention A short description introducing your business and the services to visitors. Contact Us A Title to Turn the Visitor Into a Lead This is your chance to emphasize whythe visitor should contact you right now. Contact us Our Services This text briefly introduces your main services to your visitors. Service 1 [&hellip;]" />
-<meta name="twitter:title" content="Home - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
-<meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/Home-Page.jpg" /> -->
-    <!-- / Yoast SEO plugin. -->
+<meta name="twitter:card" content="Salesforce Consulting Partner." />
+<meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
+<meta name="twitter:title" content="codmsoftware.com" />
+<meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
+    <!-- / Yoast SEO plugin.  -->
 
     <!-- <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed" href="feed/index.php" />
 <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed" href="comments/feed/index.php" /> -->
@@ -575,6 +575,9 @@
     <!-- for boot strap      -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- bootstrap -->
+    <!-- for nav bar -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- for nav bar -->
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <script src='wp-includes/js/jquery/jquery.mina767.js?ver=3.6.3' id='jquery-core-js'></script>
     <script src='wp-includes/js/jquery/jquery-migrate.min6b00.js?ver=3.4.0' id='jquery-migrate-js'></script>
@@ -602,7 +605,7 @@
 <!-- favicon icon  -->
 
     <meta name="msapplication-TileImage"
-        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
+    content="wp-content\favicon_io\android-chrome-512x512.png" />
 </head>
 
 <body
@@ -660,7 +663,7 @@
                     data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                     <div class="elementor-element elementor-element-f0c4eec elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__align-left elementor-widget__width-auto elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
                         data-id="f0c4eec" data-element_type="widget"
-                        data-settings="full_width:stretch layout:horizontal submenu_icon: value: <i class= fa-solid fa-list></i> library fa-solid toggle burger"
+                        data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}"
                         data-widget_type="nav-menu.default">
                         <div class="elementor-widget-container">
                             <link rel="stylesheet"
