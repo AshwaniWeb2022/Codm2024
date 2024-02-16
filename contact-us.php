@@ -58,11 +58,37 @@
                                     <div class="accordionAddress">
                                         <img src="wp-content\uploads\sites\231\2022\08\2807791_18166.jpg" alt="uk Flag" style="height:60px;">
                                         <div style="margin-top: 10px;">
-                                            <a href="https://www.google.com/maps/place/Shop+71,+ALG+ID+Cards+t%2Fa+The+Lanyard,+75+Shelton+St,+London+WC2H+9JQ,+UK/@51.5149037,-0.1261591,17z/data=!3m1!4b1!4m6!3m5!1s0x487604ccab37652b:0x22220c3f07824033!8m2!3d51.5149037!4d-0.1235842!16s%2Fg%2F11ll1x_2x2?entry=ttu" target="_blank" rel="noopener">
+                                            <a href="https://maps.app.goo.gl/at7ygDFHA6R1noo3A" target="_blank" rel="noopener">
                                                 Spaces - Birmingham,
                                                 The Mailbox Level 1, The Mailbox, 3<br />
                                                 Wharfside Street Spaces, Birmingham B1 1RD,<br />
                                                 United Kingdom
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header ">
+                                <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    UK
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="accordionAddress">
+                                        <img src="wp-content\uploads\sites\231\2022\08\2807791_18166.jpg" alt="uk Flag" style="height:60px;">
+                                        <div style="margin-top: 10px;">
+                                            <a href="https://www.google.com/maps/place/Shop+71,+ALG+ID+Cards+t%2Fa+The+Lanyard,+75+Shelton+St,+London+WC2H+9JQ,+UK/@51.5149037,-0.1261591,17z/data=!3m1!4b1!4m6!3m5!1s0x487604ccab37652b:0x22220c3f07824033!8m2!3d51.5149037!4d-0.1235842!16s%2Fg%2F11ll1x_2x2?entry=ttu" target="_blank" rel="noopener">
+                                            71-75, Shelton Street, Covent,Garden<br/>
+                                            London, WC2H 9JQ, UNITED KINGDOM
                                             </a>
                                         </div>
                                         <div style="margin-top: 10px;">
