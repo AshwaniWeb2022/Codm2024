@@ -384,10 +384,8 @@
 								<li class="elementor-icon-list-item">
 
 									<a href="">
-										<span class="elementor-icon-list-text">Email:
-                      info@codmsoftware.com</span>
-
-						
+										<span class="elementor-icon-list-text fs-6">Email:
+                      						info@codmsoftware.com</span>
 									</a>
 								</li>
 								<li class="elementor-icon-list-item">
