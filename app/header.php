@@ -685,13 +685,13 @@
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
-                                        <ul class="sub-menu bg-white">
-                                        <li><a class="text-dark" href="titanform.php">Titan Form</a></li>
-                                            <li><a class="text-dark" href="titandoc.php">Titan Doc </a></li>
-                                            <li><a class="text-dark" href="titansign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark" href="titanclm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark" href="titanweb.php">Titan Web </a></li>
-                                            <li><a class="text-dark" href="titansurvey.php">Titan Survey </a></li>
+                                        <ul class="sub-menu bg-white pt-3">
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
@@ -719,13 +719,13 @@
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
-                                        <ul class="sub-menu">
-                                            <li><a class="text-dark" href="titanform.php">Titan Form</a></li>
-                                            <li><a class="text-dark" href="titandoc.php">Titan Doc </a></li>
-                                            <li><a class="text-dark" href="titansign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark" href="titanclm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark" href="titanweb.php">Titan Web </a></li>
-                                            <li><a class="text-dark" href="titansurvey.php">Titan Survey </a></li>
+                                        <ul class="sub-menu bg-white pt-3">
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li>
                                         </ul>
                                     </li> 
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
