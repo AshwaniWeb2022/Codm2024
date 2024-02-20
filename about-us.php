@@ -52,7 +52,7 @@
         <div class="row">
             <div class="col-lg-6 mb-4">
                 <div id="aboutImage_Wrapper">
-                    <img src="wp-content\uploads\sites\231\2022\08\photo-1504384308090-c894fdcc538d.avif" alt="about" class="w-100 h-100">
+                    <img src="wp-content/uploads/sites/231/2022/08/photo-1504384308090-c894fdcc538d.avif" alt="about" class="w-100 h-100">
                 </div>
             </div>
             <div class="col-lg-6 ps-sm-5 ">
@@ -76,7 +76,7 @@
 			</div>
             <div class="col-lg-6 ps-sm-5 ">
 				<div id="aboutImage_Wrapper">
-                    <img src="wp-content\uploads\sites\231\2022\08\photo-1522071820081-009f0129c71c.avif" alt="about" class="w-100 h-100">
+                    <img src="wp-content/uploads/sites/231/2022/08/photo-1522071820081-009f0129c71c.avif" alt="about" class="w-100 h-100">
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
 <!-- <top sections ends  -->
 <!-- our section starts -->
 	
-	<div class="pt-5 mt-5 elementor-element elementor-element-5ca5fcba e-con-boxed e-con" data-id="5ca5fcba" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+<div class="pt-5 mt-5 elementor-element elementor-element-5ca5fcba e-con-boxed e-con" data-id="5ca5fcba" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 		<div class="e-con-inner">
 			<div class="elementor-element elementor-element-1bad91df elementor-widget elementor-widget-heading" data-id="1bad91df" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -186,7 +186,8 @@
 				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Application-Architect.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sit
+							es/231/2022/08/Application-Architect.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">Application Architect</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
@@ -197,7 +198,7 @@
 				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\B2C-Solution-Architect-2-1024x1004.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/B2C-Solution-Architect-2-1024x1004.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">B2C Solution Architect</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
@@ -218,100 +219,10 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-	</div> 
-	 <div class="pt-1 elementor-element elementor-element-5ca5fcba e-con-boxed e-con" data-id="5ca5fcba" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-		<div class="e-con-inner">
-			<!-- <div class="elementor-element elementor-element-1bad91df elementor-widget elementor-widget-heading" data-id="1bad91df" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Our Certificates</h2>
-				</div>
-			</div>
-			<div class="elementor-element elementor-element-5fdb7604 elementor-widget elementor-widget-heading" data-id="5fdb7604" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h5 class="pb-5 mb-5 elementor-heading-title elementor-size-default">Elevate your career and join the ranks of certified Salesforce experts worldwide Start your journey today</h5>
-				</div>
-			</div> --> 
-			<div class="elementor-element elementor-element-7c3c4576 e-con-full e-con" data-id="7c3c4576" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-				<div class="elementor-element elementor-element-3e79e6 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3e79e6" data-element_type="widget" data-widget_type="image-box.default">
-					<div class="elementor-widget-container">
-						<style>
-							.elementor-widget-image-box .elementor-image-box-content {
-								width: 100%
-							}
-
-							@media (min-width:768px) {
-
-								.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,
-								.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper {
-									display: flex
-								}
-
-								.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper {
-									text-align: right;
-									flex-direction: row-reverse
-								}
-
-								.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper {
-									text-align: left;
-									flex-direction: row
-								}
-
-								.elementor-widget-image-box.elementor-position-top .elementor-image-box-img {
-									margin: auto
-								}
-
-								.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper {
-									align-items: flex-start
-								}
-
-								.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper {
-									align-items: center
-								}
-
-								.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper {
-									align-items: flex-end
-								}
-							}
-
-							@media (max-width:767px) {
-								.elementor-widget-image-box .elementor-image-box-img {
-									margin-left: auto !important;
-									margin-right: auto !important;
-									margin-bottom: 15px
-								}
-							}
-
-							.elementor-widget-image-box .elementor-image-box-img {
-								display: inline-block
-							}
-
-							.elementor-widget-image-box .elementor-image-box-title a {
-								color: inherit
-							}
-
-							.elementor-widget-image-box .elementor-image-box-wrapper {
-								text-align: center
-							}
-
-							.elementor-widget-image-box .elementor-image-box-description {
-								margin: 0
-							}
-						</style>
-						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Platform-Developer-II.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">Platform Developer II</h4>
-								<!-- <p class="elementor-image-box-description">Job Title</p> -->
-							</div>
-						</div>
-					</div>
-				</div>
 				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\OmniStudio-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">OmniStudio Consultant </h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
@@ -319,10 +230,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
+
+			</div>
+			<div class="elementor-element elementor-element-7c3c4576 e-con-full e-con" data-id="7c3c4576" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+			<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\OmniStudio-Developer.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Developer.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">OmniStudio Developer</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
@@ -330,22 +244,11 @@
 						</div>
 					</div>
 				</div>
-				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
-					<div class="elementor-widget-container">
-						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\1_ZknOA5FM_iUHnq8hxgZ0Kw.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">Platform developer I </h4>
-								<!-- <p class="elementor-image-box-description">Job Title</p> -->
-							</div>
-						</div>
-					</div>
-				</div>
-				
+
 				<div class="elementor-element elementor-element-780b1097 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="780b1097" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Administrator.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/Administrator.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
 								<h4 class="elementor-image-box-title">Administrator</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
@@ -353,8 +256,44 @@
 						</div>
 					</div>
 				</div>
+				<div class="elementor-element elementor-element-780b1097 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="780b1097" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/sf associate.webp" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">Associate</h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/1_ZknOA5FM_iUHnq8hxgZ0Kw.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">Platform developer I </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/Platform-Developer-II.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">Platform Developer II</h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
-		 </div>
+		</div>
 	</div> 
 <!-- our certificate ends  -->
 
@@ -599,19 +538,28 @@
 							width: var(--container-widget-width);
 							--flex-grow: var(--container-widget-flex-grow)
 						}
-					</style>
-					<img src="wp-content\uploads\sites\231\2022\08\absaClinet.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\elgebra.jpg" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\bellhopClinet.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\boschClinet.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\foogalClinet.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\changeMachineClinet.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\Logo Icon.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\AST.webp" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\xqlClinet.png" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\tech14networks.webp" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\cloudsr.webp" width="100" height="300" alt="partner image" >
-								<img src="wp-content\uploads\sites\231\2022\08\Logo Icon (1) (1).png" width="100" height="300" alt="partner image" >
+						
+							
+
+
+				</style>
+				<!-- Owl Carousel CSS -->
+					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+					<div class="owl-carousel">
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/foogalClinet.png" alt="Client 1"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/elgebra.jpg" alt="Client 2"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/dynamicClinet.png" alt="Client 3"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/bellhopClinet.png" alt="Client 4"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/absaClinet.png" alt="Client 5"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/cloudsr.webp" alt="Client 6"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/changeMachineClinet.png" alt="Client 7"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/xqlClinet.png"alt="Client 8"></div>
+						  <!-- Add more items as needed -->
+						</div>
+
+
 				</div>
 			</div>
 		</div>
@@ -739,4 +687,58 @@
 		</div>
 	</div>
 </div>
+
+<!-- jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- Owl Carousel JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script>
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:3000, // Autoplay interval in milliseconds
+    autoplayHoverPause:true,
+    responsive:{
+      0:{
+        items:2
+      },
+      600:{
+        items:3
+      },
+      1000:{
+        items:9
+      }
+    }
+  });
+});
+</script>
+
+<!-- <script>
+const container = document.querySelector('.carousel-container');
+const images = document.querySelectorAll('.carousel img');
+
+let counter = 0;
+const slideWidth = images[0].clientWidth + 10; // Adjust 10px for margin-right
+
+function nextSlide() {
+  if (counter >= images.length - 1) {
+    counter = 0; // Reset counter if it reaches the end
+  } else {
+    counter++;
+  }
+  container.style.transform = `translateX(${-slideWidth * counter}px)`;
+}
+
+// Function to start auto sliding
+function startAutoSlide() {
+  setInterval(nextSlide, 3000); // Change slide every 3 seconds
+}
+
+// Call the function to start auto sliding
+startAutoSlide();
+</script> -->
+
 <?php include 'app/footer.php';?>
