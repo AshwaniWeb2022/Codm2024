@@ -241,11 +241,11 @@
     }
 }
 
-@media(max-width:767px) {
+@media(max-width:769px) {
     .elementor-18 .elementor-element.elementor-element-310218fd {
         --min-height: 70px;
         --padding-top: 0%;
-        --padding-right: 6%;
+        --padding-right: 10%;
         --padding-bottom: 0%;
         --padding-left: 0% !important
     }
@@ -288,7 +288,7 @@
     }
 }
 
-@media(min-width:768px) {
+@media(min-width:768.9px) {
     .elementor-18 .elementor-element.elementor-element-444ee561 {
         --width: 10%
     }

@@ -384,6 +384,9 @@
     }
     </style>
     
+    <link rel='stylesheet' id='hello-elementor-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css'
+        media='all' />
+
     <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1'
         media='all' />
     <link rel='stylesheet' id='hello-elementor-theme-style-css'
@@ -392,20 +395,20 @@
         href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='elementor-post-16-css'
         href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
-    <link rel='stylesheet' id='elementor-icons-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
         href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
-    <link rel='stylesheet' id='font-awesome-5-all-css'
+    <!-- <link rel='stylesheet' id='font-awesome-5-all-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='font-awesome-4-shim-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
         media='all' />
-    <link rel='stylesheet' id='elementor-global-css'
-        href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' 
+        href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' /> -->
     <link rel='stylesheet' id='elementor-post-71-css'
         href='wp-content/uploads/sites/231/elementor/css/post-718baa.css?ver=1684335501' media='all' />
     <link rel='stylesheet' id='elementor-post-18-css'
@@ -417,7 +420,7 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
         media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
@@ -425,7 +428,7 @@
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        media='all' />
+        media='all' /> -->
     <!-- About us stylesheet Lists  -->
     <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1'
         media='all' />
@@ -435,18 +438,18 @@
         href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='elementor-post-16-css'
         href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
-    <link rel='stylesheet' id='elementor-icons-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
         href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
-    <link rel='stylesheet' id='font-awesome-5-all-css'
+    <!-- <link rel='stylesheet' id='font-awesome-5-all-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='font-awesome-4-shim-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='elementor-global-css'
         href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' />
     <link rel='stylesheet' id='elementor-post-61-css'
@@ -458,7 +461,7 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
         media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
@@ -466,7 +469,7 @@
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        media='all' />
+        media='all' /> -->
 <!-- Services stylesheet -->
 <link rel='stylesheet' id='wp-block-library-css'
         href='wp-includes/css/dist/block-library/style.minae48.css?ver=6.2' media='all' />
@@ -483,19 +486,19 @@
         href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='elementor-post-16-css'
         href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
-    <link rel='stylesheet' id='elementor-icons-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
-    <link rel='stylesheet' id='elementor-pro-css'
+    <!-- <link rel='stylesheet' id='elementor-pro-css'
         href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
     <link rel='stylesheet' id='font-awesome-5-all-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2'
         media='all' />
     <link rel='stylesheet' id='font-awesome-4-shim-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='elementor-global-css'
         href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' />
     <link rel='stylesheet' id='elementor-post-55-css'
@@ -507,7 +510,7 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
         media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
@@ -516,7 +519,7 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
         media='all' />
-        
+         -->
 <!-- services ends -->
 
     <!-- contact us stylesheet lists  -->
@@ -532,21 +535,21 @@
     <link rel='stylesheet' id='elementor-post-16-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-16.css?ver=1684334869'
         media='all' />
-    <link rel='stylesheet' id='elementor-icons-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min.css?ver=5.3.6'
         media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min.css?ver=3.12.3'
         media='all' />
-    <link rel='stylesheet' id='font-awesome-5-all-css'
+    <!-- <link rel='stylesheet' id='font-awesome-5-all-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.min.css?ver=3.12.2'
         media='all' />
     <link rel='stylesheet' id='font-awesome-4-shim-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.12.2'
-        media='all' />
+        media='all' /> -->
     <link rel='stylesheet' id='elementor-global-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/global.css?ver=1684334870'
         media='all' />
@@ -562,7 +565,7 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2'
         media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
@@ -570,19 +573,19 @@
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
-        media='all' />
+        media='all' /> -->
 
     <!-- for boot strap      -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- bootstrap -->
     <!-- for nav bar -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
     <!-- for nav bar -->
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <script src='wp-includes/js/jquery/jquery.mina767.js?ver=3.6.3' id='jquery-core-js'></script>
     <script src='wp-includes/js/jquery/jquery-migrate.min6b00.js?ver=3.4.0' id='jquery-migrate-js'></script>
-    <script src='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/js/v4-shims.mine56c.js?ver=3.12.2'
-        id='font-awesome-4-shim-js'></script>
+    <!-- <script src='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/js/v4-shims.mine56c.js?ver=3.12.2'
+        id='font-awesome-4-shim-js'></script> -->
     <link rel="https://api.w.org/" href="wp-json/index.php" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/71.php" />
 
@@ -625,11 +628,11 @@
     }
     </style>
     <header data-elementor-type="header" data-elementor-id="18"
-        class="shadow-sm p-3 mb-2 bg-body-tertiary rounded elementor elementor-18 elementor-location-header">
+        class="shadow elementor elementor-18 elementor-location-header">
         <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd"
             data-element_type="container"
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-            <div class="e-con-inner">
+            <div class="e-con-inner px-5">
                 <div class="elementor-element elementor-element-444ee561 e-con-full e-con" data-id="444ee561"
                     data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                     <div class="elementor-element elementor-element-7cc111af elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
@@ -678,16 +681,30 @@
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
                                             href="about-us.php" class="elementor-item">About Us</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item">Services</a></li>
+                                    
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="#" class="elementor-item">Products</a>
+                                        <ul class="sub-menu bg-white">
+                                        <li><a class="text-dark" href="titanform.php">Titan Form</a></li>
+                                            <li><a class="text-dark" href="titandoc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark" href="titansurvey.php">Titan Survey </a></li>
+                                        </ul>
+                                    </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item">Contact Us</a></li>
                                 </ul>
                             </nav>
+                            <!-- Mobile response  -->
                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle"
                                 aria-expanded="false">
                                 <i aria-hidden="true" role="presentation"
-                                    class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true"
-                                    role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>
+                                    class="elementor-menu-toggle__icon--open fa-solid fa-bars"></i>
+                                    <i aria-hidden="true"
+                                    role="presentation" class="elementor-menu-toggle__icon--close fa-solid fa-xmark"></i>
                                 <span class="elementor-screen-only">Menu</span>
                             </div>
                             <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
@@ -700,6 +717,17 @@
                                             href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="#" class="elementor-item">Products</a>
+                                        <ul class="sub-menu">
+                                            <li><a class="text-dark" href="titanform.php">Titan Form</a></li>
+                                            <li><a class="text-dark" href="titandoc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark" href="titansurvey.php">Titan Survey </a></li>
+                                        </ul>
+                                    </li> 
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a>
                                     </li>
