@@ -403,8 +403,8 @@
                             content: "" !important
                         }
                     </style>
-                    <h2 class="fs-1 mb-5 pb-5 text-center "> Contact US</h2>
-                    <form class="elementor-form" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post" autocomplete="off" name="Contact Form">
+                    <h2 class="fs-1 mb-5 pb-5 text-center "> Contact Us</h2>
+                    <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post" autocomplete="off" name="Contact Form">
                         <input type=hidden name="oid" value="00D5i000008yVNX">
                         <input type=hidden name="retURL" value="https://codmsoftware.com/contact-us.php">
                             <input type="hidden" name="lead_source" value="Web">
