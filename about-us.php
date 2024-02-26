@@ -66,7 +66,12 @@
 <section class="section_heading pt-5 mt-5 " style="position:relative;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 mb-4">
+		<div class="col-lg-6 ps-sm-5 order-lg-2 ">
+				<div id="aboutImage_Wrapper">
+                    <img src="wp-content/uploads/sites/231/2022/08/photo-1522071820081-009f0129c71c.avif" alt="about" class="w-100 h-100">
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4 ">
 			<h5 class="mb-3" style="color:#00A1E0;">Expertise That Delivers Results</h5>
                 <h2 class="about-title_h2">Elevate Your Business with Tailored Salesforce Implementation Solutions</h2>
                 <div class=" pt-4" style="line-height: 30px;">Empowering Your Team Through Training and Support: A successful Salesforce implementation isn't just about technology—it's about empowering your team to leverage its full potential. That's why we offer comprehensive training and ongoing support to ensure your team is equipped with the knowledge and skills they need to thrive in the Salesforce environment.<br/>
@@ -74,11 +79,7 @@
 				<!-- <h2 class="about-title_h2">Seamless Integration Across Your Ecosystem</h2> -->
 				<div class=" pt-2" style="line-height: 30px;">Salesforce is just one piece of the puzzle. Our comprehensive approach extends beyond Salesforce implementation to seamless integration with your existing systems and processes. Whether it's ERP, marketing automation, or custom applications, we ensure a cohesive ecosystem that maximizes efficiency and productivity</div>
 			</div>
-            <div class="col-lg-6 ps-sm-5 ">
-				<div id="aboutImage_Wrapper">
-                    <img src="wp-content/uploads/sites/231/2022/08/photo-1522071820081-009f0129c71c.avif" alt="about" class="w-100 h-100">
-                </div>
-            </div>
+
         </div>
     </div>
 </section>
