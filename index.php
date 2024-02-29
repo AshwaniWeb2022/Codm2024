@@ -456,9 +456,8 @@
                                         class="elementor-animation-grow attachment-full size-full wp-image-62" alt=""
                                         loading="lazy" /></figure>
                                 <div class="elementor-image-box-content">
-                                    <h4 class="elementor-image-box-title">Data Migration</h4>
-                                    <p class="elementor-image-box-description">Seamless transfer of information between
-                                        systems for smooth transitions and business continuity</p>
+                                    <h4 class="elementor-image-box-title">OmniStudio (Vlocity)</h4>
+                                    <p class="elementor-image-box-description">Streamlines application development for industry-specific processes.</p>
                                 </div>
                             </div>
                         </div>

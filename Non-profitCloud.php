@@ -599,7 +599,62 @@
     <meta name="msapplication-TileImage"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
-<div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
+<div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
+    data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
+    <div class="elementor-widget-container">
+        <style>
+        /*! elementor - v3.12.2 - 23-04-2023 */
+        .elementor-heading-title {
+            padding: 0;
+            margin: 0;
+            line-height: 1
+        }
+
+        .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
+            color: inherit;
+            font-size: inherit;
+            line-height: inherit
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-small {
+            font-size: 15px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+            font-size: 19px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-large {
+            font-size: 29px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
+            font-size: 39px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
+            font-size: 59px
+        }
+        </style>
+        <h1 class="elementor-heading-title elementor-size-default elementor-align-center pt-5 ">Non-Profit Cloud
+        </h1>
+    </div>
+</div>
+
+<div data-elementor-type="single-post" data-elementor-id="32"
+    class="elementor elementor-32 elementor-location-single post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
+    <div class="elementor-element elementor-element-6e8460c3 e-con-boxed e-con" data-id="6e8460c3"
+        data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+        <div class="e-con-inner">
+            <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
+                data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                    <img width="500" height="850"
+                        src="wp-content/uploads/sites/231/2022/08/technology-blue_24877-49447.jpg"
+                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
                 data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <link rel="stylesheet"
@@ -613,62 +668,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
-                data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
-                <div class="elementor-widget-container">
-                    <style>
-                    /*! elementor - v3.12.2 - 23-04-2023 */
-                    .elementor-heading-title {
-                        padding: 0;
-                        margin: 0;
-                        line-height: 1
-                    }
 
-                    .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
-                        color: inherit;
-                        font-size: inherit;
-                        line-height: inherit
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-small {
-                        font-size: 15px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
-                        font-size: 19px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-large {
-                        font-size: 29px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
-                        font-size: 39px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
-                        font-size: 59px
-                    }
-                    </style>
-                    <h1 class="elementor-heading-title elementor-size-default elementor-align-center mt-5">Industries Cloud </h1>
-                </div>
-            </div>
-
-<div data-elementor-type="single-post" data-elementor-id="32"
-    class="elementor elementor-32 elementor-location-single post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
-    <div class="elementor-element elementor-element-6e8460c3 e-con-boxed e-con" data-id="6e8460c3"
-        data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-        <div class="e-con-inner">
-            <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
-                data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
-                <div class="elementor-widget-container">
-                    <img width="800" height="650"
-                        src="wp-content/uploads/sites/231/2022/08/industrial-cloud.jpg"
-                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
-                </div>
-            </div>
-            
-            <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
+            <div class="elementor-element elementor-element-401b5af5 elementor-widget elementor-widget-post-info"
                 data-id="401b5af5" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
@@ -676,35 +677,96 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-align-center elementor-widget-theme-post-excerpt"
                 data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
                 <div class="elementor-widget-container">
-                Transforming business processes in the digital age In the age of digital transformation
-                </div>
-            </div>
-            <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
-                data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
-                <div class="elementor-widget-container">
-
-                    <p>The process of extreme digitization is currently underway across all sectors and industries of
-                        society, with the Covid-19 pandemic serving as a catalyst for this transformation. However,
-                        these changes in the nature of business are anticipated to endure beyond the pandemic's
-                        resolution. In response to this pervasive trend, Salesforce has proactively expanded its
-                        portfolio and made substantial strides in the vertical cloud solutions market, tailored to the
-                        distinctive requirements of specific industries. Salesforce now offers a range of
-                        industry-specific clouds, all built on the foundation of Customer 360, poised to accelerate the
-                        digital transformation within diverse industrial sectors. These specialized clouds are
-                        meticulously designed to foster trust, spur innovation, and enhance agility, reflecting
-                        Salesforce's commitment to addressing the evolving needs of modern businesses across various
-                        domains.
-                    </p>
-
-
-                    <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
+                    Empowering Non-Profit organizations with tailored cloud solutions for efficient operations and
+                    impactful mission delivery.
                 </div>
             </div>
         </div>
     </div>
+    <div class="ms-5 me-5">
+        <p>
+            The non-profit organizations' cloud is created to make it easier for them to access a connected platform. It
+            offers various solutions and a 360-degree view of their mission and participants to help achieve their
+            goals. The Nonprofit Cloud aids in building long-lasting relationships and simplifying the management of
+            fundraising, support programs, marketing, and commitment to generate the necessary impact. It also enhances
+            the connection with donors, tracks volunteers, and manages campaigns while allowing the customization of a
+            Nonprofit Success Package (NPSP) for connecting with the right people at the right time. Additionally, it
+            facilitates identifying common interests and collaboration among sponsors.</p>
+
+        <p>
+            Non-profit Cloud enhancements make it easier to build integrations, to measure the ROI of upgraded campaigns
+            by using a new way to attribute revenue on gift commitments, to improve digital fundraising and tracking
+            with Outreach Source Code URLs, and to streamline donor support requests and accounting tasks by tracking
+            payment data.</p>
+
+        <p>Non-Profit Cloud refers to a suite of cloud-based solutions and services tailored to the specific needs and
+            challenges of nonprofit organizations. These solutions are typically provided by cloud computing providers
+            like Salesforce, which offer specialized platforms such as Salesforce.org Nonprofit Cloud.</p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                New and Enhanced Common Features for Industries
+            </div>
+        </div>
+        <p>Nonprofit Cloud includes some features that are available across the clouds and products in Industries. Use
+            these features to extend and customize Nonprofit Cloud as per your business needs.
+        </p>
+        <p>
+            <b>1. Action Launcher</b>: Deliver better donor support by adding actions in the Action Launcher Lightning
+            Web Component to launch actions to resolve donor requests. Administrators can now customize the title shown
+            on the Action Launcher component to provide a more branded experience.</br>
+
+            <b>2. Bulk Action Panel</b>: Administrators can further streamline fundraising operations by adding bulk
+            actions to the Bulk Action Panel, which are specific to an actionable list.</br>
+
+            <b>3. Grant making</b>: In Nonprofit Cloud for Grant making, Grant seekers can now add collaborators to help
+            with grant applications in an Experience Cloud site. Grant makers and recipients can now see the difference
+            between planned and actual budget spent. Grant makers can add invitation-only application funding
+            opportunities to Experience Cloud.</br>
+
+            <b>4. Outcome Management</b>: Take the manual work out of adding indicator results and ensure that results
+            are measured consistently with a flow. Collaborate with partner organizations and grantees in Experience
+            Cloud. Connect Outcome Management to care plans in Case Management.</br>
+
+            <b>5. Timeline</b>: Fundraising admins can configure Timeline to show engagement events from a specific data
+            space in Data Cloud.</br>
+
+        </P>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Some common components of Non-Profit Cloud include:
+            </div>
+        </div>
+        <p>
+            <b>1. Constituent Relationship Management (CRM)</b>: Nonprofit-specific CRM tools help organizations manage
+            relationships with donors, volunteers, members, and other stakeholders. They enable nonprofits to track
+            interactions, donations, and engagement activities to better understand and engage with their
+            constituents.</br>
+
+            <b>2. Fundraising and Donation Management</b>: Non-Profit Cloud provides tools for managing fundraising
+            campaigns, processing donations, and tracking donor contributions. These solutions often include features
+            for online fundraising, peer-to-peer fundraising, donation processing, and donor stewardship.</br>
+
+            <b>3. Program Management and Impact Measurement</b>: Nonprofit organizations can use Non-Profit Cloud to
+            track and manage programs, projects, and initiatives. These solutions often include features for program
+            planning, implementation, monitoring, evaluation, and impact measurement to demonstrate outcomes and report
+            on mission effectiveness.</br>
+
+            <b>4. Volunteer Management</b>: Non-Profit Cloud offers tools for recruiting, managing, and coordinating
+            volunteers. These solutions enable nonprofits to streamline volunteer recruitment, scheduling,
+            communication, and tracking to maximize volunteer engagement and impact.</br>
+
+            <b>5. Marketing and Communication</b>: Nonprofit organizations can use Non-Profit Cloud to engage supporters
+            and raise awareness through targeted marketing and communication campaigns. These solutions often include
+            features for email marketing, social media integration, event management, and advocacy.</br>
+        </P>
+
+    </div>
+
 
     <?php include 'app/footer.php';?>
