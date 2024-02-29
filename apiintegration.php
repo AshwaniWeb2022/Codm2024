@@ -649,6 +649,13 @@
                     .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
                         font-size: 59px
                     }
+                    .accordion-button {
+                        color:Black;
+                        border-color:none
+                    }
+                    .accordion-button:hover{
+                        background:blue;
+                    }
                     </style>
                     <h1 class="elementor-heading-title elementor-size-default elementor-align-center mt-5 ">Api Integration</h1>
                 </div>
@@ -738,10 +745,10 @@
             </div>
         </div>
     </div>
-    <section class="mt-5 pt-5 bg-light">
+    <!-- <section class="mt-5 pt-5 bg-light">
     <div class="container-fluid ">
         <div class="row">
-            <div class="col-lg-7 mb-5">
+            <div class="col-lg-12 mb-5">
                 <h2 class="pt-5 heading_titel">Benefits of Salesforce API Integration</h2>
                 <div class="accordion mt-2 mb-3" id="accordionExample">
                     <div class="accordion-item">
@@ -836,12 +843,9 @@
 
                 </div>
             </div>
-            <div class="col-lg-5 mb-5 mt-5">
-                <img src="../assect/upload/Service/mulesoft-chat.png" alt="">
-            </div>
         </div>
     </div>
-</section> 
+</section>  -->
 
 
     <?php include 'app/footer.php';?>

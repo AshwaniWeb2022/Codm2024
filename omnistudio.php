@@ -712,7 +712,7 @@
             </div>
         </div>
     </div>
-    <section class="mt-5 pt-5 bg-light">
+    <!-- <section class="mt-5 pt-5 bg-light">
         <div class="container-fluid ">
             <div class="row">
                 <div class="col-lg-7 mb-5">
@@ -838,7 +838,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
     <?php include 'app/footer.php';?>

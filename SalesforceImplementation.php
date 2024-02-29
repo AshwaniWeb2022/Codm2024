@@ -707,7 +707,7 @@
             Salesforce implementation a seamless and triumphant journey
         </p>
     </div>      
-<section class="mt-5">
+<!-- <section class="mt-5">
     <h2 class="text-center" style="color:#00A1E0;">Development Life Cycle</h2>
     <div class="container-fluid">
         <style>
@@ -1065,9 +1065,9 @@
         margin-left: 0
     }
 }
-</style>
-        <div id="process" class="row centered animated">
-            <div class="col-sm-2 col-sm-offset-1 processBlock one">
+</style> -->
+<!-- <div id="process" class="row centered animated">
+            <div class="col-sm-2 processBlock one">
                 <div class="processDot">&nbsp;</div>
                 <div class="processText text-start">Planning</div>
             </div>
@@ -1093,11 +1093,10 @@
             </div>
             <div class="col-sm-2 processLast sevan">
                 <div class="processDot lastDot">&nbsp;</div>
-                <div class="processText text-start"><span>Operations</span> <span
-                        class="text-center ">&</span><br>Maintenance</div>
+                <div class="processText text-start"><span>Operations</span> <span class="text-center ">&</span><br>Maintenance</div>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
     <?php include 'app/footer.php';?>

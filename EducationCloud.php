@@ -599,7 +599,62 @@
     <meta name="msapplication-TileImage"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
-<div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
+<div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
+    data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
+    <div class="elementor-widget-container">
+        <style>
+        /*! elementor - v3.12.2 - 23-04-2023 */
+        .elementor-heading-title {
+            padding: 0;
+            margin: 0;
+            line-height: 1
+        }
+
+        .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
+            color: inherit;
+            font-size: inherit;
+            line-height: inherit
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-small {
+            font-size: 15px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+            font-size: 19px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-large {
+            font-size: 29px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
+            font-size: 39px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
+            font-size: 59px
+        }
+        </style>
+        <h1 class="elementor-heading-title elementor-size-default elementor-align-center pt-5 ">Education Cloud
+        </h1>
+    </div>
+</div>
+
+<div data-elementor-type="single-post" data-elementor-id="32"
+    class="elementor elementor-32 elementor-location-single post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
+    <div class="elementor-element elementor-element-6e8460c3 e-con-boxed e-con" data-id="6e8460c3"
+        data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+        <div class="e-con-inner">
+            <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
+                data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                    <img width="500" height="550"
+                        src="wp-content/uploads/sites/231/2022/08/distance-course-isometric_98292-7151.jpg"
+                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
                 data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <link rel="stylesheet"
@@ -613,62 +668,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
-                data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
-                <div class="elementor-widget-container">
-                    <style>
-                    /*! elementor - v3.12.2 - 23-04-2023 */
-                    .elementor-heading-title {
-                        padding: 0;
-                        margin: 0;
-                        line-height: 1
-                    }
 
-                    .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
-                        color: inherit;
-                        font-size: inherit;
-                        line-height: inherit
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-small {
-                        font-size: 15px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
-                        font-size: 19px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-large {
-                        font-size: 29px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
-                        font-size: 39px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
-                        font-size: 59px
-                    }
-                    </style>
-                    <h1 class="elementor-heading-title elementor-size-default elementor-align-center mt-5">Industries Cloud </h1>
-                </div>
-            </div>
-
-<div data-elementor-type="single-post" data-elementor-id="32"
-    class="elementor elementor-32 elementor-location-single post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
-    <div class="elementor-element elementor-element-6e8460c3 e-con-boxed e-con" data-id="6e8460c3"
-        data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-        <div class="e-con-inner">
-            <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
-                data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
-                <div class="elementor-widget-container">
-                    <img width="800" height="650"
-                        src="wp-content/uploads/sites/231/2022/08/industrial-cloud.jpg"
-                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
-                </div>
-            </div>
-            
-            <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
+            <div class="elementor-element elementor-element-401b5af5 elementor-widget elementor-widget-post-info"
                 data-id="401b5af5" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
@@ -676,35 +677,254 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-align-center elementor-widget-theme-post-excerpt"
                 data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
                 <div class="elementor-widget-container">
-                Transforming business processes in the digital age In the age of digital transformation
-                </div>
-            </div>
-            <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
-                data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
-                <div class="elementor-widget-container">
-
-                    <p>The process of extreme digitization is currently underway across all sectors and industries of
-                        society, with the Covid-19 pandemic serving as a catalyst for this transformation. However,
-                        these changes in the nature of business are anticipated to endure beyond the pandemic's
-                        resolution. In response to this pervasive trend, Salesforce has proactively expanded its
-                        portfolio and made substantial strides in the vertical cloud solutions market, tailored to the
-                        distinctive requirements of specific industries. Salesforce now offers a range of
-                        industry-specific clouds, all built on the foundation of Customer 360, poised to accelerate the
-                        digital transformation within diverse industrial sectors. These specialized clouds are
-                        meticulously designed to foster trust, spur innovation, and enhance agility, reflecting
-                        Salesforce's commitment to addressing the evolving needs of modern businesses across various
-                        domains.
-                    </p>
-
-
-                    <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
+                    Empowering seamless collaboration and access to learning resources through secure, scalable
+                    cloud-based technology solutions.
                 </div>
             </div>
         </div>
     </div>
+    <div class="ms-5 me-5">
+
+        <p>Salesforce Education Cloud optimizes the student learning journey with personalized experiences, progress
+            tracking, and more, enhancing engagement. Additionally, it fosters stronger school-parent relationships,
+            promoting ongoing communication and collaboration for student success.</p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Why Do We Need Salesforce Education Cloud ?
+            </div>
+        </div>
+        <p>We need Education Cloud to revolutionize the way education is delivered and managed by harnessing the power
+            of cloud computing. It offers seamless access to resources, facilitates collaboration, enhances teaching
+            methods, streamlines administrative tasks, and provides scalability and cost-effectiveness. Ultimately,
+            Education Cloud aims to improve learning outcomes, increase accessibility, and drive efficiency across
+            educational institutions.
+
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Learn About Education Cloud
+            </div>
+        </div>
+        <p>
+            The next-generation CRM for education is here. Education Cloud is the digital foundation empowering
+            tomorrow’s institutions today. With Education Cloud's configurable and secure platform, your institution
+            becomes future-ready in a fast-changing digital landscape.
+
+            Education Cloud draws on the power of Salesforce to connect insights across recruitment, admissions, and
+            student success for a unified view of every learner's journey. A single source of truth creates a complete
+            student profile, so your institution can offer personalized experiences that translate into successful
+            lifetime learners — from prospective student to engaged alum.
+
+            With Salesforce at the center of your institution's information technology solution, important tasks can be
+            completed in less time, at scale, and in collaboration between departments. Education Cloud provides your
+            institution with powerful technologies including:</br>
+        </p>
+        <p>
+            An online learner portal powered by Experience Cloud</br>
+            Single, home page views of important departmental activities with Recruiting and Admissions Consoles</br>
+            Powerful workflow automation and tailored user interfaces with OmniStudio</br>
+            Customizable reports and dashboards providing actionable insights with CRM Analytics</br>
+        </p>
+        <p>
+            Get Started with Education Cloud
+            offers a learner-first, organization-wide, stakeholder engagement and collaboration platform
+            for Education that maximizes outcomes and experiences for lifelong learners. Explore what's offered by
+            Education Cloud, get hands-on with a trial org, and then learn about what setup we recommend, and how to get
+            ready for your implementation.
+            Understand What's Included with Education Cloud
+            Education Cloud provides an education-focused data model within the Salesforce platform to build
+            applications that support the entire learning experience and meet your users' needs.
+            Create an Education Cloud Trial Org
+            Get hands-on experience with Education Cloud in a full-featured trial experience.
+            Recruitment and Admissions
+            Discover how Education Cloud supports your recruitment and admissions activities with an online portal and
+            powerful collaboration tools.
+            Student Success
+            Learn how Education Cloud provides you with powerful tools to support learner success.
+            Mentoring
+            Create and manage mentoring programs, strengthen relationships between mentors and mentees, assign benefits,
+            and manage assessments.
+            Alumni Relations
+            Learn about the powerful tools that Education Cloud provides to engage with alumni from your institution.
+            Developer Resources for Education Cloud
+            Learn where to find developer resources including the entity relationship diagram (ERD), object reference,
+            and apex reference.
+            Extend Education Cloud with Common Features
+            Accomplish common education tasks with the features available for use in Education Cloud.
+            Education Cloud and Translation
+            Salesforce provides translations for Education Cloud in multiple languages.
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Online Learning Platforms
+            </div>
+        </div>
+        <p>
+            Cloud-based learning management systems (LMS) that provide tools for course creation, delivery, assessment,
+            and collaboration among students and educators.
+
+        </p>
+        <p>
+
+            Online learning platforms provide a digital space where students can access educational materials,
+            participate in interactive activities, and engage with instructors remotely. These platforms streamline the
+            process of course delivery, assessment, and collaboration, offering flexibility and accessibility for
+            learners to study at their own pace and from any location with internet access.
+        </p>
+        <p>
+            They offer a wide range of features such as:</br>
+
+            <b>1. Course Content</b>: Hosting and organizing educational materials including lectures, readings, videos,
+            and
+            quizzes.</br>
+
+            <b>2. Interaction</b>: Facilitating communication and collaboration between students and instructors through
+            discussion forums, messaging, and video conferencing.</br>
+
+            <b>3. Assessment</b>: Providing tools for quizzes, assignments, and exams to evaluate student progress and
+            understanding.</br>
+
+            <b>4. Flexibility</b>: Allowing learners to access materials and participate in activities at their own pace
+            and
+            convenience, from any location with internet access.</br>
+
+            <b>5. Personalization</b>: Tailoring learning experiences to individual student needs through adaptive
+            learning
+            algorithms and personalized feedback.</br>
+
+        </P>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Collaboration Tools
+            </div>
+        </div>
+        <p>
+            Cloud-based productivity suites and collaboration tools that enable students and teachers to work together
+            on projects, share documents, and communicate in real-time from anywhere with internet access.</p>
+
+        <p>
+
+            Collaboration tools for Education Cloud empower educators and students to engage, communicate, and work
+            together seamlessly within the educational environment. These tools typically include features such as:
+        </p>
+        <p>
+            <b>1. Discussion Forums</b>: Platforms where students and instructors can participate in discussions, ask
+            questions, and share insights on course topics.</br>
+            <b>2. Real-Time Collaboration</b>: Tools that enable synchronous collaboration, such as live chat, video
+            conferencing, and virtual whiteboards, allowing for interactive discussions and group work.</br>
+            <b>3. Document Sharing and Co-editing</b>: Platforms that facilitate sharing and collaboration on documents,
+            presentations, and other educational materials in real-time, enabling students and educators to work
+            together on projects and assignments.</br>
+            <b>4. Learning Management System (LMS) Integration</b>: Integration with LMS platforms to seamlessly
+            incorporate collaboration features into the online learning environment, including discussion forums, group
+            activities, and peer feedback.</br>
+            <b>5. Peer Review and Feedback</b>: Tools that facilitate peer review and feedback processes, enabling
+            students to provide constructive feedback to their peers and engage in collaborative learning
+            experiences.</br>
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Virtual Classrooms
+            </div>
+        </div>
+        <p>Cloud-based platforms that facilitate virtual classroom sessions, allowing for live lectures, discussions,
+            and interactive activities among students and instructors, regardless of their physical location.</p>
+
+        <p>
+
+            Virtual classrooms are online platforms that replicate traditional face-to-face learning environments in a
+            digital space. They typically feature:
+        </p>
+        <p>
+            <b>1. Live Lectures</b>: Instructors can deliver live lectures through video conferencing, allowing students
+            to participate remotely in real-time.</br>
+            <b> 2. Interactive Tools </b>: Virtual classrooms often include interactive tools such as chat functions,
+            polling, and digital whiteboards, enabling engagement and interaction between students and instructors.</br>
+            <b>3. Screen Sharing</b>: Instructors can share their screen to present slideshows, videos, or other
+            educational materials during the lecture.</br>
+            <b>4. Breakout Rooms </b>: Some virtual classroom platforms offer breakout rooms where students can
+            collaborate in smaller groups for discussions, group activities, or projects.</br>
+            <b>5. Recording Capabilities</b>: Sessions may be recorded for students who are unable to attend live or for
+            future reference.
+        </p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Data Storage and Management
+            </div>
+        </div>
+        <p>Cloud storage solutions for storing educational resources, documents, and student records securely, with easy
+            access from various devices</p>
+        <p>
+
+            Data storage and management in the context of Education Cloud refers to the organization, storage, and
+            secure management of educational data, including:</p>
+        <p>
+            <b>1. Centralized Storage</b>: Education Cloud provides a centralized platform for storing various types of educational data, such as student records, course materials, assessments, and administrative documents.</br>
+            <b>2. Secure Access Control</b>: Role-based access control mechanisms ensure that only authorized individuals, such as students, teachers, and administrators, can access specific data based on their roles and permissions.</br>
+            <b>3. Scalability</b>: Education Cloud offers scalable storage solutions that can accommodate growing volumes of educational data over time, allowing educational institutions to easily expand their storage capacity as needed.</br>
+            <b>4. Data Integration</b>: Some virtual classroom platforms offer breakout rooms where students can
+            collaborate in smaller groups for discussions, group activities, or projects.</br>
+            <b>5. Data Analytics</b>: Education Cloud may include built-in analytics tools that enable educators and administrators to analyze educational data, gain insights into student performance and engagement, and make data-driven decisions to improve teaching and learning outcomes.
+        </p>    
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Administrative Systems
+            </div>
+        </div>
+        <p> Cloud-based administrative software for managing student enrollment, scheduling, grading, and other
+            administrative tasks more efficiently</p>
+        <p>
+        Administrative systems in Education Cloud refer to the suite of cloud-based software and tools designed to streamline and automate administrative tasks within educational institutions. These systems typically include:
+        </p>
+
+        <p>
+            <b>1. Student Information Systems (SIS)</b>:  SIS platforms centralize student data such as enrollment, attendance, grades, and academic records. They facilitate efficient management of student information and support administrative tasks related to student enrollment, registration, and academic progress tracking.</br>
+            <b>2. Human Resources Management Systems (HRMS)</b>: HRMS platforms manage employee data, including hiring, payroll, benefits administration, and performance evaluations. They help streamline HR processes and ensure compliance with employment regulations.</br>
+            <b>3. Financial Management Systems</b>: Financial management systems handle budgeting, accounting, purchasing, and expense management for educational institutions. They provide tools for financial planning, tracking expenses, and generating financial reports.</br>
+            <b>4. Facilities Management Systems</b>: Facilities management systems assist in managing campus facilities, resources, and maintenance activities. They help optimize facility usage, schedule maintenance tasks, and track equipment inventory.</br>
+            <b>5. Compliance and Reporting Tools</b>: Education Cloud may include tools for ensuring compliance with regulatory requirements and generating reports for accreditation, funding, and other purposes.
+        </p>    
+        <p>
+        Overall, administrative systems in Education Cloud improve operational efficiency, data accuracy, and compliance by automating administrative processes and centralizing administrative data in a secure cloud-based environment.
+        </p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Scalability and Cost-Effectiveness
+            </div>
+        </div>
+        <p> Cloud-based administrative software for managing student enrollment, scheduling, grading, and other
+            administrative tasks more efficiently.
+        </p>
+        <p>
+        Scalability and cost-effectiveness are key benefits of Education Cloud, offering:
+    </p>
+    <p>
+            <b>1. Scalability</b>:  Education Cloud solutions can scale resources up or down based on demand, allowing educational institutions to accommodate fluctuating needs without investing in additional infrastructure. This flexibility ensures that resources are readily available to support growing student populations or changing educational requirements.
+        </br>
+            <b>2. Cost-Effectiveness</b>: By leveraging cloud-based services, educational institutions can avoid the upfront costs associated with purchasing and maintaining on-premises hardware and software. Instead, they pay only for the resources they use on a subscription or consumption basis, resulting in lower overall costs and predictable expenses. Additionally, Education Cloud eliminates the need for costly infrastructure upgrades and reduces IT management overhead, further enhancing cost-effectiveness.</br>
+    </p>
+    <p>
+    Overall, scalability and cost-effectiveness in Education Cloud enable educational institutions to efficiently allocate resources, adapt to evolving needs, and achieve their educational goals within budget constraints.
+    </p>    
+    <hr>
+        
+
+    </div>
+
 
     <?php include 'app/footer.php';?>

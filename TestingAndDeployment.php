@@ -599,7 +599,62 @@
     <meta name="msapplication-TileImage"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
-<div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
+<div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
+    data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
+    <div class="elementor-widget-container">
+        <style>
+        /*! elementor - v3.12.2 - 23-04-2023 */
+        .elementor-heading-title {
+            padding: 0;
+            margin: 0;
+            line-height: 1
+        }
+
+        .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
+            color: inherit;
+            font-size: inherit;
+            line-height: inherit
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-small {
+            font-size: 15px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+            font-size: 19px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-large {
+            font-size: 29px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
+            font-size: 39px
+        }
+
+        .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
+            font-size: 59px
+        }
+        </style>
+        <h1 class="elementor-heading-title elementor-size-default elementor-align-center pt-5 ">Testing and Deployment
+        </h1>
+    </div>
+</div>
+
+<div data-elementor-type="single-post" data-elementor-id="32"
+    class="elementor elementor-32 elementor-location-single post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
+    <div class="elementor-element elementor-element-6e8460c3 e-con-boxed e-con" data-id="6e8460c3"
+        data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+        <div class="e-con-inner">
+            <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
+                data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                    <img width="800" height="650"
+                        src="wp-content/uploads/sites/231/2022/08/version-control-concept-illustration_114360-2451.avif"
+                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
                 data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <link rel="stylesheet"
@@ -613,62 +668,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
-                data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
-                <div class="elementor-widget-container">
-                    <style>
-                    /*! elementor - v3.12.2 - 23-04-2023 */
-                    .elementor-heading-title {
-                        padding: 0;
-                        margin: 0;
-                        line-height: 1
-                    }
 
-                    .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
-                        color: inherit;
-                        font-size: inherit;
-                        line-height: inherit
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-small {
-                        font-size: 15px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
-                        font-size: 19px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-large {
-                        font-size: 29px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
-                        font-size: 39px
-                    }
-
-                    .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
-                        font-size: 59px
-                    }
-                    </style>
-                    <h1 class="elementor-heading-title elementor-size-default elementor-align-center mt-5">Industries Cloud </h1>
-                </div>
-            </div>
-
-<div data-elementor-type="single-post" data-elementor-id="32"
-    class="elementor elementor-32 elementor-location-single post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
-    <div class="elementor-element elementor-element-6e8460c3 e-con-boxed e-con" data-id="6e8460c3"
-        data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-        <div class="e-con-inner">
-            <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
-                data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
-                <div class="elementor-widget-container">
-                    <img width="800" height="650"
-                        src="wp-content/uploads/sites/231/2022/08/industrial-cloud.jpg"
-                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
-                </div>
-            </div>
-            
-            <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
+            <div class="elementor-element elementor-element-401b5af5 elementor-widget elementor-widget-post-info"
                 data-id="401b5af5" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
@@ -676,35 +677,348 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-align-center elementor-widget-theme-post-excerpt"
                 data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
                 <div class="elementor-widget-container">
-                Transforming business processes in the digital age In the age of digital transformation
-                </div>
-            </div>
-            <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
-                data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
-                <div class="elementor-widget-container">
-
-                    <p>The process of extreme digitization is currently underway across all sectors and industries of
-                        society, with the Covid-19 pandemic serving as a catalyst for this transformation. However,
-                        these changes in the nature of business are anticipated to endure beyond the pandemic's
-                        resolution. In response to this pervasive trend, Salesforce has proactively expanded its
-                        portfolio and made substantial strides in the vertical cloud solutions market, tailored to the
-                        distinctive requirements of specific industries. Salesforce now offers a range of
-                        industry-specific clouds, all built on the foundation of Customer 360, poised to accelerate the
-                        digital transformation within diverse industrial sectors. These specialized clouds are
-                        meticulously designed to foster trust, spur innovation, and enhance agility, reflecting
-                        Salesforce's commitment to addressing the evolving needs of modern businesses across various
-                        domains.
-                    </p>
-
-
-                    <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
+                    The Importance of Maintaining a Properly Functioning CRM System and CodM's Salesforce Testing And
+                    Deployment
                 </div>
             </div>
         </div>
     </div>
+    <div class="ms-5 me-5">
 
+        <p>The process of data migration in Salesforce pertains to the movement of data from one Salesforce instance to
+            another. This may be required when a business upgrades from an older version of Salesforce to a more recent
+            one, or when consolidating several Salesforce instances into a single one.
+
+            To ensure successful testing and deployment, developers typically use various tools and techniques, such as
+            automated testing, continuous integration, and version control. These processes help identify and fix any
+            issues before releasing the application to end-users. Additionally, developers must follow best practices
+            and adhere to Salesforce's security and compliance guidelines to ensure data privacy and protection.</p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Why Do We Need Salesforce Testing?
+            </div>
+        </div>
+        <p>The Salesforce platform is extremely adaptable and inclusive, allowing businesses to personalize it to suit
+            their individual needs with ease. It offers a diverse range of resources, tools, and an extensive
+            third-party integration ecosystem through the AppExchange marketplace, all of which can be utilized to
+            customize the platform. However, given the complexity of the system, conflicts may occur.
+
+            When upgrading Salesforce to a newer version, it can conflict with the existing customizations
+
+            New external systems, APIs, and integrations may clash with already installed integrations
+
+            New data validation rules can be too strict or inconsistent with existing data, causing issues with data
+            entry and updates
+
+            Heavy data processing can impact performance
+
+            Customizations that modify user access controls can lead to security issues
+
+            By conducting comprehensive testing, the QA team can identify and resolve areas of conflict in a timely
+            manner prior to release, thereby minimizing the adverse effects of bugs on the company's profits. Along with
+            examining customizations, Salesforce testing offers the same advantages as performing typical software
+            testing.
+
+            Ensure system reliability and stability
+
+            Minimize risk of system failures, data loss, or performance issues
+
+            Maintain data integrity in the system
+
+            Improve user experience by identifying and eliminating friction
+
+            Ensure compliance and security
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Salesforce CI/CD using Azure DevOps
+            </div>
+        </div>
+        <p>
+            Getting the Fundamentals right Before we dive in to the setup and configurations of the DevOps process, we
+            should have a clear understanding of what Continuos Integration (CI) is and what Continuous Delivery (CD)
+            Is.
+
+            Continuous Integration (CI) is not a tool. It is a practice.
+
+            It is a practice for integrating the work of all developers into a common codebase.
+
+            It involves running tests automatically when code is changed.
+
+            It also involves detecting broken build & tests in few seconds to keep process flowing.
+
+            Continuous Delivery (CD) is not a tool. It is a practice.
+
+            It also involves propagating changes from PROD to DEV to keep orgs in sync.
+
+            Understanding the current Development Model As of today, Salesforce recommends two development models.
+
+            Package Development Model
+
+            Org Development Model
+
+            We need to set the deployment strategy in alignment with the development models. In Package Development
+            Model, Every artefact is bundled into a package and deployed separately Package should be self-sufficient &
+            isolated Requires the organization to have adherence to architectural principles, existence of frameworks,
+            horizontal & vertically sliced concerns addressed Even though Package Development Model appears close to
+            what we want to have, do not force yourself into package development if your organizational practices are
+            not package based. Package Development Model would vision to release features as a package which is
+            vertically and horizontally sliced. Any impacts that occur would only happen in that package/app and it
+            would not affect the other packages/apps. Getting to the package development model maturity itself is a huge
+            effort on its own.
+
+            In Org Development Model,
+
+            Artefacts are bundled as functionalities/features for deployment (like a changeset bundle)
+
+            Deployments are org based and not package based
+
+            Org Development Model is a common development model that most organizations follow. Every feature developed
+            would be bundled into a changeset and be deployed to an org. Post deployment, QA would do a smoke testing
+            and a regression testing just to ensure nothing in the org is impacted.
+
+            Now, let’s define the problem statement.
+
+            ABC Company uses Salesforce CRM for their business. They have a development team that develops
+            functionalities as per business request in a Developer Sandbox. The team lead/team manager/deployment
+            manager collects the list of items developed for each functionality from the developer, prepares changeset
+            and deploys to QA Sandbox when it is ready for QA testing. After QA testing is pass, those functionalities
+            are queued for PROD deployment which happens once every 2 weeks. The team lead/team manager/deployment
+            manager again creates the changeset for PROD deployment and executes them every 2 weeks and initimates the
+            organization stakeholders. For your information, they use Azure repositories for code management for their
+            website development team.
+
+            Key items to consider for deployment strategy
+
+            It is clear that ABC company uses Org Development Model. So, we need to understand that anything related to
+            package development model (even though it is fancy and attractive) should not be forced.
+
+            They already use Azure repositories for version control needs. So, it is worth using Azure repo for SF code
+            management.
+
+            Azure has out of the box features for Devops which is called Azure DevOps services. This can be used as a
+            tool for CI/CD.
+
+            Things that we need before we start the DevOps configurations
+
+            Salesforce Developer Org [if you don’t have one, signup and get a free personal dev org]
+
+            Developer Azure account [just go to dev.azure.com and register with your microsoft personal email address]
+
+            Salesforce CLI installed locally
+
+            Visual Studio Code installed locally with “Salesforce Extension Pack” installed.
+
+            Git (either via npm or as installer)
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Getting the SF Org codebase to push to Azure Git repo
+            </div>
+        </div>
+        <p>
+            In this step, we will pull the codebase from salesforce and organize it in the way we want to version
+            control it. Then, we will commit this code to the Azure Git repo we created in Step 3.
+
+            Create a folder named “Projects” in your local machine
+            Open the terminal/command prompt from this “Projects” folder.
+            Execute the following command for creating an empty SFDX project locally
+            sfdx force:project:create --projectname MyPersonalDevOrg
+
+            cd into the newly created project folder
+            cd MyPersonalDevOrg
+
+            Create a folder named “manifest”
+            mkdir manifest
+
+            Type the following command to open the project in VS Code.
+            code .
+
+            Create a file named “package.xml” inside the manifest folder.
+            Open the “package.xml” file and paste the following contents. Essentially, we are saying that we are
+            interested in Apex Classes, Apex Triggers, Visualforce Pages and Custom Objects only. You can add more
+            metadata to “package,xml” file as per your needs.
+            <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+            <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+                <types>
+                    <members>*</members>
+                    <name>ApexClass</name>
+                </types>
+                <types>
+                    <members>*</members>
+                    <name>ApexTrigger</name>
+                </types>
+                <types>
+                    <members>*</members>
+                    <name>ApexPage</name>
+                </types>
+                <types>
+                    <members>*</members>
+                    <name>CustomObject</name>
+                </types>
+                <version>44.0</version>
+            </Package>
+
+            Create a folder named “buildfiles” using the following command
+            mkdir buildfiles
+
+            Paste the server.key inside the buildfiles folder
+            Execute the following command in terminal/command prompt. This will retrieve all the metadata from your SF
+            org to the project folder in metadata format. Please do replace the xxx@xxx.com to your salesforce org
+            username.
+            sfdx force:mdapi:retrieve -r retrieved -k manifest/package.xml -w 10 -u xxx@xxx.com
+
+            Unzip the retrieved metadata zip file into a folder named “retrieved”. (Note that this unzip command may not
+            work in Windows OS. So manually unzip.)
+            unzip retrieved/unpackaged.zip -d retrieved
+
+            Delete the zip file
+            rm retrieved/unpackaged.zip
+
+            Convert the unzipped “retrieved” folder contents from metadata format to SFDX format. This will add the
+            metadata into the SFDX project structure under the folder “force-app”
+            sfdx force:mdapi:convert -r retrieved/unpackaged -d force-app
+
+            Execute the following command in terminal/command prompt to initialize the project folder for git tracking.
+            git init
+
+            Switch to VS Code. In .gitignore file, add the following lines to the last of the file. We are telling git
+            that do not track “retrieved” and “toDeploy” folders as they are working directories.
+            retrieved/
+            toDeploy/
+
+            Add the Git user configurations. Execute the following commands in the terminal/command prompt. Replace
+            “xxx@xxx.com” with your dev.azure.com login email address. Replace “testusername” with the username you had
+            got in STEP 3 -> Point number 5.
+            git config user.email "xxx@xxx.com"
+            git config user.name "testusername"
+
+            Add all the project files to git tracking by executing the following command in terminal/command prompt.
+            git add .
+
+            Execute the following command in terminal/command prompt to commit the code.
+            git commit -m "Initial Code"
+
+            Copy and execute the git remote command from the Azure Project’s -> Repos page shown in the “Push an
+            existing repository from command line” section. GIT_REPO_URL should be replaced with your azure git repo
+            url.
+            git remote add origin GIT_REPO_URL
+
+            Execute the following command in terminal/command prompt to push the local project codebase to the Azure Git
+            Repo. This might ask for the password. Provide the password that we had got from STEP 3 -> Point number 5.
+            git push -u origin master
+
+            After the command executes, switch to Azure Git Repo open in browser and refresh the page. You should see
+            the Salesforce Org codebase in the repo.
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Creating the Azure Pipeline for automated build & deploy
+            </div>
+        </div>
+        <p>
+            In this step, we will create the azure pipeline which will build, test and deploy the committed codebase
+            from azure git repo to Salesforce Cloud. Here, we will use the latest SFDX CLI techniques to deploy instead
+            of the old school ANT migration scripts.
+
+            In the Azure Project page open in the browser, navigate to “Pipelines” tab.
+            Click on “Create Pipeline”
+            Choose “Azure Repos Git” for “Where is your code?”
+            Choose “SF DevOps” project for “Select your repository”
+            Choose “Starter Pipeline” for “Configure your pipeline”
+            Overwrite the code shown in “Review your pipeline YAML” and paste the following code. (Note: a usual mistake
+            that people do is to copy-paste the pipeline code and mess up the indentation of the yml code. If
+            indentation is not right, you will have a tough time running the pipeline.)
+            # Starter pipeline
+            # Start with a minimal pipeline that you can customize to build and deploy your code.
+            # Add steps that build, run tests, deploy, and more:
+            # https://aka.ms/yaml
+
+            trigger:
+            batch: "true"
+            branches:
+            include:
+            - master
+            paths:
+            exclude:
+            - README.md
+            - azure-pipelines.yml
+            pr:
+            autoCancel: "true"
+            branches:
+            include:
+            - master
+            paths:
+            exclude:
+            - README.md
+            jobs:
+            - job: Deploy
+            condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+            steps:
+            - task: UseNode@1
+            - bash:
+            npm install sfdx-cli --global
+            displayName: Install Salesforce CLI
+            - bash:
+            sfdx force:auth:jwt:grant --clientid $(salesforceDevOrgClientId) --jwtkeyfile ./buildfiles/server.key
+            --username $(salesforceDevOrgUserName) --instanceurl $(salesforceDevOrgInstanceURL) -a devOrg
+            displayName: Authorize salesforce org
+            - bash:
+            sfdx force:source:convert -r ./force-app -d ./toDeploy
+            displayName: Convert to deploy source
+            - bash:
+            sfdx force:mdapi:deploy -l RunLocalTests -c -d ./toDeploy -u devOrg -w 10
+            displayName: Run validation on source code
+            - bash:
+            sfdx force:mdapi:deploy -l RunLocalTests -d ./toDeploy -u devOrg -w 10
+            displayName: Deploy source code to Dev Org
+        </p>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Explanation of the pipeline code
+            </div>
+        </div>
+        <p>
+            We define 1 job called “Deploy” with a set of steps/tasks.
+            Install SF CLI on the azure vm so that we can execute SFDX commands.
+            Authorize the Dev Org and ensure that we can login using clientId, server.key and username
+            Convert the SFDX code in “force-app” directory to metadata format for deployment
+            Run a Validation using the converted code in metadata format using SFDX
+            Deploy the converted code in metadata format using SFDX
+            Click on the “Variables” button and create the following variables
+            salesforceDevOrgClientId = paste the client id from the connected app we created in Step 2
+            salesforceDevOrgInstanceURL = https://login.salesforce.com
+            salesforceDevOrgUserName = type the username of your developer org
+            Click on “Save & Run”. You will see the pipeline starting to run. You can click the build instance and see
+            what the azure pipeline is doing while it is executing the commands.
+            After the pipeline is executed, you can open the Salesforce Org in browser and navigate to Setup ->
+            Environments -> Deploy -> Deployment Status. Here, you will see a recent Deployment Validation Success & a
+            Deployment Success.
+            Run the following command in terminal/command prompt to pull the pipeline yml file to vscode locally.
+            git pull origin master
+            This completes the setup of Azure DevOps pipeline for automating Salesforce deployments.
+
+            **From now on, you just need to **
+
+            open the project code in VS Code
+            add/modify the code
+            run the following commands to commit your code changes to azure git repo
+            git add .
+            git commit -m "commit message"
+            git push origin master
+            the azure pipeline will automatically detect that a commit was made and it will automatically run the azure
+            pipeline to deploy the code.
+            even if the pipeline succeeds or fails, you will get an email notification regarding the latest build status
+        </p>
+
+    </div>
     <?php include 'app/footer.php';?>
