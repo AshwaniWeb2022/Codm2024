@@ -682,7 +682,7 @@
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="blog.php">Blog</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
                                             <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
@@ -727,7 +727,7 @@
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                         <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="blog.php">Blog</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
                                             <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
@@ -759,7 +759,7 @@
                         data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a href="get-a-quote/index.php"
+                                <a href=""
                                     class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-text">Join Us </span>
