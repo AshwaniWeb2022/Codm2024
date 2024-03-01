@@ -165,28 +165,6 @@
 							}
 						</style>
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\buisness analyst.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">Business Analyst </h4>
-								<!-- <p class="elementor-image-box-description">Job Title</p> -->
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
-					<div class="elementor-widget-container">
-						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Platform-App-Builder.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">platform app builder </h4>
-								<!-- <p class="elementor-image-box-description">Job Title</p> -->
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
-					<div class="elementor-widget-container">
-						<div class="elementor-image-box-wrapper">
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sit
 							es/231/2022/08/Application-Architect.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
@@ -207,8 +185,17 @@
 						</div>
 					</div>
 				</div>
-				
-				
+				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">OmniStudio Consultant </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="elementor-element elementor-element-780b1097 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="780b1097" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
@@ -220,12 +207,24 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\buisness analyst.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">Business Analyst </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Platform-App-Builder.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">OmniStudio Consultant </h4>
+								<h4 class="elementor-image-box-title">platform app builder </h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
