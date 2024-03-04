@@ -656,7 +656,7 @@
                                 vertical-align: middle;
                                 display: inline-block
                             }
-                            </style> <a href="index.php">
+                            </style> <a href="index/">
                                 <img src="logo-change-color.jpg"
                                     class="attachment-full size-full wp-image-11 ms-2"  alt="" loading="lazy" /> </a>
                         </div>
