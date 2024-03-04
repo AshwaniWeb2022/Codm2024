@@ -78,7 +78,7 @@
 						}
 
 						.elementor-widget-heading .elementor-heading-title.elementor-size-small {
-							font-size: 15px
+							font-size: 10px
 						}
 
 						.elementor-widget-heading .elementor-heading-title.elementor-size-medium {
@@ -110,7 +110,7 @@
 <section class="">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-6 mx-auto p-md-5 mb-2">
+            <div class="col-lg-6 mx-auto align-self-center text-sm-center p-md-5 mb-2">
                 <div class="T-form-tital">Salesforce Forms for any Use Case and Object</div>
                 <div class="T-form-subTital pt-4">Titan's Salesforce Forms reate custom forms, collect data, and automate processes with our drag-and-drop form builder. No coding required, Bi-Salesforce Integration with any object</div>
             </div>
