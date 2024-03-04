@@ -4,7 +4,7 @@
     
 .T-form-tital {
     font-size: 56px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 60px
 }
 

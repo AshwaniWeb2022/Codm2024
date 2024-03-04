@@ -649,9 +649,9 @@
             <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
                 data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
                 <div class="elementor-widget-container">
-                    <img width="500" height="850"
-                        src="wp-content/uploads/sites/231/2022/08/technology-blue_24877-49447.jpg"
-                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
+                    <img width="500" height="650"
+                        src="wp-content/uploads/sites/231/2022/08/door-innovation-flat-isometric_126523-2023.jpg"
+
                 </div>
             </div>
             <div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
