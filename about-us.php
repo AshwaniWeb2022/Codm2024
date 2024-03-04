@@ -66,7 +66,12 @@
 <section class="section_heading pt-5 mt-5 " style="position:relative;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 mb-4">
+		<div class="col-lg-6 ps-sm-5 order-lg-2 ">
+				<div id="aboutImage_Wrapper">
+                    <img src="wp-content/uploads/sites/231/2022/08/photo-1522071820081-009f0129c71c.avif" alt="about" class="w-100 h-100">
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4 ">
 			<h5 class="mb-3" style="color:#00A1E0;">Expertise That Delivers Results</h5>
                 <h2 class="about-title_h2">Elevate Your Business with Tailored Salesforce Implementation Solutions</h2>
                 <div class=" pt-4" style="line-height: 30px;">Empowering Your Team Through Training and Support: A successful Salesforce implementation isn't just about technology—it's about empowering your team to leverage its full potential. That's why we offer comprehensive training and ongoing support to ensure your team is equipped with the knowledge and skills they need to thrive in the Salesforce environment.<br/>
@@ -74,11 +79,7 @@
 				<!-- <h2 class="about-title_h2">Seamless Integration Across Your Ecosystem</h2> -->
 				<div class=" pt-2" style="line-height: 30px;">Salesforce is just one piece of the puzzle. Our comprehensive approach extends beyond Salesforce implementation to seamless integration with your existing systems and processes. Whether it's ERP, marketing automation, or custom applications, we ensure a cohesive ecosystem that maximizes efficiency and productivity</div>
 			</div>
-            <div class="col-lg-6 ps-sm-5 ">
-				<div id="aboutImage_Wrapper">
-                    <img src="wp-content/uploads/sites/231/2022/08/photo-1522071820081-009f0129c71c.avif" alt="about" class="w-100 h-100">
-                </div>
-            </div>
+
         </div>
     </div>
 </section>
@@ -164,28 +165,6 @@
 							}
 						</style>
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\buisness analyst.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">Business Analyst </h4>
-								<!-- <p class="elementor-image-box-description">Job Title</p> -->
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
-					<div class="elementor-widget-container">
-						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Platform-App-Builder.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
-							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">platform app builder </h4>
-								<!-- <p class="elementor-image-box-description">Job Title</p> -->
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
-					<div class="elementor-widget-container">
-						<div class="elementor-image-box-wrapper">
 							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sit
 							es/231/2022/08/Application-Architect.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
@@ -206,8 +185,17 @@
 						</div>
 					</div>
 				</div>
-				
-				
+				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">OmniStudio Consultant </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="elementor-element elementor-element-780b1097 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="780b1097" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
@@ -219,12 +207,24 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\buisness analyst.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">Business Analyst </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="elementor-element elementor-element-44e6e22 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="44e6e22" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\Platform-App-Builder.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">OmniStudio Consultant </h4>
+								<h4 class="elementor-image-box-title">platform app builder </h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>

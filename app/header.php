@@ -632,7 +632,7 @@
         <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd"
             data-element_type="container"
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-            <div class="e-con-inner px-5">
+            <div class="e-con-inner ">
                 <div class="elementor-element elementor-element-444ee561 e-con-full e-con" data-id="444ee561"
                     data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                     <div class="elementor-element elementor-element-7cc111af elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
@@ -658,7 +658,7 @@
                             }
                             </style> <a href="index.php">
                                 <img src="logo-change-color.jpg"
-                                    class="attachment-full size-full wp-image-11" alt="" loading="lazy" /> </a>
+                                    class="attachment-full size-full wp-image-11 ms-2"  alt="" loading="lazy" /> </a>
                         </div>
                     </div>
                 </div>
@@ -678,9 +678,18 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
                                         <a href="index.php" aria-current="page"
                                             class="elementor-item">Home</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
-                                            href="about-us.php" class="elementor-item">About Us</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item">Services</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="#" class="elementor-item">Company</a>
+                                        <ul class="sub-menu bg-white pt-3">
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
+                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li> -->
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                     
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
@@ -697,6 +706,7 @@
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item">Contact Us</a></li>
                                 </ul>
+                                
                             </nav>
                             <!-- Mobile response  -->
                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle"
@@ -713,8 +723,17 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
                                         <a href="index.php" aria-current="page"
                                             class="elementor-item" tabindex="-1">Home</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
-                                            href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="#" class="elementor-item">Company</a>
+                                        <ul class="sub-menu bg-white pt-3">
+                                        <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
+                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li> -->
+                                        </ul>
+                                    </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
@@ -735,20 +754,20 @@
                             </nav>
                         </div>
                     </div>
-                    <!-- <div class="elementor-element elementor-element-23149d1 elementor-mobile-align-right elementor-widget__width-auto elementor-tablet-align-right elementor-align-right elementor-widget elementor-widget-button"
+                    <div class="elementor-element elementor-element-23149d1 elementor-mobile-align-right elementor-widget__width-auto elementor-tablet-align-right elementor-align-right elementor-widget elementor-widget-button"
                         data-id="23149d1" data-element_type="widget"
                         data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a href="get-a-quote/index.php"
+                                <a href="#!"
                                     class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                     <span class="elementor-button-content-wrapper">
-                                        <span class="elementor-button-text">Get a Quote</span>
+                                        <span class="elementor-button-text">Join Us </span>
                                     </span>
                                 </a>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
