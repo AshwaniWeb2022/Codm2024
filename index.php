@@ -185,6 +185,20 @@
     </div>
 	
     <!-- nav bar ends -->
+    <div>
+     <style>
+    .fixed-image {
+            position: fixed; /* Fix the image position */
+            top: 50%; /* Adjust as per your requirement */
+            right: 0%; /* Adjust as per your requirement */
+            z-index: 9999; /* Ensure the image appears above other content */
+            /* Customize height and width */
+            height: 20px; /* Adjust height as needed */
+            width: 100px; /* Automatically adjust width to maintain aspect ratio */
+        }
+    </style>
+    <img class="fixed-image" src="wp-content/uploads/sites/231/2022/08/Badges3.png" alt="Fixed Image">
+    </div>        
     <!-- Industries sections starts -->
     <div data-elementor-type="footer" data-elementor-id="999"
         class="elementor elementor-999 elementor-location-footer">
@@ -978,8 +992,8 @@
                                 <div
                                     class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
                                     <a class="elementor-cta__button elementor-button elementor-size-md"
-                                        href="about-us.php">
-                                        Learn More </a>
+                                        href="CodM Profile.pdf">
+                                        Company Profile </a>
                                 </div>
                             </div>
                         </div>
