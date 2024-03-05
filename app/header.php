@@ -656,7 +656,7 @@
                                 vertical-align: middle;
                                 display: inline-block
                             }
-                            </style> <a href="index">
+                            </style> <a href="index.php">
                                 <img src="logo-change-color.jpg"
                                     class="attachment-full size-full wp-image-11 ms-2"  alt="" loading="lazy" /> </a>
                         </div>
@@ -679,7 +679,7 @@
                                         <a href="index.php" aria-current="page"
                                             class="elementor-item">Home</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#" class="elementor-item">Company</a>
+                                        <a href="#!" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
@@ -695,12 +695,12 @@
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform.php">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc.php">Titan Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-form.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-sign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-survey.php">Titan Survey </a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
@@ -739,12 +739,12 @@
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform.php">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc.php">Titan Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-form.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-sign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-survey.php">Titan Survey </a></li>
                                         </ul>
                                     </li> 
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
