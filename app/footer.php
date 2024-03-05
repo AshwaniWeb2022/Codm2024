@@ -355,6 +355,7 @@
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services.php" class="elementor-item">Services</a></li>
 									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.php" class="elementor-item">Blog</a></li> -->
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us.php" class="elementor-item">Contact Us</a></li>
+									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="CodM Profile.pdf" class="elementor-item">Company Profile</a></li> -->
 									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.php" class="elementor-item">Get a Quote</a></li> -->
 								</ul>
 							</nav>
@@ -365,6 +366,7 @@
 									 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
 									<!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a></li>
+									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="CodM Profile.pdf" class="elementor-item">Company Profile</a></li> -->
 									<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="get-a-quote/index.php" class="elementor-item" tabindex="-1">Get a Quote</a></li> -->
 								</ul>
 							</nav>

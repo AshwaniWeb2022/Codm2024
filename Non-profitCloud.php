@@ -650,7 +650,7 @@
                 data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
                 <div class="elementor-widget-container">
                     <img width="500" height="650"
-                        src="wp-content/uploads/sites/231/2022/08/door-innovation-flat-isometric_126523-2023.jpg"
+                        src="wp-content/uploads/sites/231/2022/08/cloud-hand-symbol-vector-illustration-blue-background-eps-10_1135708-3338.jpg"
 
                 </div>
             </div>
