@@ -627,7 +627,7 @@
         padding: 0 !important;
     }
     </style>
-    <header data-elementor-type="header" data-elementor-id="18"
+       <header data-elementor-type="header" data-elementor-id="18"
         class="shadow elementor elementor-18 elementor-location-header">
         <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd"
             data-element_type="container"
@@ -676,22 +676,12 @@
                                 <ul id="menu-1-f0c4eec" class="elementor-nav-menu">
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
-                                        <a href="index" aria-current="page"
+                                        <a href="index.php" aria-current="page"
                                             class="elementor-item">Home</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
-                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li> -->
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
-
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="about-us">About Us</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
                                             <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
@@ -699,23 +689,22 @@
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services" class="elementor-item" tabindex="-1">Services</a></li>
-
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                     
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc">Titan Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
-                                        <a href="contact-us" class="elementor-item">Contact Us</a></li>
+                                        <a href="contact-us.php" class="elementor-item">Contact Us</a></li>
                                 </ul>
                                 
                             </nav>
@@ -732,23 +721,12 @@
                                 <ul id="menu-2-f0c4eec" class="elementor-nav-menu">
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
-                                        <a href="index" aria-current="page"
+                                        <a href="index.php" aria-current="page"
                                             class="elementor-item" tabindex="-1">Home</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
-
                                         <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
-                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li> -->
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
-                                    <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index.php" class="elementor-item" tabindex="-1">Blog</a></li> -->
-                                      <li><a class="text-dark elementor-item py-2 px-2" href="about-us">About Us</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
                                             <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
@@ -756,22 +734,21 @@
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services" class="elementor-item" tabindex="-1">Services</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item" tabindex="-1">Blog</a></li> -->
-
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc">Titan Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanform.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titandoc.php">Titan Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm.php">Titan CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb.php">Titan Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey.php">Titan Survey </a></li>
                                         </ul>
                                     </li> 
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
-                                        <a href="contact-us" class="elementor-item" tabindex="-1">Contact Us</a>
+                                        <a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a>
                                     </li>
                                 </ul>
                             </nav>
