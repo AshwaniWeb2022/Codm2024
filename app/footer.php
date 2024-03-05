@@ -372,7 +372,7 @@
 							</nav>
 						</div>
 					</div>
-				</div>
+				</div>	
 				<div class="elementor-element elementor-element-6590ea5e e-con-full e-con" data-id="6590ea5e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 					<div class="elementor-element elementor-element-5cece72 elementor-widget elementor-widget-heading" data-id="5cece72" data-element_type="widget" data-widget_type="heading.default">
 						<div class="elementor-widget-container">
@@ -386,8 +386,7 @@
 								<li class="elementor-icon-list-item">
 
 									<a href="">
-										<span class="elementor-icon-list-text fs-6">Email:
-                      						info@codmsoftware. com</span>
+										<span class="elementor-icon-list-text ">Email: info@codmsoftware.com</span>
 									</a>
 								</li>
 								<li class="elementor-icon-list-item">
