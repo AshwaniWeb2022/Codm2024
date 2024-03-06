@@ -26,18 +26,32 @@
     p {
         font-size: 20px;
     }
-    .button1{
-        height:30px;
+ 
+.button1{
+        height:50px;
+        width: 130px;
+        background-color: blue;
+        border: none;
+        border-radius: 20px;
     }
     .button2{
-        height:30px;
+      height:50px;
+        width: 130px;
+        background-color: red;
+        border: none;
+        border-radius: 20px;
     }
+    a{
+      text-decoration: none;
+      color: #ffffff;
+    }
+
 
     </style>
 <div class="container h-100">
   <div class="row">
     <div >
-      <h1>Thank You!<br/>Your response is successfully submitted.</h1>
+      <h1>Thank You!<br/></h1>
     </div>
     <p>What you want to do next ? </p>
 <div class="button-container">
