@@ -6,6 +6,8 @@
     <title>Job Description </title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -48,45 +50,75 @@
                     <li><b>Exit Process</b>:Manage the exit process for departing employees, including conducting exit
                         interviews and processing necessary paperwork. Analyze exit data to identify trends and
                         areas for improvement.</li>
-                </ul>        
+                </ul>
 
                 </p>
                 <p><b>Qualifications:</b></p>
                 <ul>
                     <li>Bachelor's degree in Human Resources, Business Administration, or related field.</li>
-                    <li>Proven experience in HR functions, including recruitment, talent acquisition, and employee engagement.</li>
+                    <li>Proven experience in HR functions, including recruitment, talent acquisition, and employee
+                        engagement.</li>
                     <li>Strong understanding of HR laws, regulations, and best practices.</li>
                     <li>Excellent communication, interpersonal, and organizational skills.</li>
                     <li>Ability to prioritize and manage multiple tasks in a fast-paced environment.</li>
                     <li>Proficiency in HRIS and Microsoft Office Suite.</li>
-                </ul>    
+                </ul>
             </div>
+            <style>
+                /* Optional: Add some styling for the icon */
+                .location-icon {
+                    cursor: pointer;
+                }
+            </style>
             <div class="col-lg-6 mt-5 pt-5">
                 <!-- Form for the right column -->
-                <h2 class="ms-5 ">Fill in your details to apply now</h2>
-                <form class="me-5 ms-5">
+                <h2 class="ms-5">Fill in your details to apply now</h2>
+                <form class="me-5 ms-5" enctype="multipart/form-data">
                     <div class="form-group">
                         <label for="exampleInputName">Name</label>
                         <input type="text" class="form-control" id="exampleInputName" placeholder="Enter your name">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail" placeholder="Enter your email">
+                        <label for="exampleInputPhone">Phone</label>
+                        <input type="tel" class="form-control" id="exampleInputPhone" placeholder="Enter your number">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail">Phone</label>
-                        <input type="email" class="form-control" id="exampleInputEmail" placeholder="Enter your number">
+                        <label for="exampleInputLocation">Current Location</label>
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="exampleInputLocation"
+                                placeholder="Enter your location">
+                            <div class="input-group-append">
+                                <!-- Location icon to trigger location fetch -->
+                                <span class="input-group-text location-icon" onclick="fetchCurrentLocation()">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputRole">Role</label>
+                        <select class="form-select" id="exampleInputRole" name="role">
+                            <option value="" selected disabled>Select your role</option>
+                            <option value="Software Developer">Hr Executive </option>
+                            <option value="Project Manager">Data Scientist</option>
+                            <!-- <option value="Data Analyst">Data Analyst</option> -->
+                            <!-- Add more role options as needed -->
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputCV">Upload CV</label>
+                        <input type="file" class="form-control-file" id="exampleInputCV" name="cv"
+                            accept=".pdf,.docx,.doc">
                     </div>
                     <!-- <div class="form-group">
-          <label for="exampleInputMessage">Message</label>
-          <textarea class="form-control" id="exampleInputMessage" rows="3" placeholder="Enter your message"></textarea>
+            <label for="exampleInputMessage">Message</label>
+            <textarea class="form-control" id="exampleInputMessage" rows="3" placeholder="Enter your message"></textarea>
         </div> -->
-
-
-
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
             </div>
+
         </div>
     </div>
 
@@ -94,5 +126,47 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+    function fetchCurrentLocation() {
+        // Check if geolocation is supported by the browser
+        if (navigator.geolocation) {
+            // Get current position
+            navigator.geolocation.getCurrentPosition(function(position) {
+                // Extract latitude and longitude
+                const latitude = position.coords.latitude;
+                const longitude = position.coords.longitude;
+                // Create a new geocoder object
+                const geocoder = new google.maps.Geocoder();
+                // Create a LatLng object with the coordinates
+                const latlng = new google.maps.LatLng(latitude, longitude);
+                // Perform reverse geocoding
+                geocoder.geocode({'location': latlng}, function(results, status) {
+                    if (status === 'OK') {
+                        if (results[0]) {
+                            // Get the formatted address from the first result
+                            const address = results[0].formatted_address;
+                            // Update the input field placeholder with the fetched location
+                            document.getElementById("exampleInputLocation").placeholder = address;
+
+                            console.log("address=======151"+address);
+                        } else {
+                            console.error('No results found');
+                        }
+                    } else {
+                        console.error('Geocoder failed due to: ' + status);
+                    }
+                });
+            }, function(error) {
+                console.error('Error occurred while fetching location:', error.message);
+            });
+        } else {
+            console.error('Geolocation is not supported by this browser.');
+        }
+    }
+</script>
+
+<!-- Include the Google Maps JavaScript API for reverse geocoding -->
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
+
 
     <?php include 'app/footer.php';?>
