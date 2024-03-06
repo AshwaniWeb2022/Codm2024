@@ -406,7 +406,7 @@
                     <h2 class="fs-1 mb-5 pb-5 text-center "> Contact Us</h2>
                     <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post" autocomplete="off" name="Contact Form">
                         <input type=hidden name="oid" value="00D5i000008yVNX">
-                        <input type=hidden name="retURL" value="https://codmsoftware.com/contact-us.php">
+                        <input type=hidden name="retURL" value="thankyou.php">
                             <input type="hidden" name="lead_source" value="Web">
                         <div class="elementor-form-fields-wrapper elementor-labels-">
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">

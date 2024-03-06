@@ -992,7 +992,7 @@
                                 <div
                                     class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
                                     <a class="elementor-cta__button elementor-button elementor-size-md"
-                                        href="CodM Profile.pdf">
+                                        href="CodM-Profile.pdf" id="pdfLink" ><i class="fas fa-file-pdf"></i>
                                         Company Profile </a>
                                 </div>
                             </div>
@@ -1003,6 +1003,21 @@
         </div>
 </div>
 <!-- footer section  -->
+<script>
+document.getElementById('pdfLink').addEventListener('click', function(event) {
+    // Prevent the default behavior of the link
+    event.preventDefault();
+
+    // URL of your PDF file
+    var pdfUrl = 'CodM-Profile.pdf';
+
+    // Open the PDF in a new tab
+    var newTab = window.open(pdfUrl, '_blank');
+
+    // Add a favicon to the new tab (replace 'favicon.ico' with your actual favicon file)
+    newTab.document.head.innerHTML += '<link rel="icon" href="wp-content/favicon_io/android-chrome-512x512.png" type="image/x-icon">';
+});
+</script>
 <?php include 'app/footer.php';?>
 
 <!-- <?php include 'app/popup.php';?> -->

@@ -123,7 +123,7 @@
                             needs. By harnessing the power of cutting-edge Salesforce cloud solutions, CodM empowers
                             companies not only to thrive but to achieve sustainable growth, enhance operational
                             efficiency, and curate an unparalleled integrated customer experience.</p>
-                        <a class="elementor-post__read-more" href="SalesforceImplementation.php"
+                        <a class="elementor-post__read-more" href="Salesforce-Implementation.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -180,7 +180,7 @@
                             value. Their services encompass Salesforce Advisory and Support, with a particular emphasis
                             on enhancing or revamping sales processes using Salesforce Sales Clouds.
                         </p>
-                        <a class="elementor-post__read-more" href="Consulting Service.php"
+                        <a class="elementor-post__read-more" href="Consulting-Service.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -300,8 +300,8 @@
                             additional features, functionality, or customization beyond what is available in the
                             standard Salesforce offerings.
                         </p>
-                        <!-- <a class="elementor-post__read-more" href="#!" aria-label="Read more about Blog Post Title">
-                            Read More </a> -->
+                        <a class="elementor-post__read-more" href="salesforce-managed-package.php" aria-label="Read more about Blog Post Title">
+                            Read More </a>
                     </div>
                 </div>
             </div>
@@ -330,7 +330,7 @@
                             it accurately from the source to the target instance. Ensuring data integrity and proper
                             formatting are pivotal to the success of data migration in Salesforce.
                         </p>
-                        <a class="elementor-post__read-more" href="datamigration.php"
+                        <a class="elementor-post__read-more" href="data-migration.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -386,7 +386,7 @@
                             rely on a variety of software solutions to manage their operations, the ability to integrate
                             these systems via APIs has become essential to achieving efficiency, agility and scalability
                             in today's digital landscape.</p>
-                        <a class="elementor-post__read-more" href="apiintegration.php"
+                        <a class="elementor-post__read-more" href="api-integration.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -455,7 +455,7 @@
                             technology solution, important tasks can be completed in less time, at scale, and in
                             collaboration between departments. Education Cloud provides your institution with powerful
                             technologies including </p>
-                        <a class="elementor-post__read-more" href="EducationCloud.php"
+                        <a class="elementor-post__read-more" href="Education-Cloud.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -508,6 +508,9 @@
                             within a single platform. In this comprehensive guide, we'll explore the features, benefits,
                             and use cases of Salesforce CPQ, as well as its impact on sales productivity, revenue
                             growth, and customer satisfaction.</p>
+                            <a class="elementor-post__read-more" href="salesforce-cpq.php"
+                            aria-label="Read more about Blog Post Title">
+                            Read More </a>
 
                     </div>
                 </div>
@@ -542,7 +545,7 @@
                             relationship management (CRM) to enable manufacturers to optimize their operations, improve
                             supply chain visibility, and deliver exceptional customer experiences. In this comprehensive
                             guide, we'll explore the features, benefits, and use cases of Manufacturing Cloud.</p>
-                        <a class="elementor-post__read-more" href="Manufacturing Cloud.php"
+                        <a class="elementor-post__read-more" href="Manufacturing-Cloud.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -598,7 +601,7 @@
                             organizations a range of benefits, including improved agility, scalability, security and
                             compliance, enabling them to drive innovation, optimize processes and deliver superior
                             customer experiences</p>
-                            <a class="elementor-post__read-more" href="IndustriesCloud.php"
+                            <a class="elementor-post__read-more" href="Industries-Cloud.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
@@ -631,7 +634,7 @@
                             This indicates that CodM is not only focused on maintaining the system but also improving it
                             to meet the evolving needs of its clients.
                         </p>
-                        <a class="elementor-post__read-more" href="Support And Maintenance.php"
+                        <a class="elementor-post__read-more" href="Support-And-Maintenance.php"
                             aria-label="Read more about Blog Post Title">
                             Read More </a>
                     </div>
