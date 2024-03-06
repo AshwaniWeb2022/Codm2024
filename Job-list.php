@@ -12,7 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap"
       rel="stylesheet"
     />
-   
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
   <style>
   .jobs-list-container {
@@ -113,8 +113,32 @@
     margin: 0 auto;
   }
 }
+ .AboutJoiningBenefit {
+        border: 1px solid #29ade4;
+        border-radius: 5px;
+        text-align: center;
+        -webkit-box-shadow: 0 0 6px -1px rgba(0, 0, 0, .75);
+        -moz-box-shadow: 0 0 6px -1px rgba(0, 0, 0, .75);
+        box-shadow: 0 0 6px -1px rgba(0, 0, 0, .75);
+        width: 100%;
+        max-height: 450px;
+        height: 100%
+    }
+    
+    .AboutJoiningBenefit div {
+        font-size: 20px;
+        font-weight: 700;
+        padding: 10px 6px
+    }
+    
+    .AboutJoiningBenefit p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 10px
+    }
 </style>
   <body>
+    
     <div class="jobs-list-container">
       <h2>Jobs</h2>
 
@@ -122,6 +146,58 @@
 
       <div class="jobs"></div>
     </div>
+<section class="mt-5">
+<h5 class="mb-3 text-center " style="color:#00A1E0;"> Why You Should Join CodM software </h5>
+     <h2 class="sub_titel text-center pb-5">Reliable Salesforce CRM partner since 2021</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3  col-md-4 mb-3 mt-5">
+                <div id="AboutJoiningBenefit">
+                    <img src="https://img.freepik.com/free-photo/group-young-business-people-working-office_158595-5207.jpg?t=st=1709627854~exp=1709631454~hmac=2df441b9c3b8e9ef732b9c0baf63d05746a0e16c29a4602ed1bd6d386ebc5623&w=996" alt="Friendly Environment" class="w-100">
+                    <div class="text-center fs-5"><b>Friendly Environment</b></div>
+                    <p class="text-center">CodM promotes a healthy and friendly work environment to promote job satisfaction and increased
+                        productivity</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mb-3 mt-5">
+                <div id="AboutJoiningBenefit">
+                    <img src="https://img.freepik.com/free-photo/young-fashion-smiling-hipster-man-drinking-coffee-city-cafe-lunch-time-with-notebook-suit_158538-7999.jpg?w=900" alt="Employee First" class="w-100">
+                    <div class="text-center fs-5">Employee First</div>
+                    <p class="text-center">We at CodM believe that employees must be given first preference irrespective of anything. </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mb-3 mt-5">
+                <div id="AboutJoiningBenefit">
+                    <img src="https://img.freepik.com/free-photo/american-flag-background_23-2147837792.jpg?t=st=1709627772~exp=1709631372~hmac=ed4570404e7711cc129ac62b5a3b84a9f943421c38302b5596bff352de39b12f&w=996" alt="Fun At Work" class="w-100">
+                    <div class="text-center fs-5">Fun At Work</div>
+                    <p class="text-center">Well it’s not just about the work all the time, at CodM we encourage our colleagues to take part
+                        in monthly, quarterly and annual fun activities.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mb-3 mt-5">
+                <div id="AboutJoiningBenefit">
+                    <img src="../assect/upload/career/EVERYP_1.jpg " alt="Training, Development & Rewards" class="w-100">
+                    <div class="text-center fs-5">Training, Development & Rewards</div>
+                    <p class="text-center">We at CodM provide training on new business insights and focus on development of skills and
+                        career while rewarding our colleagues upon their achievements
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+  
+ <!-- <div class="container-fluid">
+    <h2 class="fs-1 mt-5 mb-4 text-center">Why Choose Us</h2>
+    <ul>
+      <li>5 days Working </li>
+      <li>Cab facilities</li>
+      <li>Employee provident fund </li>
+      <li>Medical claim for employees </li>
+      <li>We offer competitive prices.</li>
+    </ul>
+  </div> -->
 
     <script src="main.js"></script>
     <script>
@@ -132,7 +208,7 @@
     details:
       "Responsible for Recruitment and Talent Acquisition, HR Operations, Employee Engagement, Onboarding.",
     openPositions: "1",
-    link: "jobdescription..php",
+    link: "job-description..php",
   },
 
   {
@@ -211,6 +287,7 @@ jobSearch.addEventListener("input", (e) => {
   createJobListingCards();
 });
         </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
   </body>
-</html>
 <?php include 'app/footer.php';?>
