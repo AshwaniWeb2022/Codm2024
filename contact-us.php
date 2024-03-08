@@ -39,26 +39,41 @@
                             font-size: 59px
                         }
                     </style>
-                    <h1 class="elementor-heading-title elementor-size-default">Our Locations </h1>
+                    <h1 class="elementor-heading-title elementor-size-default mt-5">Our Locations </h1>
                 </div>
-            </div>
+            </div>  
             <div class="elementor-element elementor-element-f9715de elementor-widget elementor-widget-heading" data-id="f9715de" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-                    <p class="elementor-heading-title elementor-size-default">We would love to speak with you.<br>Feel
+                    <p class="elementor-heading fs-4">We would love to speak with you.<br>Feel
                         free to reach out using the below details.</p>
                     <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header ">
-                                <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    UK
-                                </button>
+                        <div class="accordion-item p-4">
+                            <h2 class="accordion-header fs-5">
+                            <img src="wp-content\uploads\sites\231\2022\08\2807791_18166.jpg" alt="uk Flag" style="height:30px;">      
+                                United Kingdom (UK)
+                                
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="accordionAddress">
-                                        <img src="wp-content\uploads\sites\231\2022\08\2807791_18166.jpg" alt="uk Flag" style="height:60px;">
                                         <div style="margin-top: 10px;">
-                                            <a href="https://maps.app.goo.gl/at7ygDFHA6R1noo3A" target="_blank" rel="noopener">
+                                        <h2 class="fs-5">London</h2>
+                                        <a href="https://www.google.com/maps/place/Shop+71,+ALG+ID+Cards+t%2Fa+The+Lanyard,+75+Shelton+St,+London+WC2H+9JQ,+UK/@51.5149037,-0.1261591,17z/data=!3m1!4b1!4m6!3m5!1s0x487604ccab37652b:0x22220c3f07824033!8m2!3d51.5149037!4d-0.1235842!16s%2Fg%2F11ll1x_2x2?entry=ttu" target="_blank" rel="noopener">
+                                            71-75, Shelton Street, Covent,Garden<br/>
+                                            London, WC2H 9JQ, UNITED KINGDOM
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
+
+                                        <div style="margin-top: 20px;">
+                                    
+                                        <h3 class="fs-5">Birmingham</h3>
+                                        <a href="https://maps.app.goo.gl/at7ygDFHA6R1noo3A" target="_blank" rel="noopener">
                                                 Spaces - Birmingham,
                                                 The Mailbox Level 1, The Mailbox, 3<br />
                                                 Wharfside Street Spaces, Birmingham B1 1RD,<br />
@@ -75,45 +90,18 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header ">
-                                <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    UK
-                                </button>
+
+                        <div class="accordion-item p-4">
+                            <h2 class="accordion-header fs-5">
+                            <img src="wp-content\uploads\sites\231\2022\08\2807790_18165.jpg" alt="usa Flag" style="height:30px;">    
+                                USA
+                                
                             </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseTwo" class="accordion-collapse collapse show " data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="accordionAddress">
-                                        <img src="wp-content\uploads\sites\231\2022\08\2807791_18166.jpg" alt="uk Flag" style="height:60px;">
                                         <div style="margin-top: 10px;">
-                                            <a href="https://www.google.com/maps/place/Shop+71,+ALG+ID+Cards+t%2Fa+The+Lanyard,+75+Shelton+St,+London+WC2H+9JQ,+UK/@51.5149037,-0.1261591,17z/data=!3m1!4b1!4m6!3m5!1s0x487604ccab37652b:0x22220c3f07824033!8m2!3d51.5149037!4d-0.1235842!16s%2Fg%2F11ll1x_2x2?entry=ttu" target="_blank" rel="noopener">
-                                            71-75, Shelton Street, Covent,Garden<br/>
-                                            London, WC2H 9JQ, UNITED KINGDOM
-                                            </a>
-                                        </div>
-                                        <div style="margin-top: 10px;">
-                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
-                                        </div>
-                                        <div>
-                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                    USA
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="accordionAddress">
-                                        <img src="wp-content\uploads\sites\231\2022\08\2807790_18165.jpg" alt="uk Flag" style="height:60px;">
-                                        <div style="margin-top: 10px;">
+                                        <h3 class="fs-5">Texas</h3>
                                             <a href="https://maps.app.goo.gl/VuSneUee56kcJH1o7" target="_blank" rel="noopener">
                                                 Talent4World LLC <br>
                                                 4501 Nightland Dr Plano,
@@ -406,7 +394,7 @@
                     <h2 class="fs-1 mb-5 pb-5 text-center "> Contact Us</h2>
                     <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post" autocomplete="off" name="Contact Form">
                         <input type=hidden name="oid" value="00D5i000008yVNX">
-                        <input type=hidden name="retURL" value="https://codmsoftware.com/contact-us.php">
+                        <input type=hidden name="retURL" value="thankyou.php">
                             <input type="hidden" name="lead_source" value="Web">
                         <div class="elementor-form-fields-wrapper elementor-labels-">
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
@@ -450,109 +438,5 @@
             </div>
         </div>
     </div>
-    <!-- <div class="elementor-element elementor-element-6c61fa8e e-con-boxed e-con" data-id="6c61fa8e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
-			<div class="e-con-inner">
-				<div class="elementor-element elementor-element-64e4ed39 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="64e4ed39" data-element_type="widget" data-widget_type="heading.default">
-					<div class="elementor-widget-container">
-						<h2 class="elementor-heading-title elementor-size-default">Or Get In Touch</h2>
-					</div>
-				</div>
-				<div class="elementor-element elementor-element-64abf2e2 e-con-boxed e-con" data-id="64abf2e2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-					<div class="e-con-inner">
-						<div class="elementor-element elementor-element-3ae7a69 elementor-view-stacked elementor-shape-square elementor-widget-tablet__width-initial elementor-position-left elementor-widget__width-initial elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="3ae7a69" data-element_type="widget" data-widget_type="icon-box.default">
-							<div class="elementor-widget-container">
-								<link rel="stylesheet" href="wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-box.min.css">
-								<div class="elementor-icon-box-wrapper">
-									<div class="elementor-icon-box-icon">
-										<span class="elementor-icon elementor-animation-shrink">
-											<svg xmlns="http://www.w3.org/2000/svg" id="ef401a9b-392f-49b7-a156-a160ba6e5cf7" data-name="Layer 1" width="41.4618" height="39.8666" viewBox="0 0 41.4618 39.8666">
-												<polygon points="29.876 11.139 29.876 0 0 0 0 28.727 11.586 28.727 11.586 11.139 29.876 11.139"></polygon>
-												<polygon points="29.876 11.139 29.876 28.727 11.586 28.727 11.586 39.867 41.462 39.867 41.462 11.139 29.876 11.139"></polygon>
-											</svg> </span>
-									</div>
-									<div class="elementor-icon-box-content">
-										<h4 class="elementor-icon-box-title">
-											<span>
-												call us </span>
-										</h4>
-										<p class="elementor-icon-box-description">
-										(+44) 01218186924</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-5ab287b8 elementor-view-stacked elementor-shape-square elementor-widget-tablet__width-initial elementor-position-left elementor-widget__width-initial elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="5ab287b8" data-element_type="widget" data-widget_type="icon-box.default">
-							<div class="elementor-widget-container">
-								<div class="elementor-icon-box-wrapper">
-									<div class="elementor-icon-box-icon">
-										<span class="elementor-icon elementor-animation-shrink">
-											<svg xmlns="http://www.w3.org/2000/svg" id="ef401a9b-392f-49b7-a156-a160ba6e5cf7" data-name="Layer 1" width="41.4618" height="39.8666" viewBox="0 0 41.4618 39.8666">
-												<polygon points="29.876 11.139 29.876 0 0 0 0 28.727 11.586 28.727 11.586 11.139 29.876 11.139"></polygon>
-												<polygon points="29.876 11.139 29.876 28.727 11.586 28.727 11.586 39.867 41.462 39.867 41.462 11.139 29.876 11.139"></polygon>
-											</svg> </span>
-									</div>
-									<div class="elementor-icon-box-content">
-										<h4 class="elementor-icon-box-title">
-											<span>
-												Email Us </span>
-										</h4>
-										<p class="elementor-icon-box-description">
-											info@codmsoftware.com
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-730d4a86 elementor-view-stacked elementor-shape-square elementor-widget-tablet__width-initial elementor-position-left elementor-widget__width-initial elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="730d4a86" data-element_type="widget" data-widget_type="icon-box.default">
-							<div class="elementor-widget-container">
-								<div class="elementor-icon-box-wrapper">
-									<div class="elementor-icon-box-icon">
-										<span class="elementor-icon elementor-animation-shrink">
-											<svg xmlns="http://www.w3.org/2000/svg" id="ef401a9b-392f-49b7-a156-a160ba6e5cf7" data-name="Layer 1" width="41.4618" height="39.8666" viewBox="0 0 41.4618 39.8666">
-												<polygon points="29.876 11.139 29.876 0 0 0 0 28.727 11.586 28.727 11.586 11.139 29.876 11.139"></polygon>
-												<polygon points="29.876 11.139 29.876 28.727 11.586 28.727 11.586 39.867 41.462 39.867 41.462 11.139 29.876 11.139"></polygon>
-											</svg> </span>
-									</div>
-									<div class="elementor-icon-box-content">
-										<h4 class="elementor-icon-box-title">
-											<span>
-												Opening Hours </span>
-										</h4>
-										<p class="elementor-icon-box-description">
-											8:00 AM - 17:00 PM </p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-31352bab elementor-view-stacked elementor-shape-square elementor-widget-tablet__width-initial elementor-position-left elementor-widget__width-initial elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="31352bab" data-element_type="widget" data-widget_type="icon-box.default">
-							<div class="elementor-widget-container">
-								<div class="elementor-icon-box-wrapper">
-									<div class="elementor-icon-box-icon">
-										<span class="elementor-icon elementor-animation-shrink">
-											<svg xmlns="http://www.w3.org/2000/svg" id="ef401a9b-392f-49b7-a156-a160ba6e5cf7" data-name="Layer 1" width="41.4618" height="39.8666" viewBox="0 0 41.4618 39.8666">
-												<polygon points="29.876 11.139 29.876 0 0 0 0 28.727 11.586 28.727 11.586 11.139 29.876 11.139"></polygon>
-												<polygon points="29.876 11.139 29.876 28.727 11.586 28.727 11.586 39.867 41.462 39.867 41.462 11.139 29.876 11.139"></polygon>
-											</svg> </span>
-									</div>
-									<div class="elementor-icon-box-content">
-										<h4 class="elementor-icon-box-title">
-											<span>
-												Visit Us </span>
-										</h4>
-										<p class="elementor-icon-box-description">
-										Birmingham, Spaces The Mailbox <br>
- 										3 Wharfside Street, Spaces,</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="elementor-element elementor-element-7fe77f97 e-con-boxed e-con" data-id="7fe77f97" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
-			<div class="e-con-inner">
-			</div>
-		</div>
-	</div> -->
+    
     <?php include 'app/footer.php'; ?>

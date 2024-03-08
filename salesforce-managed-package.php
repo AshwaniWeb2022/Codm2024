@@ -599,19 +599,6 @@
     <meta name="msapplication-TileImage"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
-<div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
-    data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
-    <div class="elementor-widget-container">
-        <link rel="stylesheet"
-            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-list.min.css">
-        <link rel="stylesheet"
-            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-theme-elements.min.css">
-        <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
-            <li class="elementor-icon-list-item elementor-repeater-item-0d5851b elementor-inline-item" itemprop="about">
-            </li>
-        </ul>
-    </div>
-</div>
 <div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
     data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
     <div class="elementor-widget-container">
@@ -649,7 +636,8 @@
             font-size: 59px
         }
         </style>
-        <h1 class="elementor-heading-title elementor-size-default elementor-align-center mt-5 ">Omnistudio (Vlocity)
+        <h1 class="elementor-heading-title elementor-size-default elementor-align-center pt-5 ">Salesforce Managed
+            Packages
         </h1>
     </div>
 </div>
@@ -662,12 +650,27 @@
             <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
                 data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
                 <div class="elementor-widget-container">
-                    <img width="800" height="650"
-                        src="wp-content/uploads/sites/231/2022/08/bookmarks-concept-illustration_114360-3316.avif"
-                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
+                    <img width="500" height="650"
+                        src="wp-content/uploads/sites/231/2022/08/illustration-social-media-concept_53876-44013.jpg">
+
                 </div>
             </div>
-            <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
+            <div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
+                data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                    <link rel="stylesheet"
+                        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-list.min.css">
+                    <link rel="stylesheet"
+                        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-theme-elements.min.css">
+                    <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                        <li class="elementor-icon-list-item elementor-repeater-item-0d5851b elementor-inline-item"
+                            itemprop="about">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="elementor-element elementor-element-401b5af5 elementor-widget elementor-widget-post-info"
                 data-id="401b5af5" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
@@ -675,42 +678,72 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-align-center elementor-widget-theme-post-excerpt"
                 data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
                 <div class="elementor-widget-container">
-                    OmniStudio Streamlining Application Development Integration and Efficiency with Einstein Automate
-                </div>
-            </div>
-            <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
-                data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
-                <div class="elementor-widget-container">
-
-                    <p>The OmniStudio platform is specifically crafted for businesses aiming to expedite and simplify
-                        the creation of tailored applications through low-code development. It excels in streamlining
-                        the process of crafting intricate, industry-specific experiences within the Salesforce
-                        ecosystem. With a comprehensive set of tools and functionalities, OmniStudio serves as an
-                        all-in-one solution, empowering businesses to develop and launch custom applications without the
-                        need for extensive coding expertise.
-                        In 2020, Salesforce acquired Vlocity, leading to the integration of OmniStudio into Einstein
-                        Automate. This powerful platform amalgamates automation features from Salesforce, Einstein,
-                        MuleSoft, Industries, and AppExchange to provide a holistic workflow solution. With its
-                        drag-and-drop interface and a plethora of pre-designed templates and components, OmniStudio
-                        caters not only to seasoned developers but also to users who may lack coding skills, enabling
-                        them to swiftly create customized applications that align with their organizational
-                        requirements.
-                    </p>
-                    <p> Omnistudio, developed by Vlocity, is a powerful platform that accelerates digital transformation
-                        and streamlines application development for industry-specific processes. Vlocity, now part of
-                        Salesforce, specializes in delivering industry-specific cloud and mobile software for
-                        enterprises. Omnistudio represents a culmination of Vlocity's expertise, offering a
-                        comprehensive suite of tools tailored to the unique needs of various industries such as
-                        telecommunications, insurance, healthcare, energy and more.</p>
-
-                    <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
+                    Salesforce managed package is a pre-built solution developed by third-party vendors to extend the
+                    functionality of Salesforce CRM.
                 </div>
             </div>
         </div>
+    </div>
+    <div class="ms-5 me-5">
+        <p>
+            A Salesforce managed package is a bundle of customizations and functionalities developed on the Salesforce
+            platform by a third-party developer or Salesforce ISV (Independent Software Vendor). Managed packages are
+            designed to extend and enhance the capabilities of Salesforce CRM by adding new features, objects,
+            workflows, components, and integrations.</p>
+
+        <p>
+            One of the key advantages of managed packages is their ease of deployment and maintenance. Once installed in
+            a Salesforce org, managed packages can be seamlessly upgraded to newer versions provided by the ISV without
+            affecting existing configurations or customizations. This streamlined upgrade process ensures that
+            organizations can stay current with the latest features and enhancements without the need for complex manual
+            updates.</p>
+
+        <p>Managed packages also adhere to Salesforce's security standards, ensuring data integrity and compliance with
+            regulatory requirements. They include predefined user roles, permissions, and access controls to safeguard
+            sensitive information and restrict unauthorized access.</p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Key aspects of Salesforce managed packages include:
+            </div>
+        </div>
+        <p>Managed packages are distributed through the Salesforce AppExchange marketplace, where organizations can browse and evaluate various solutions based on their specific requirements. ISVs often provide documentation, training resources, and support services to assist customers with the implementation and usage of their managed packages, ensuring a smooth onboarding process and ongoing assistance as needed.</p>
+        <p>
+            <b>1. Custom Functionality</b>: Managed packages can provide specialized functionalities tailored to specific business needs, such as industry-specific solutions, advanced reporting, or automation workflows.</br>
+
+            <b>2. Security and Permissions</b>: Managed packages enforce security measures to protect data integrity and ensure compliance with Salesforce security standards. They often include predefined user roles and permissions to control access to features and data.</br>
+
+            <b>3. Upgrades and Maintenance</b>: Managed packages offer seamless upgrades and maintenance, allowing administrators to install updates and patches without disrupting existing configurations or customizations. This simplifies the process of staying current with new features and enhancements.</br>
+
+            <b>4. Distribution and Licensing</b>: Salesforce managed packages are distributed through the Salesforce AppExchange marketplace. They may be available under various licensing models, such as subscription-based pricing or usage-based pricing, depending on the ISV's business model.</br>
+
+            <b>5. Support and Documentation</b>: ISVs typically provide documentation, training materials, and support services to assist customers in implementing and using their managed packages effectively. This ensures a smooth onboarding process and ongoing assistance as needed</br>
+
+        </P>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+            The benefits of Salesforce managed packages include:
+            </div>
+        </div>
+        <p>
+            <b>1. Accelerated Deployment</b>: Managed packages provide pre-built solutions that can be quickly deployed within Salesforce orgs, saving time and resources compared to custom development.</br>
+
+            <b>2. Scalability</b>: Managed packages offer scalable solutions that can grow with the needs of an organization. They are designed to accommodate changes in user volume, data size, and business complexity.</br>
+
+            <b>3. Seamless Upgrades</b>: Managed packages offer seamless upgrade paths, enabling organizations to stay current with the latest features and enhancements provided by the ISV without disrupting existing configurations.</br>
+
+            <b>4. Security and Compliance</b>: Managed packages adhere to Salesforce's security standards and best practices, ensuring data integrity, confidentiality, and compliance with regulatory requirements.</br>
+
+            <b>5. Access to Expertise</b>: ISVs behind managed packages typically provide documentation, training, and support services to assist organizations with implementation, configuration, and ongoing maintenance.</br>
+            
+            <b>6. Customization</b>: Managed packages often come with customizable features, allowing organizations to tailor the solution to their specific requirements without starting from scratch.</br>
+        </P>
+
     </div>
 
 

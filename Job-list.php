@@ -1,6 +1,4 @@
 <?php include 'app/header.php';?>
-<!DOCTYPE html>
-<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -12,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap"
       rel="stylesheet"
     />
-   
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
   <style>
   .jobs-list-container {
@@ -113,8 +111,32 @@
     margin: 0 auto;
   }
 }
+ .AboutJoiningBenefit {
+        border: 1px solid #29ade4;
+        border-radius: 5px;
+        text-align: center;
+        -webkit-box-shadow: 0 0 6px -1px rgba(0, 0, 0, .75);
+        -moz-box-shadow: 0 0 6px -1px rgba(0, 0, 0, .75);
+        box-shadow: 0 0 6px -1px rgba(0, 0, 0, .75);
+        width: 100%;
+        max-height: 450px;
+        height: 100%
+    }
+    
+    .AboutJoiningBenefit div {
+        font-size: 20px;
+        font-weight: 700;
+        padding: 10px 6px
+    }
+    
+    .AboutJoiningBenefit p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 10px
+    }
 </style>
   <body>
+    
     <div class="jobs-list-container">
       <h2>Jobs</h2>
 
@@ -122,6 +144,30 @@
 
       <div class="jobs"></div>
     </div>
+<section class="mt-5" >
+<h5 class="mb-3 text-center " style="color:#00A1E0;"> Why You Should Join CodM software </h5>
+     <h2 class="sub_titel text-center pb-5">Reliable Salesforce CRM partner since 2021</h2>
+    <div class="container">
+        <ul>
+          <li>5 days working </li>
+          <li>Cab facilities</li>
+          <li>Employee provident fund</li>
+          <li>Medical claim</li>
+          <li>Employee first</li>
+    </div>
+</section>
+
+  
+ <!-- <div class="container-fluid">
+    <h2 class="fs-1 mt-5 mb-4 text-center">Why Choose Us</h2>
+    <ul>
+      <li>5 days Working </li>
+      <li>Cab facilities</li>
+      <li>Employee provident fund </li>
+      <li>Medical claim for employees </li>
+      <li>We offer competitive prices.</li>
+    </ul>
+  </div> -->
 
     <script src="main.js"></script>
     <script>
@@ -132,7 +178,7 @@
     details:
       "Responsible for Recruitment and Talent Acquisition, HR Operations, Employee Engagement, Onboarding.",
     openPositions: "1",
-    link: "jobdescription..php",
+    link: "job-description.php",
   },
 
   {
@@ -211,6 +257,7 @@ jobSearch.addEventListener("input", (e) => {
   createJobListingCards();
 });
         </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
   </body>
-</html>
 <?php include 'app/footer.php';?>

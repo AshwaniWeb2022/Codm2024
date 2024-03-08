@@ -599,19 +599,6 @@
     <meta name="msapplication-TileImage"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
-<div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
-    data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
-    <div class="elementor-widget-container">
-        <link rel="stylesheet"
-            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-list.min.css">
-        <link rel="stylesheet"
-            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-theme-elements.min.css">
-        <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
-            <li class="elementor-icon-list-item elementor-repeater-item-0d5851b elementor-inline-item" itemprop="about">
-            </li>
-        </ul>
-    </div>
-</div>
 <div class="elementor-element elementor-element-635e9dbd elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading"
     data-id="635e9dbd" data-element_type="widget" data-widget_type="theme-post-title.default">
     <div class="elementor-widget-container">
@@ -649,7 +636,7 @@
             font-size: 59px
         }
         </style>
-        <h1 class="elementor-heading-title elementor-size-default elementor-align-center mt-5 ">Omnistudio (Vlocity)
+        <h1 class="elementor-heading-title elementor-size-default elementor-align-center pt-5 ">Salesforce CPQ
         </h1>
     </div>
 </div>
@@ -662,12 +649,27 @@
             <div class="elementor-element elementor-element-ac9e3f5 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image"
                 data-id="ac9e3f5" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
                 <div class="elementor-widget-container">
-                    <img width="800" height="650"
-                        src="wp-content/uploads/sites/231/2022/08/bookmarks-concept-illustration_114360-3316.avif"
-                        class="attachment-large size-large wp-image-83" alt="" loading="lazy" />
+                    <img width="400" height="650"
+                        src="wp-content/uploads/sites/231/2022/08/hand-drawn-flat-design-erp-illustration_23-2149383351.jpg">
+
                 </div>
             </div>
-            <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
+            <div class="elementor-element elementor-element-6682439b elementor-align-center elementor-widget elementor-widget-post-info"
+                data-id="6682439b" data-element_type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                    <link rel="stylesheet"
+                        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/css/widget-icon-list.min.css">
+                    <link rel="stylesheet"
+                        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-theme-elements.min.css">
+                    <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                        <li class="elementor-icon-list-item elementor-repeater-item-0d5851b elementor-inline-item"
+                            itemprop="about">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="elementor-element elementor-element-401b5af5 elementor-widget elementor-widget-post-info"
                 data-id="401b5af5" data-element_type="widget" data-widget_type="post-info.default">
                 <div class="elementor-widget-container">
                     <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
@@ -675,42 +677,73 @@
                     </ul>
                 </div>
             </div>
-            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-align-center elementor-widget-theme-post-excerpt"
                 data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
                 <div class="elementor-widget-container">
-                    OmniStudio Streamlining Application Development Integration and Efficiency with Einstein Automate
-                </div>
-            </div>
-            <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
-                data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
-                <div class="elementor-widget-container">
-
-                    <p>The OmniStudio platform is specifically crafted for businesses aiming to expedite and simplify
-                        the creation of tailored applications through low-code development. It excels in streamlining
-                        the process of crafting intricate, industry-specific experiences within the Salesforce
-                        ecosystem. With a comprehensive set of tools and functionalities, OmniStudio serves as an
-                        all-in-one solution, empowering businesses to develop and launch custom applications without the
-                        need for extensive coding expertise.
-                        In 2020, Salesforce acquired Vlocity, leading to the integration of OmniStudio into Einstein
-                        Automate. This powerful platform amalgamates automation features from Salesforce, Einstein,
-                        MuleSoft, Industries, and AppExchange to provide a holistic workflow solution. With its
-                        drag-and-drop interface and a plethora of pre-designed templates and components, OmniStudio
-                        caters not only to seasoned developers but also to users who may lack coding skills, enabling
-                        them to swiftly create customized applications that align with their organizational
-                        requirements.
-                    </p>
-                    <p> Omnistudio, developed by Vlocity, is a powerful platform that accelerates digital transformation
-                        and streamlines application development for industry-specific processes. Vlocity, now part of
-                        Salesforce, specializes in delivering industry-specific cloud and mobile software for
-                        enterprises. Omnistudio represents a culmination of Vlocity's expertise, offering a
-                        comprehensive suite of tools tailored to the unique needs of various industries such as
-                        telecommunications, insurance, healthcare, energy and more.</p>
-
-                    <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
+                    Salesforce CPQ (Configure, Price, Quote) is a powerful sales tool designed to streamline and
+                    automate the quote-to-cash process within Salesforce CRM
                 </div>
             </div>
         </div>
+    </div>
+    <div class="ms-5 me-5">
+        <p>
+            Salesforce CPQ (Configure, Price, Quote) is a powerful sales tool designed to streamline and automate the
+            quote-to-cash process within Salesforce CRM. It enables sales teams to generate accurate quotes and
+            proposals quickly, with configurable pricing based on product configurations, discounts, and bundling
+            options.</p>
+
+        <p>
+            With Salesforce CPQ, sales representatives can easily configure complex product offerings, ensuring that
+            quotes align precisely with customer requirements. The tool provides guided selling features, allowing reps
+            to recommend the most suitable products and options for each customer's needs.</p>
+
+        <p>Salesforce CPQ integrates seamlessly with Salesforce CRM, enabling a unified view of customer data, quotes,
+            and opportunities. This integration enhances collaboration between sales, finance, and other departments,
+            facilitating a smoother quote approval and order fulfillment process</p>
+
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+                Some key aspects of Salesforce CPQ (Configure, Price, Quote) include:
+            </div>
+        </div>
+        <p>Salesforce CPQ empowers sales teams to accelerate sales cycles, improve quote accuracy, and enhance customer
+            satisfaction by delivering personalized and compelling quotes that meet customers' unique needs and
+            preferences.
+        </p>
+        <p>
+            <b>1. Product Configuration</b>: Salesforce CPQ enables users to configure complex product offerings with ease, allowing for customization based on customer requirements, preferences, and constraints.</br>
+
+            <b>2. Pricing and Discounting</b>:  The platform offers robust pricing capabilities, including dynamic pricing rules, discounting strategies, and pricing optimization algorithms to ensure competitive and profitable pricing.</br>
+
+            <b>3. Quoting Process Automation</b>: Salesforce CPQ automates the entire quoting process, from generating quotes to managing approvals and revisions, streamlining workflows and reducing manual errors.</br>
+
+            <b>4. Guided Selling</b>: The platform provides guided selling features that assist sales reps in recommending the most suitable products and options for each customer, improving upsell and cross-sell opportunities.</br>
+
+            <b>5. Integration with CRM</b>: Salesforce CPQ seamlessly integrates with Salesforce CRM, providing a unified view of customer data, quotes, and opportunities, and enabling better collaboration between sales, finance, and other departments.</br>
+
+        </P>
+        <div class=" elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+            data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+            <div class="elementor-widget-container pt-5">
+            The benefits of Salesforce CPQ (Configure, Price, Quote) include:
+            </div>
+        </div>
+        <p>
+            <b>1. Streamlined Quoting Process</b>: CPQ automates and streamlines the quoting process, reducing manual effort and errors associated with manual quoting methods.</br>
+
+            <b>2. Improved Sales Efficiency</b>: Sales teams can generate accurate quotes quickly, allowing them to focus more time on selling and less on administrative tasks</br>
+
+            <b>3. Increased Sales Velocity</b>: CPQ accelerates sales cycles by providing sales reps with the tools they need to create compelling quotes and close deals faster.</br>
+
+            <b>4. Customized Solutions</b>: CPQ enables sales reps to configure products and services to meet the specific needs of each customer, increasing the likelihood of closing deals.</br>
+
+            <b>5. Consistent Pricing</b>: CPQ ensures consistent pricing across all quotes, reducing the risk of errors and discrepancies.</br>
+
+            <b>6. Optimized Pricing Strategies</b>: CPQ provides pricing optimization features that help sales teams maximize revenue and profitability by applying the right pricing strategies.</br>
+        </P>
+
     </div>
 
 
