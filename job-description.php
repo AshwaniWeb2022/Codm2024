@@ -72,51 +72,54 @@
             </style>
             <div class="col-lg-6 mt-5 pt-5">
                 <!-- Form for the right column -->
-                <h2 class="ms-5">Fill in your details to apply now</h2>
-                <form class="me-5 ms-5" enctype="multipart/form-data">
-                    <div class="form-group">
-                        <label for="exampleInputName">Name</label>
-                        <input type="text" class="form-control" id="exampleInputName" placeholder="Enter your name">
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputPhone">Phone</label>
-                        <input type="tel" class="form-control" id="exampleInputPhone" placeholder="Enter your number">
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputLocation">Current Location</label>
-                        <div class="input-group">
-                            <input type="text" class="form-control" id="exampleInputLocation"
-                                placeholder="Enter your location">
-                            <div class="input-group-append">
-                                <!-- Location icon to trigger location fetch -->
-                                <span class="input-group-text location-icon" onclick="fetchCurrentLocation()">
-                                    <i class="fas fa-map-marker-alt"></i>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputRole">Role</label>
-                        <select class="form-select" id="exampleInputRole" name="role">
-                            <option value="" selected disabled>Select your role</option>
-                            <option value="Software Developer">Hr Executive </option>
-                            <option value="Project Manager">Data Scientist</option>
-                            <!-- <option value="Data Analyst">Data Analyst</option> -->
-                            <!-- Add more role options as needed -->
-                        </select>
-                    </div>
+                <h2 class="pb-5">Fill in your details to apply now</h2>
+                <form action="process.php" enctype="multipart/form-data" method="POST" id="carrierForm">
+    <div class="form-group">
+        <label for="exampleInputName">Name</label>
+        <input type="text" class="form-control" id="exampleInputName" name="Name" placeholder="Enter your name">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPhone">Phone Number</label>
+        <input type="tel" class="form-control" id="exampleInputPhone" name="Phone_Number" placeholder="Enter your number">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail" name="email" placeholder="Enter your Email">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputLocation">Current Location</label>
+        <div class="input-group">
+            <input type="text" class="form-control" id="exampleInputLocation" name="Location" placeholder="Enter your location">
+            <div class="input-group-append">
+                <!-- Location icon to trigger location fetch -->
+                <span class="input-group-text location-icon" onclick="fetchCurrentLocation()">
+                    <i class="fas fa-map-marker-alt"></i>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputRole">Job Profile</label>
+        <select class="form-select" id="exampleInputRole" name="Job_Profile">
+            <option value="" selected disabled>Select your role</option>
+            <option value="Software Developer">Hr Executive </option>
+            <option value="Project Manager">Salesforce Developer</option>
+            <!-- <option value="Data Analyst">Data Analyst</option> -->
+            <!-- Add more role options as needed -->
+        </select>
+    </div>
 
-                    <div class="form-group">
-                        <label for="exampleInputCV">Upload CV</label>
-                        <input type="file" class="form-control-file" id="exampleInputCV" name="cv"
-                            accept=".pdf,.docx,.doc">
-                    </div>
-                    <!-- <div class="form-group">
-            <label for="exampleInputMessage">Message</label>
-            <textarea class="form-control" id="exampleInputMessage" rows="3" placeholder="Enter your message"></textarea>
-        </div> -->
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </form>
+    <div class="form-group">
+        <label for="exampleInputCV">Upload CV</label>
+        <input type="file" class="form-control-file" id="exampleInputCV" name="cv" accept=".pdf,.docx,.doc">
+    </div>
+    <!-- <div class="form-group">
+        <label for="exampleInputMessage">Message</label>
+        <textarea class="form-control" id="exampleInputMessage" rows="3" placeholder="Enter your message"></textarea>
+    </div> -->
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
             </div>
 
         </div>
@@ -128,34 +131,20 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
     function fetchCurrentLocation() {
-        // Check if geolocation is supported by the browser
         if (navigator.geolocation) {
-            // Get current position
             navigator.geolocation.getCurrentPosition(function(position) {
                 // Extract latitude and longitude
                 const latitude = position.coords.latitude;
                 const longitude = position.coords.longitude;
-                // Create a new geocoder object
-                const geocoder = new google.maps.Geocoder();
-                // Create a LatLng object with the coordinates
-                const latlng = new google.maps.LatLng(latitude, longitude);
-                // Perform reverse geocoding
-                geocoder.geocode({'location': latlng}, function(results, status) {
-                    if (status === 'OK') {
-                        if (results[0]) {
-                            // Get the formatted address from the first result
-                            const address = results[0].formatted_address;
-                            // Update the input field placeholder with the fetched location
-                            document.getElementById("exampleInputLocation").placeholder = address;
 
-                            console.log("address=======151"+address);
-                        } else {
-                            console.error('No results found');
-                        }
-                    } else {
-                        console.error('Geocoder failed due to: ' + status);
-                    }
-                });
+                // Perform reverse geocoding
+                fetch(`https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${latitude}&lon=${longitude}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        const address = data.display_name;
+                        document.getElementById("exampleInputLocation").value = address;
+                    })
+                    .catch(error => console.error('Error occurred during reverse geocoding:', error));
             }, function(error) {
                 console.error('Error occurred while fetching location:', error.message);
             });
@@ -163,7 +152,10 @@
             console.error('Geolocation is not supported by this browser.');
         }
     }
-</script>
+    </script>
+    <!-- Include the Google Maps JavaScript API for reverse geocoding -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
+
 
 <!-- Include the Google Maps JavaScript API for reverse geocoding -->
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
