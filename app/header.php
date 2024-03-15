@@ -682,15 +682,32 @@
                                         <a href="#!" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
+                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li> -->
                                             <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanweb">Titan Web </a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
-                                    
+                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li> -->
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="#" class="elementor-item">Services</a>
+                                        <ul class="sub-menu bg-white pt-3 ">
+                                        <li><a class="text-dark elementor-item py-2 px-2" href="omnistudio.php">Omnistudio (Vlocity)</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Salesforce-Implementation.php">Salesforce Implementation</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Consulting-Service.php">Consulting Service</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Non-profitCloud.php">Non-Profit Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-managed-package.php">Salesforce Managed Packages</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="data-migration.php">Data Migration</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="api-integration.php">API Integration</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Education-Cloud.php">Education Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-cpq.php">Salesforce CPQ</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Manufacturing-Cloud.php">Manufacturing Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Industries-Cloud.php">Industries Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Support-And-Maintenance.php">Support And Maintenance</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="TestingAndDeployment.php">Testing And Deployment</a></li>
+                                        </ul>
+                                    </li>
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
@@ -727,14 +744,32 @@
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                         <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li>
+                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li> -->
                                             <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titanweb">Titan Web </a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="#" class="elementor-item">Services</a>
+                                        <ul class="sub-menu bg-white pt-3 ">
+                                        <li><a class="text-dark elementor-item py-2 px-2" href="omnistudio.php">Omnistudio (Vlocity)</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Salesforce-Implementation.php">Salesforce Implementation</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Consulting-Service.php">Consulting Service</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Non-profitCloud.php">Non-Profit Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-managed-package.php">Salesforce Managed Packages</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="data-migration.php">Data Migration</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="api-integration.php">API Integration</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Education-Cloud.php">Education Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-cpq.php">Salesforce CPQ</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Manufacturing-Cloud.php">Manufacturing Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Industries-Cloud.php">Industries Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="Support-And-Maintenance.php">Support And Maintenance</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="TestingAndDeployment.php">Testing And Deployment</a></li>
+                                        </ul>
+                                    </li>
+                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li> -->
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item" tabindex="-1">Blog</a></li> -->
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
@@ -759,7 +794,7 @@
                         data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a href="#!"
+                                <a href="Job-list.php"
                                     class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-text">Join Us </span>
@@ -772,3 +807,40 @@
             </div>
         </div>
     </header>
+    <style>
+    .marquee-container {
+      width: 100%;
+      overflow: hidden;
+      border: 3px solid #ccc; 
+    }
+
+    .marquee-text {
+      white-space: nowrap;
+      animation: marquee 30s linear infinite;
+    }
+
+    @keyframes marquee {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+</head>
+<body>
+<div class="marquee-container" onmouseover="stopMarquee()" onmouseout="startMarquee()">
+    <div class="marquee-text">
+      We recently introduced our new product FHT <a href="field-history-tracking.php">(Field History Tracking)</a>Application which enables users to track field history of as many fields for an object they want .The object can be standard or custom as per users choice.
+    </div>
+  
+</div>
+
+<script>
+  function stopMarquee() {
+    var marquee = document.querySelector('.marquee-text');
+    marquee.style.animationPlayState = 'paused';
+  }
+
+  function startMarquee() {
+    var marquee = document.querySelector('.marquee-text');
+    marquee.style.animationPlayState = 'running';
+  }
+</script>
