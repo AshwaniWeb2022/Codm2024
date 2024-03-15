@@ -199,9 +199,9 @@
 				<div class="elementor-element elementor-element-780b1097 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="780b1097" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content\uploads\sites\231\2022\08\CPQ-Specialist.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Developer.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">CPQ Specialist </h4>
+								<h4 class="elementor-image-box-title">OmniStudio Developer</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
@@ -236,9 +236,9 @@
 			<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/OmniStudio-Developer.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src=" wp-content/uploads/sites/231/2022/08/CPQ-Specialist.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">OmniStudio Developer</h4>
+								<h4 class="elementor-image-box-title">CPQ Specialist</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
@@ -259,9 +259,21 @@
 				<div class="elementor-element elementor-element-780b1097 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="780b1097" data-element_type="widget" data-widget_type="image-box.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-image-box-wrapper">
-							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/sf associate.webp" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/Service-Cloud-Consultant.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
 							<div class="elementor-image-box-content">
-								<h4 class="elementor-image-box-title">Associate</h4>
+								<h4 class="elementor-image-box-title">Service Cloud Consultant </h4>
+								<!-- <p class="elementor-image-box-description">Job Title</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="elementor-element elementor-element-1069ab4a elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget__width-initial elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1069ab4a" data-element_type="widget" data-widget_type="image-box.default">
+					<div class="elementor-widget-container">
+						<div class="elementor-image-box-wrapper">
+							<figure class="elementor-image-box-img"><img decoding="async" width="200" height="250" src="wp-content/uploads/sites/231/2022/08/Data Architect.png" class="elementor-animation-grow attachment-full size-full wp-image-62" alt="" loading="lazy" /></figure>
+							<div class="elementor-image-box-content">
+								<h4 class="elementor-image-box-title">Data Architect</h4>
 								<!-- <p class="elementor-image-box-description">Job Title</p> -->
 							</div>
 						</div>
