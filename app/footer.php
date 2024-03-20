@@ -668,36 +668,7 @@
 	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 
-	<!-- for including bootstrap -->
-<!-- for services page -->
-<!-- <link rel='stylesheet' id='e-animations-css' href='../wp-content/plugins/elementor-3.12.2/assets/lib/animations/animations.mine56c.css?ver=3.12.2' media='all' />
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script src='wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
-<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1' id='smartmenus-js'></script>
-<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/webpack-pro.runtime.min0fca.js?ver=3.12.3' id='elementor-pro-webpack-runtime-js'></script>
-<script src='wp-content/plugins/elementor-3.12.2/assets/js/webpack.runtime.mine56c.js?ver=3.12.2' id='elementor-webpack-runtime-js'></script>
-<script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend-modules.mine56c.js?ver=3.12.2' id='elementor-frontend-modules-js'></script>
-<script src='wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
-<script src='wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11' id='regenerator-runtime-js'></script>
-<script src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
-<script src='wp-includes/js/dist/hooks.min6c65.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
-<script src='wp-includes/js/dist/i18n.mine57b.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
-<script id='wp-i18n-js-after'>
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-</script>
-<script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-admin\/admin-ajax.php","nonce":"277a20e906","urls":{"assets":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/plugins\/elementor-pro-3.12.3\/assets\/","rest":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/plugins\/elementor-pro-3.12.3\/modules\/lottie\/assets\/animations\/default.json"}};
-</script>
-<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/frontend.min0fca.js?ver=3.12.3' id='elementor-pro-frontend-js'></script>
-<script src='wp-content/plugins/elementor-3.12.2/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script src='wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
-<script id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.2","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"container":true,"hello-theme-header-footer":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/plugins\/elementor-3.12.2\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":55,"title":"Services%20-%20Local%20Services%20Wireframe%204%20%28Flexbox%29%20%7C%20Elementor%20Kit%20Library","excerpt":"","featuredImage":"https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-content\/uploads\/sites\/231\/2022\/08\/Services.jpg"}};
-</script>
-<script src='wp-content/plugins/elementor-3.12.2/assets/js/frontend.mine56c.js?ver=3.12.2' id='elementor-frontend-js'></script>
-<script src='wp-content/plugins/elementor-pro-3.12.3/assets/js/elements-handlers.min0fca.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
-<script src='wp-content/plugins/elementor-pro-3.12.3/assets/lib/sticky/jquery.sticky.min0fca.js?ver=3.12.3' id='e-sticky-js'></script>
-for services page ends -->
+
 
 </body>
 </html>
