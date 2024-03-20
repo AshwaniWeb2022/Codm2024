@@ -145,36 +145,25 @@
       <div class="jobs"></div>
     </div>
 <section class="mt-5" >
-<h5 class="mb-3 text-center " style="color:#00A1E0;"> Why You Should Join CodM software </h5>
+<h5 class="mb-3 text-center " style="color:#00A1E0;"> Why You Should Join CodM Software </h5>
      <h2 class="sub_titel text-center pb-5">Reliable Salesforce CRM partner since 2021</h2>
     <div class="container">
         <ul>
-          <li>5 days working </li>
-          <li>Cab facilities</li>
-          <li>Employee provident fund</li>
-          <li>Medical claim</li>
-          <li>Employee first</li>
+          <li><b>Competitive Compensation</b>: Enjoy competitive salaries and comprehensive benefits packages, ensuring fair compensation for your contributions. </li>
+          <li><b>Collaborative Work Environment</b>: Thrive in a collaborative work environment where teamwork, creativity, and innovation are encouraged and valued</li>
+          <li><b>Health and Wellness Programs</b>: Take advantage of health and wellness programs, including health insurance, mental health resources, and wellness initiatives.</li>
+          <li><b>Work-Life Balance</b>: Enjoy a healthy work-life balance with generous paid time off, vacation days, and holidays, allowing you to recharge and enjoy time with family and friends</li>
+          <li><b>Employee Engagement Activities</b>: Participate in employee engagement activities, team-building events, and social gatherings to foster connections and camaraderie within the team</li>
+          <li><b>Employee Provident Fund </b>: Employees can enjoy financial security and retirement benefits through the Employees' Provident Fund Organization (EPFO), ensuring a stable future beyond their working years.</li>
+          <li><b>Cab Facilities </b>
     </div>
 </section>
-
-  
- <!-- <div class="container-fluid">
-    <h2 class="fs-1 mt-5 mb-4 text-center">Why Choose Us</h2>
-    <ul>
-      <li>5 days Working </li>
-      <li>Cab facilities</li>
-      <li>Employee provident fund </li>
-      <li>Medical claim for employees </li>
-      <li>We offer competitive prices.</li>
-    </ul>
-  </div> -->
-
     <script src="main.js"></script>
     <script>
         const jobs = [
   {
     title: "Hr Executive",
-    image: "wp-content/uploads/sites/231/2022/08/software-engineer.svg",
+    image: "wp-content/uploads/sites/231/2022/08/project-manager.svg",
     details:
       "Responsible for Recruitment and Talent Acquisition, HR Operations, Employee Engagement, Onboarding.",
     openPositions: "1",
@@ -182,15 +171,14 @@
   },
 
   {
-    title: "Data Scientist",
-    image: "wp-content/uploads/sites/231/2022/08/data-scientist.svg",
+    title: "Salesforce Developer",
+    image: "wp-content/uploads/sites/231/2022/08/software-engineer.svg",
     details:
-      "Responsible for collecting, analyzing and interpreting large data sets to help organizations make better decisions.",
-    openPositions: "3",
-    link: "#",
+      "Responsible for Develop end to end Salesforce solutions using LWC, APEX Class, Triggers, Visualforce pages,etc.",
+    openPositions: "2",
+    link: "job-description-sfd.php",
   },
-
-
+ 
 ];
 
 const jobsHeading = document.querySelector(".jobs-list-container h2");
@@ -256,7 +244,7 @@ jobSearch.addEventListener("input", (e) => {
 
   createJobListingCards();
 });
-        </script>
+</script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
   </body>

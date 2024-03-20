@@ -16,63 +16,56 @@
         <div class="row">
             <div class="col-lg-6">
                 <!-- Content for the left column -->
-                <h2>Hr Executive</h2>
+                <h2>Salesforce Developer</h2>
                 <p><b>Location</b>: Noida</p>
                 <p><b>Position Type</b>: Full-time</p>
-                <p><b>Company Overview</b>:<br />
+                <!-- <p><b>Company Overview</b>:<br />
                     CodM Software empowers businesses with robust Salesforce CRM solutions. Our team of certified
                     experts, spanning India and the UK, deliver tailored implementations, consultations, and support,
-                    optimizing sales, marketing, and customer service.</p>
-                <p><b>Position Summary</b>:<br />
+                    optimizing sales, marketing, and customer service.</p> -->
+                <!-- <p><b>Position Summary</b>:<br />
                     We are seeking a dedicated HR Executive to join our team and support various HR functions,
                     including recruitment, talent acquisition, HR operations, employee engagement, onboarding,
-                    rewards and recognition (RnR), and exit processes. The ideal candidate will be detail-oriented,
-                    proactive, and possess excellent communication and interpersonal skills.</p>
+                    proactive, and possess excellent communication and interpersonal skills.</p> -->
+                <!-- rewards and recognition (RnR), and exit processes. The ideal candidate will be detail-oriented, -->
                 <p><b>Key Responsibilities</b>:<br />
                 <ul>
-                    <li><b>Recruitment and Talent Acquisition</b>:Collaborate with hiring managers to identify staffing
-                        needs and develop job descriptions. Source, screen, and interview candidates using various
-                        recruiting methods. Coordinate and conduct interviews, assess candidate qualifications, and
-                        facilitate the selection process. Maintain candidate databases and manage recruitment
-                        metrics.</li>
-                    <li><b>HR Operations</b>:Manage HR-related documentation and ensure compliance with labor laws
-                        and regulations. Assist in the development and implementation of HR policies and
-                        procedures. Handle employee inquiries and provide support on HR-related matters.</li>
-                    <li><b>Employee Engagement</b>:Manage HR-related documentation and ensure compliance with labor laws
-                        and regulations. Assist in the development and implementation of HR policies and
-                        procedures. Handle employee inquiries and provide support on HR-related matters.</li>
-                    <li><b>Onboarding</b>:Coordinate the onboarding process for new hires, including conducting
-                        orientations and preparing onboarding materials. Ensure a smooth transition for new
-                        employees into their roles and the company culture.</li>
-                    <li><b>Rewards and Recognition (RnR)</b>:Administer rewards and recognition programs to
-                        acknowledge employee contributions and achievements. Develop and implement strategies
-                        to foster a culture of appreciation and recognition.</li>
-                    <li><b>Exit Process</b>:Manage the exit process for departing employees, including conducting exit
-                        interviews and processing necessary paperwork. Analyze exit data to identify trends and
-                        areas for improvement.</li>
+                    <li>Develop end to end Salesforce solutions using LWC, APEX Class, Triggers, Visualforce pages,etc.
+                    </li>
+
+                    <li>Ensure on-time delivery of the tasks assigned with high quality and standard.
+                        Min. 1yr experience in Lightning web components (LWC).</li>
+
+                    <li>Hands on experience in Apex Classes/ Controllers, Apex Triggers development, web services
+                        development, exp. with Salesforce API, Metadata and other APIs (REST, SOAP).</li>
+                    <li>Good experience of SOQL (Salesforce Object Query Language) and SOSL(Salesforce Object
+                        Search Language).</li>
+                    <li>Hands on experience with Web services and Integration.</li>
+
+                    <li>Functional knowledge of Salesforce Sales, Services and Community modules. Good to have
+                        experience with Vlocity/ Omnistudio.
+                        Good to have experience with Sales Cloud, Service Cloud, Industries Cloud, Marketing Cloud,
+                        Health Cloud, etc.
+                        Stay up to date with the latest Salesforce releases, features, and industry best practices.</li>
+                    <li>Excellent English communication skills are required.</li>
                 </ul>
 
                 </p>
                 <p><b>Qualifications:</b></p>
                 <ul>
-                    <li>Bachelor's degree in Human Resources, Business Administration, or related field.</li>
-                    <li>Proven experience in HR functions, including recruitment, talent acquisition, and employee
-                        engagement.</li>
-                    <li>Strong understanding of HR laws, regulations, and best practices.</li>
-                    <li>Excellent communication, interpersonal, and organizational skills.</li>
-                    <li>Ability to prioritize and manage multiple tasks in a fast-paced environment.</li>
-                    <li>Proficiency in HRIS and Microsoft Office Suite.</li>
+                    <li>Any graduate with B.Tech or B.C.A.</li>
+                    <li>Strong communication skills - both verbal and written.</li>
                 </ul>
             </div>
             <style>
-                /* Optional: Add some styling for the icon */
-                .location-icon {
-                    cursor: pointer;
-                }
+            /* Optional: Add some styling for the icon */
+            .location-icon {
+                cursor: pointer;
+            }
             </style>
-            <div class="col-lg-6 mt-5 pt-5">
+            <div class="col-lg-6 mt-3 pt-3">
                 <!-- Form for the right column -->
-                <h2 class="pb-5">Fill in your details to apply now</h2>
+                <h2 class="ms-5">Fill in your details to apply now</h2>
                 <form action="process.php" enctype="multipart/form-data" method="POST" id="carrierForm">
     <div class="form-group">
         <label for="exampleInputName">Name</label>
@@ -155,10 +148,6 @@
     </script>
     <!-- Include the Google Maps JavaScript API for reverse geocoding -->
     <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
-
-
-<!-- Include the Google Maps JavaScript API for reverse geocoding -->
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
 
 
     <?php include 'app/footer.php';?>

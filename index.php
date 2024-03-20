@@ -183,25 +183,31 @@
             </div>
         </div>
     </div>
-	
+
     <!-- nav bar ends -->
     <div>
-     <style>
-    .fixed-image {
-            position: fixed; /* Fix the image position */
-            top: 50%; /* Adjust as per your requirement */
-            right: 0%; /* Adjust as per your requirement */
-            z-index: 9999; /* Ensure the image appears above other content */
+        <style>
+        .fixed-image {
+            position: fixed;
+            /* Fix the image position */
+            top: 50%;
+            /* Adjust as per your requirement */
+            right: 0%;
+            /* Adjust as per your requirement */
+            z-index: 9999;
+            /* Ensure the image appears above other content */
             /* Customize height and width */
-            height: 20px; /* Adjust height as needed */
-            width: 100px; /* Automatically adjust width to maintain aspect ratio */
+            height: 20px;
+            /* Adjust height as needed */
+            width: 100px;
+            /* Automatically adjust width to maintain aspect ratio */
         }
-    </style>
-    <img class="fixed-image" src="wp-content/uploads/sites/231/2022/08/Badges3.png" alt="Fixed Image">
-    </div>        
+        
+        </style>
+        <img class="fixed-image" src="wp-content/uploads/sites/231/2022/08/Badges3.png" alt="Fixed Image">
+    </div>
     <!-- Industries sections starts -->
-    <div data-elementor-type="footer" data-elementor-id="999"
-        class="elementor elementor-999 elementor-location-footer">
+    <div data-elementor-type="footer" data-elementor-id="999" class="elementor elementor-999 elementor-location-footer">
         <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
             <div class="e-con-inner">
@@ -229,49 +235,48 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/people-taking-out-money-from-bank-concept-illustration_114360-17351.avif)">
-											
+                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/banking.avif)">
+                                            
                                         </div>
                                     </div>
-									
-                                    <div class="swiper-slide">
+<!-- 
+                                     <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/financial-recovery-after-coronavirus_23-2148558699.avif)">
-
-
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/boundless-communications-make-it-easy-stay-touch-around-world-with-single-mobile-phone-computer_1150-37262.avif)">
+                                            style="background-image: url(https://img.freepik.com/premium-vector/education-flat-poster_609547-1363.jpg?w=740)">
 
 
                                         </div>
-                                    </div>
+                                    </div>   -->
                                     <div class="swiper-slide">
-                                        <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/online-medical-assistance-illustration_74855-4447.avif)">
+                                        <div class="elementor-carousel-image">   
+                                        <img src="wp-content/uploads/sites/231/2022/08/Department Logo.png" alt="Background Image">
+
 
 
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/boundless-communications-make-it-easy-stay-touch-around-world-with-single-mobile-phone-computer_1150-37261.avif)">
+                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/healthcare.jpg)">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="elementor-carousel-image"
+                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/manufacturing-technology-concept-with-machine-equipment-flat-design-vector-illustration_493806-13752.jpg)">
 
 
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/mark-calendar-isometric-icon_165488-3866.avif)">
+                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/non-profit.png)">
 
 
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
-                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/team-is-diagnosing-analys-business-developments_999616-1059.avif)">
+                                            style="background-image: url(wp-content/uploads/sites/231/2022/08/insurance.png)">
 
 
                                         </div>
@@ -282,7 +287,7 @@
                     </div>
                 </div>
             </div>
-		</div>
+        </div>
         <!-- industries carousel ends -->
         <div class="elementor-element elementor-element-7224be0e e-con-boxed e-con" data-id="7224be0e"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
@@ -471,7 +476,8 @@
                                         loading="lazy" /></figure>
                                 <div class="elementor-image-box-content">
                                     <h4 class="elementor-image-box-title">OmniStudio (Vlocity)</h4>
-                                    <p class="elementor-image-box-description">Streamlines application development for industry-specific processes.</p>
+                                    <p class="elementor-image-box-description">Streamlines application development for
+                                        industry-specific processes.</p>
                                 </div>
                             </div>
                         </div>
@@ -485,9 +491,8 @@
                                         class="elementor-animation-grow attachment-full size-full wp-image-62" alt=""
                                         loading="lazy" /></figure>
                                 <div class="elementor-image-box-content">
-                                    <h4 class="elementor-image-box-title">Manufacturing Cloud</h4>
-                                    <p class="elementor-image-box-description">Salesforce solution for real-time
-                                        transparency and optimization in manufacturing processes</p>
+                                    <h4 class="elementor-image-box-title">Data Migration</h4>
+                                    <p class="elementor-image-box-description">Data migration/integration in Salesforce: Transferring external data into Salesforce using tools like Data Loader or APIs for seamless integration.</p>
                                 </div>
                             </div>
                         </div>
@@ -515,7 +520,8 @@
                     data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
                     <div class="elementor-widget-container">
                         <div class="elementor-button-wrapper">
-                            <a href="services.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                            <a href="services.php" class="elementor-button-link elementor-button elementor-size-sm"
+                                role="button">
                                 <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">View all services</span>
                                 </span>
@@ -992,7 +998,7 @@
                                 <div
                                     class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
                                     <a class="elementor-cta__button elementor-button elementor-size-md"
-                                        href="CodM-Profile.pdf" id="pdfLink" ><i class="fas fa-file-pdf"></i>
+                                        href="CodM-Profile.pdf" id="pdfLink"><i class="fas fa-file-pdf"></i>
                                         Company Profile </a>
                                 </div>
                             </div>
@@ -1001,23 +1007,24 @@
                 </div>
             </div>
         </div>
-</div>
-<!-- footer section  -->
-<script>
-document.getElementById('pdfLink').addEventListener('click', function(event) {
-    // Prevent the default behavior of the link
-    event.preventDefault();
+    </div>
+    <!-- footer section  -->
+    <script>
+    document.getElementById('pdfLink').addEventListener('click', function(event) {
+        // Prevent the default behavior of the link
+        event.preventDefault();
 
-    // URL of your PDF file
-    var pdfUrl = 'CodM-Profile.pdf';
+        // URL of your PDF file
+        var pdfUrl = 'CodM-Profile.pdf';
 
-    // Open the PDF in a new tab
-    var newTab = window.open(pdfUrl, '_blank');
+        // Open the PDF in a new tab
+        var newTab = window.open(pdfUrl, '_blank');
 
-    // Add a favicon to the new tab (replace 'favicon.ico' with your actual favicon file)
-    newTab.document.head.innerHTML += '<link rel="icon" href="wp-content/favicon_io/android-chrome-512x512.png" type="image/x-icon">';
-});
-</script>
-<?php include 'app/footer.php';?>
+        // Add a favicon to the new tab (replace 'favicon.ico' with your actual favicon file)
+        newTab.document.head.innerHTML +=
+            '<link rel="icon" href="wp-content/favicon_io/android-chrome-512x512.png" type="image/x-icon">';
+    });
+    </script>
+    <?php include 'app/footer.php';?>
 
-<!-- <?php include 'app/popup.php';?> -->
+    <!-- <?php include 'app/popup.php';?> -->
