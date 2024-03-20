@@ -8,10 +8,11 @@ if (isset($_POST['Name']) && isset($_POST['email']) && isset($_POST['Phone_Numbe
     $mobile = $_POST["Phone_Number"];
 
     $message = "Name = " .$Job_Name. "\r\n Email = " . $email . "\r\n Phone number = " . $mobile . "\r\n Job Profile = " . $Job_Profile;
+  
     $subject = "Applied for" . $Job_Profile;
     $fromname = "CodMsoftware.com";
     $fromemail = $email;
-    $mailto = 'hardik.sharma@codmsoftware.com';
+    $mailto = 'karan.dandriyal@codmsoftware.com';
 
     $content = file_get_contents($fileName);
     $content = chunk_split(base64_encode($content));
