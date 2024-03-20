@@ -150,15 +150,14 @@
 <section class="F-T-margin-top">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-6 mx-auto align-self-center  p-md-5">
+            <div class="col-lg-6 mx-auto align-self-center  p-md-5 mt-5">
                 <div class="T-form-tital align-self-center">How to use Field History Tracking in Salesforce</div>
                 <div class="T-form-subTital pt-4">Updating fields for Objects in Salesforce is routine as customer information changes. Being able to remember what certain values were a week or month ago would be quite handy. But remembering this data becomes impossible with hundreds of customers and many teammates using Salesforce. What’s the solution? That’s where Field History Tracking comes in.
 
 </div>
             </div>
                     <div class="col-lg-6 mx-auto mt-5 pt-5">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/mTUPwlyun_U?si=d9W3kKXZWUJzQguN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?si=ooFXBTLNx6robLgx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            </div>
             </div>
     </div>
 </section>
@@ -170,9 +169,11 @@
                 <div class="T-form-tital align-self-center">How our Field History Tracking be useful for your business?</div>
                 <div class="T-form-subTital pt-4">
                     <ul>
-                        <li>Field History Tracking, the field history data is retained, giving you a logged list of the important data</li>
-                        <li class="mt-1">How is it better than the Salesforce Standard Functionality of providing a facility to set Field History Tracking ?</li>
-                        <li class="mt-1">As per the Salesforce Standard Functionality, a user is able to track field history of only 20 fields at a time. This limitation enables FHT to stand out as it allows every existing field in a salesforce org to be available for Field History Tracking .</li>
+                        <li>Our Field History Tracking Application enables users to track field history of as many fields for an object they want</li>
+                        <li class="mt-1">The object can be standard or custom as per user's choice.</li>
+                        <li class="mt-1">As per the Salesforce Standard Functionality, a user is able to track field history of only 20 fields at a time. This limitation enables 
+our FHT to stand out as it allows every existing field in a salesforce org to be available for Field History Tracking </li>
+                        <li class="mt-1">It is a user friendly application which enables tracking for both standard and custom objects.</li>
                 </div>
             </div>
                     <div class="col-lg-5 mx-auto mt-5 pt-5">
@@ -204,15 +205,17 @@ Salesforce Field History Tracking can also help you understand when a non-human 
             <div class="col-lg-6 mx-auto align-self-center order-md-2 p-md-5 mb-2  p-md-5">
                 <div class="T-form-tital align-self-center">Let’s Get Tracking</div>
                 <div class="T-form-subTital pt-4">To enable Field History Tracking</div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Click the gear icon and Choose Setup</span></div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Under Objects and Fields, choose the Object Manager</span></div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Select Order or depending on which one you’re doing first</span></div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Select Fields & Relationships</span></div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Click the Set History Tracking button</span></div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Choose what fields you want to track</span></div>
-                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Be sure to click save</span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Select any Standard/Custom Object</span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Select fields for Field History Tracking </span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Preview the fields and Submit them</span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Go to any of the selected object's record</span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Place the LWC Component through Lightning App Builder</span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Make changes to the record's selected fields </span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">Make sure to save the record</span></div>
+                <div class="mt-4"><span><i class="fa-solid fa-check T-bg-color"></i></span> <span class="fw-bold">You will be able to see the list of Field History Tracking Records</span></div>
+
             </div>
-                    <div class="col-lg-5 mx-auto">
+                    <div class="col-lg-5 mx-auto mt-5">
                 <img src="wp-content/uploads/sites/231/2022/08/visual-data-concept-illustration_114360-1912.jpg" alt="form-1" class="w-100">
             </div>
            
