@@ -576,6 +576,51 @@
 			</div>
 		</div>
 	</div>
+	 <!-- our team starts -->
+	 <div class="elementor-element elementor-element-25b50a4a e-con-boxed e-con" data-id="25b50a4a"
+            data-element_type="container-fluid" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
+                    data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h2 class="elementor-heading-title elementor-size-default text-center mt-3">Meet our team</h2>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-66ef376a elementor-widget__width-initial elementor-widget elementor-widget-heading"
+                    data-id="66ef376a" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h5 class="elementor-heading-title elementor-size-default"></h5>
+                    </div>
+                </div>
+                <section class="section_heading_p-top" style="position:relative;">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6 mb-4 mt-5">
+                                <div id="aboutImage_Wrapper">
+                                    <img src="wp-content/uploads/sites/231/2022/08/CodM.png" alt="about"
+                                        class="w-100 h-100">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 ps-sm-5 ">
+                                 <!-- <h5 class="mb-3" style="color:#00A1E0;">Meet our team</h5>  -->
+                                <h2 class="about-title_h2 mt-5 pt-5">Painting our journey with vibrant hues of collaboration and success</h2>
+                                <div class=" pt-4" style="line-height: 30px;">In the captured moment of our team photo,
+                                    every smile reflects the unity and harmony that define us. Each face tells a story
+                                    of collaboration, resilience, and shared goals. Together, we form a tight-knit
+                                    community, bound by mutual respect and a commitment to excellence. This image
+                                    symbolizes not just a group of individuals, but a cohesive team, where each member's
+                                    contribution is valued and celebrated. It serves as a reminder of the strength found
+                                    in togetherness and the collective spirit that propels us towards our common vision.
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+
 	<div class="elementor-element elementor-element-49e58bb7 e-con-boxed e-con" data-id="49e58bb7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 		<div class="e-con-inner">
 			<div class="elementor-element elementor-element-75cef452 e-con-full e-con" data-id="75cef452" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
