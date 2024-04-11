@@ -102,8 +102,8 @@
         <label for="exampleInputRole">Job Profile</label>
         <select class="form-select" id="exampleInputRole" name="Job_Profile">
             <option value="" selected disabled>Select your role</option>
-            <option value="Software Developer">Hr Executive </option>
-            <option value="Project Manager">Salesforce Developer</option>
+            <option value="Hr Executive">Hr Executive </option>
+            <option value="Salesforce Developer">Salesforce Developer</option>
             <!-- <option value="Data Analyst">Data Analyst</option> -->
             <!-- Add more role options as needed -->
         </select>

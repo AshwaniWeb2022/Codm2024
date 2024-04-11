@@ -56,7 +56,7 @@
     <p>What you want to do next ? </p>
 <div class="button-container">
     <button class="button1"><a href="index.php">Go back home</a> </button>
-    <button class="button2"><a href="services.php">Explore more </a></button>
+    <button class="button2"><a href="#!">Explore more</a></button>
 </div>
 </div>
     <div>
