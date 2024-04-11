@@ -40,6 +40,21 @@
                     .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
                         font-size: 59px
                     }
+
+
+                    .elementor-post__read-more {
+                        position: relative;
+                        display: inline-block;
+                     
+                    }
+
+                    .fa-arrow-right {
+                        transition: transform 0.3s ease-in-out;
+                    }
+
+                    .elementor-post__read-more:hover .fa-arrow-right {
+                        transform: translateX(50%);
+                    }
                     </style>
                     <h1 class="elementor-heading-title elementor-size-default">Easy Access To Attractive Services</h1>
                 </div>
@@ -89,7 +104,9 @@
                         </p>
                         <a class="elementor-post__read-more" href="omnistudio.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -116,16 +133,12 @@
                             steadfast commitment to excellence, they deliver a holistic suite of services that encompass
                             consulting, configuration, customization, migration, and seamless integration into existing
                             systems.
-
-                            What sets CodM apart is their unwavering dedication to long-term client success. Beyond the
-                            initial implementation, their steadfast support extends to ongoing development and
-                            maintenance, ensuring that the Salesforce solution remains optimized for evolving business
-                            needs. By harnessing the power of cutting-edge Salesforce cloud solutions, CodM empowers
-                            companies not only to thrive but to achieve sustainable growth, enhance operational
-                            efficiency, and curate an unparalleled integrated customer experience.</p>
-                        <a class="elementor-post__read-more" href="Salesforce-Implementation.php"
+</p>
+                        <a class="elementor-post__read-more" href="salesforce-Implementation.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -182,7 +195,9 @@
                         </p>
                         <a class="elementor-post__read-more" href="Consulting-Service.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -238,7 +253,7 @@
                         }
                         </style>
                         <p>
-                            Non-Profit Cloud refers to a suite of cloud-based solutions and services tailored to the
+                            Salesforce Non-Profit Cloud refers to a suite of cloud-based solutions and services tailored to the
                             specific needs and challenges of nonprofit organizations. These solutions are typically
                             provided by cloud computing providers like Salesforce, which offer specialized platforms
                             such as Salesforce.org Nonprofit Cloud.
@@ -250,7 +265,9 @@
                         </p>
                         <a class="elementor-post__read-more" href="Non-profitCloud.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -300,8 +317,11 @@
                             additional features, functionality, or customization beyond what is available in the
                             standard Salesforce offerings.
                         </p>
-                        <a class="elementor-post__read-more" href="salesforce-managed-package.php" aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                        <a class="elementor-post__read-more" href="salesforce-managed-package.php"
+                            aria-label="Read more about Blog Post Title">
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -332,7 +352,9 @@
                         </p>
                         <a class="elementor-post__read-more" href="data-migration.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -388,7 +410,9 @@
                             in today's digital landscape.</p>
                         <a class="elementor-post__read-more" href="api-integration.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -457,7 +481,9 @@
                             technologies including </p>
                         <a class="elementor-post__read-more" href="Education-Cloud.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -508,9 +534,10 @@
                             within a single platform. In this comprehensive guide, we'll explore the features, benefits,
                             and use cases of Salesforce CPQ, as well as its impact on sales productivity, revenue
                             growth, and customer satisfaction.</p>
-                            <a class="elementor-post__read-more" href="salesforce-cpq.php"
+                        <a class="elementor-post__read-more" href="salesforce-cpq.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
 
                     </div>
                 </div>
@@ -547,7 +574,9 @@
                             guide, we'll explore the features, benefits, and use cases of Manufacturing Cloud.</p>
                         <a class="elementor-post__read-more" href="Manufacturing-Cloud.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -601,15 +630,17 @@
                             organizations a range of benefits, including improved agility, scalability, security and
                             compliance, enabling them to drive innovation, optimize processes and deliver superior
                             customer experiences</p>
-                            <a class="elementor-post__read-more" href="Industries-Cloud.php"
+                        <a class="elementor-post__read-more" href="Industries-Cloud.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-<!-- industries cloud end  -->
+    <!-- industries cloud end  -->
     <div class="elementor-element elementor-element-2fd347a5 e-con-boxed e-con" data-id="2fd347a5"
         data-element_type="container"
         data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
@@ -625,7 +656,7 @@
                 <div class="elementor-element elementor-element-521f6520 elementor-widget elementor-widget-text-editor"
                     data-id="521f6520" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                    <p>A company that specializes in Salesforce maintenance services, and emphasizes their extensive
+                        <p>A company that specializes in Salesforce maintenance services, and emphasizes their extensive
                             knowledge in ensuring the consistent operation of Salesforce CRM systems.The text mentions
                             that CodM's Salesforce support specialists are always ready to go the extra mile to provide
                             a seamless CRM experience.Furthermore, the text mentions the various services offered by
@@ -636,7 +667,9 @@
                         </p>
                         <a class="elementor-post__read-more" href="Support-And-Maintenance.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -679,7 +712,7 @@
                 <div class="elementor-element elementor-element-381ee8ea elementor-widget elementor-widget-text-editor"
                     data-id="381ee8ea" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                    <p>
+                        <p>
                             The Salesforce platform is extremely adaptable and inclusive, allowing businesses to
                             personalize it to suit their individual needs with ease. It offers a diverse range of
                             resources, tools, and an extensive third-party integration ecosystem through the AppExchange
@@ -699,13 +732,15 @@
                             Customizations that modify user access controls can lead to security issues. </p>
                         <a class="elementor-post__read-more" href="TestingAndDeployment.php"
                             aria-label="Read more about Blog Post Title">
-                            Read More </a>
+                            Read More <i id="arrowIcon" class="fa-solid fa-arrow-right"></i>
+                        </a>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-   
+
     <div class="elementor-element elementor-element-79653539 e-con-boxed e-con" data-id="79653539"
         data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
         <div class="e-con-inner">
@@ -735,6 +770,7 @@
                                 <a class="elementor-cta__button elementor-button elementor-size-md"
                                     href="contact-us.php">
                                     Learn More </a>
+
                             </div>
                         </div>
                     </div>
@@ -744,6 +780,8 @@
     </div>
 </div>
 <!-- footer section  -->
+<!-- Animate arrow  -->
+
 <?php include 'app/footer.php';?>
 
 <!-- <?php include 'app/popup.php';?> -->

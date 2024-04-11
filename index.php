@@ -202,7 +202,6 @@
             width: 100px;
             /* Automatically adjust width to maintain aspect ratio */
         }
-        
         </style>
         <img class="fixed-image" src="wp-content/uploads/sites/231/2022/08/Badges3.png" alt="Fixed Image">
     </div>
@@ -236,10 +235,10 @@
                                     <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
                                             style="background-image: url(wp-content/uploads/sites/231/2022/08/banking.avif)">
-                                            
+
                                         </div>
                                     </div>
-<!-- 
+                                    <!-- 
                                      <div class="swiper-slide">
                                         <div class="elementor-carousel-image"
                                             style="background-image: url(https://img.freepik.com/premium-vector/education-flat-poster_609547-1363.jpg?w=740)">
@@ -248,8 +247,9 @@
                                         </div>
                                     </div>   -->
                                     <div class="swiper-slide">
-                                        <div class="elementor-carousel-image">   
-                                        <img src="wp-content/uploads/sites/231/2022/08/Department Logo.png" alt="Background Image">
+                                        <div class="elementor-carousel-image">
+                                            <img src="wp-content/uploads/sites/231/2022/08/Department Logo.png"
+                                                alt="Background Image">
 
 
 
@@ -492,7 +492,9 @@
                                         loading="lazy" /></figure>
                                 <div class="elementor-image-box-content">
                                     <h4 class="elementor-image-box-title">Data Migration</h4>
-                                    <p class="elementor-image-box-description">Data migration/integration in Salesforce: Transferring external data into Salesforce using tools like Data Loader or APIs for seamless integration.</p>
+                                    <p class="elementor-image-box-description">Data migration/integration in Salesforce:
+                                        Transferring external data into Salesforce using tools like Data Loader or APIs
+                                        for seamless integration.</p>
                                 </div>
                             </div>
                         </div>
@@ -532,6 +534,7 @@
             </div>
         </div>
         <!-- Services ends -->
+       
         <!-- Why choose us starts -->
         <div class="elementor-element elementor-element-199fb5cb e-con-boxed e-con" data-id="199fb5cb"
             data-element_type="container"
@@ -570,7 +573,8 @@
                                             360-Degree Customer View</span>
                                     </h4>
                                     <p class="elementor-icon-box-description">
-                                        Comprehensive insights into customer behavior, preferences and interactions in
+                                        Comprehensive insights into customer behavior, preferences and
+                                        interactions in
                                         one place.</p>
                                 </div>
                             </div>
@@ -599,7 +603,8 @@
                                             Co-Operation In Real Time</span>
                                     </h4>
                                     <p class="elementor-icon-box-description">
-                                        Facilitates teamwork by providing a common platform for sales, marketing and
+                                        Facilitates teamwork by providing a common platform for sales,
+                                        marketing and
                                         support teams.</p>
                                 </div>
                             </div>
@@ -628,7 +633,8 @@
                                             Integration Of Social Media</span>
                                     </h4>
                                     <p class="elementor-icon-box-description">
-                                        Integrates with social platforms for a deeper understanding of customer
+                                        Integrates with social platforms for a deeper understanding of
+                                        customer
                                         sentiment and engagement.</p>
                                 </div>
                             </div>
@@ -657,7 +663,8 @@
                                             Automation Of The Workflow</span>
                                     </h4>
                                     <p class="elementor-icon-box-description">
-                                        Automates complex workflows, reduces manual intervention and increases
+                                        Automates complex workflows, reduces manual intervention and
+                                        increases
                                         efficiency.</p>
                                 </div>
                             </div>
@@ -676,7 +683,8 @@
                     data-id="591b700e" data-element_type="widget"
                     data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">Client Testimonials</h2>
+                        <h2 class="elementor-heading-title elementor-size-default">Client Testimonials
+                        </h2>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-40dd1bac elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-heading"
@@ -684,7 +692,8 @@
                     data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}"
                     data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h5 class="elementor-heading-title elementor-size-default">Our clients love us, here are a few
+                        <h5 class="elementor-heading-title elementor-size-default">Our clients love us,
+                            here are a few
                             of their quotes.</h5>
                     </div>
                 </div>
@@ -704,14 +713,21 @@
                                             <div class="elementor-testimonial">
                                                 <div class="elementor-testimonial__content">
                                                     <div class="elementor-testimonial__text">
-                                                        "Working with CodM was a turning point for us. Their expertise
-                                                        in building customised CRM solutions has transformed our
-                                                        customer interactions. We now have a unified platform that has
-                                                        streamlined our processes, resulting in improved efficiency and
-                                                        ultimately increased revenue. The team's dedication and
-                                                        innovative approach has exceeded our expectations”</div>
+                                                        "Working with CodM was a turning point for us.
+                                                        Their expertise
+                                                        in building customised CRM solutions has
+                                                        transformed our
+                                                        customer interactions. We now have a unified
+                                                        platform that has
+                                                        streamlined our processes, resulting in improved
+                                                        efficiency and
+                                                        ultimately increased revenue. The team's
+                                                        dedication and
+                                                        innovative approach has exceeded our
+                                                        expectations”</div>
                                                     <cite class="elementor-testimonial__cite"><span
-                                                            class="elementor-testimonial__name">Banking &
+                                                            class="elementor-testimonial__name">Banking
+                                                            &
                                                             accounts</span></cite>
                                                 </div>
                                                 <div class="elementor-testimonial__footer">
@@ -740,10 +756,14 @@
                                             <div class="elementor-testimonial">
                                                 <div class="elementor-testimonial__content">
                                                     <div class="elementor-testimonial__text">
-                                                        “Thanks to CodM, our marketing efforts skyrocketed. The
-                                                        personalized CRM solution enhanced our targeting, resulting in
-                                                        higher conversion rates. Smooth transition, user-friendly
-                                                        interface—our marketing team is now more agile than ever” </div>
+                                                        “Thanks to CodM, our marketing efforts
+                                                        skyrocketed. The
+                                                        personalized CRM solution enhanced our
+                                                        targeting, resulting in
+                                                        higher conversion rates. Smooth transition,
+                                                        user-friendly
+                                                        interface—our marketing team is now more agile
+                                                        than ever” </div>
                                                     <cite class="elementor-testimonial__cite"><span
                                                             class="elementor-testimonial__name">Manufacturing</span></cite>
                                                 </div>
@@ -773,10 +793,14 @@
                                             <div class="elementor-testimonial">
                                                 <div class="elementor-testimonial__content">
                                                     <div class="elementor-testimonial__text">
-                                                        “CodM has given our company a strategic boost. Customised
-                                                        solutions improved our workflows and supply chain management.
-                                                        Valuable insights for better decision making. Their
-                                                        understanding of our business needs sets them apart” </div>
+                                                        “CodM has given our company a strategic boost.
+                                                        Customised
+                                                        solutions improved our workflows and supply
+                                                        chain management.
+                                                        Valuable insights for better decision making.
+                                                        Their
+                                                        understanding of our business needs sets them
+                                                        apart” </div>
                                                     <cite class="elementor-testimonial__cite"><span
                                                             class="elementor-testimonial__name">Healthcare</span></cite>
                                                 </div>
@@ -806,10 +830,14 @@
                                             <div class="elementor-testimonial">
                                                 <div class="elementor-testimonial__content">
                                                     <div class="elementor-testimonial__text">
-                                                        “CodM transformed our customer service. Their CRM solution
-                                                        centralized information, enabling prompt and personalized
-                                                        support. Increased customer satisfaction is now our norm.
-                                                        They've been a true partner in our journey towards service
+                                                        “CodM transformed our customer service. Their
+                                                        CRM solution
+                                                        centralized information, enabling prompt and
+                                                        personalized
+                                                        support. Increased customer satisfaction is now
+                                                        our norm.
+                                                        They've been a true partner in our journey
+                                                        towards service
                                                         excellence.” </div>
                                                     <cite class="elementor-testimonial__cite"><span
                                                             class="elementor-testimonial__name">Finance</span></cite>
@@ -992,7 +1020,8 @@
                                     Customised CRM Solutions For Your Unique Success Story</h2>
                                 <div
                                     class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-                                    Our commitment doesn't end with development; we're your reliable partner for
+                                    Our commitment doesn't end with development; we're your reliable
+                                    partner for
                                     continuous CRM support.</div>
 
                                 <div
