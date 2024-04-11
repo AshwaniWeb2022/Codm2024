@@ -631,8 +631,12 @@
 							.elementor-counter .elementor-counter-number-wrapper {
 								display: flex;
 								font-size: 69px;
+
+								3
+								
 								font-weight: 600;
 								line-height: 1
+							
 							}
 
 							.elementor-counter .elementor-counter-number-prefix,

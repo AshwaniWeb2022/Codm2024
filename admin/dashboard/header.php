@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CODM SOFTWARE | Admin</title>
 <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="../mophy/admin/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="">
 
     <link href="../mophy/admin/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
     
@@ -45,7 +45,7 @@
 	Nav header start
 ***********************************-->
 <div class="nav-header">
-	<a href="https://mophy.w3itexpert.com/Admin" class="brand-logo">
+	<a href="" class="brand-logo">
 		<img class="logo-abbr" src="../mophy/admin/images/logo.jpg" alt="">
 		<!-- <img class="brand-title" src="../mophy/admin/images/logo-text.png" alt=""> -->
 	</a>
@@ -79,8 +79,8 @@
 					<li class="nav-item dropdown header-profile">
 						<a class="nav-link" href="javascript:void(0)" role="button" data-bs-toggle="dropdown">
 							<div class="header-info">
-								<span class="text-black">Hello, &nbsp;<strong>Admin</strong></span>
-								<p class="fs-12 mb-0">Admin</p>
+								<span class="text-black">Hello, &nbsp;<strong>Hardik</strong></span>
+								<p class="fs-12 mb-0">Super Admin</p>
 							</div>
 							<img src="../mophy/admin/images/profile/17.jpg" width="20" alt="">
 						</a>
