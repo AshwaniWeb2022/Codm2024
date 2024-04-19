@@ -560,6 +560,9 @@
 					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
 
 					<div class="owl-carousel">
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/yamaha.jpg" alt="Client 9"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/phaseTrust.jpg" alt="Client 10"></div>
+						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/coventry.jpg" alt="Client 11"></div>
 						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/foogalClinet.png" alt="Client 1"></div>
 						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/elgebra.jpg" alt="Client 2"></div>
 						  <div class="item"><img src="wp-content/uploads/sites/231/2022/08/dynamicClinet.png" alt="Client 3"></div>
