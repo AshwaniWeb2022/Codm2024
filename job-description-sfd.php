@@ -65,7 +65,7 @@
             </style>
             <div class="col-lg-6 mt-3 pt-3">
                 <!-- Form for the right column -->
-                <h2 class="ms-5">Fill in your details to apply now</h2>
+                <h2 class="">Fill in your details to apply now</h2>
                 <form action="process.php" enctype="multipart/form-data" method="POST" id="carrierForm">
     <div class="form-group">
         <label for="exampleInputName">Name</label>
