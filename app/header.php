@@ -25,16 +25,16 @@
     <meta name="description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner.">
     <!--Description for Google bot  -->
 
-<meta property="og:url" content="codmsoftware.com" />
-<meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
-<meta property="og:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
-<meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
-<meta property="og:image:width" content="400" />
-<meta property="og:image:height" content="380" />
-<meta name="twitter:card" content="Salesforce Consulting Partner." />
-<meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
-<meta name="twitter:title" content="codmsoftware.com" />
-<meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
+    <meta property="og:url" content="codmsoftware.com" />
+    <meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
+    <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
+    <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="380" />
+    <meta name="twitter:card" content="Salesforce Consulting Partner." />
+    <meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
+    <meta name="twitter:title" content="codmsoftware.com" />
+    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
     <!-- / Yoast SEO plugin.  -->
 
     <!-- <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed" href="feed/index" />
@@ -383,9 +383,9 @@
         line-height: 1.6;
     }
     </style>
-    
-    <link rel='stylesheet' id='hello-elementor-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css'
-        media='all' />
+
+    <link rel='stylesheet' id='hello-elementor-css'
+        href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' media='all' />
 
     <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1'
         media='all' />
@@ -395,20 +395,12 @@
         href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='elementor-post-16-css'
         href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
-        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
         href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
-    <!-- <link rel='stylesheet' id='font-awesome-5-all-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2' media='all' />
-    <link rel='stylesheet' id='font-awesome-4-shim-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
-        media='all' />
     <link rel='stylesheet' id='elementor-global-css' 
-        href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' /> -->
+        href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' /> 
     <link rel='stylesheet' id='elementor-post-71-css'
         href='wp-content/uploads/sites/231/elementor/css/post-718baa.css?ver=1684335501' media='all' />
     <link rel='stylesheet' id='elementor-post-18-css'
@@ -420,16 +412,6 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
         media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        media='all' /> -->
-    <!-- About us stylesheet Lists  -->
     <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1'
         media='all' />
     <link rel='stylesheet' id='hello-elementor-theme-style-css'
@@ -438,18 +420,10 @@
         href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='elementor-post-16-css'
         href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
-        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
         href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
-    <!-- <link rel='stylesheet' id='font-awesome-5-all-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2' media='all' />
-    <link rel='stylesheet' id='font-awesome-4-shim-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
-        media='all' /> -->
     <link rel='stylesheet' id='elementor-global-css'
         href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' />
     <link rel='stylesheet' id='elementor-post-61-css'
@@ -461,44 +435,22 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
         media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
+    <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minae48.css?ver=6.2'
         media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        media='all' /> -->
-<!-- Services stylesheet -->
-<link rel='stylesheet' id='wp-block-library-css'
-        href='wp-includes/css/dist/block-library/style.minae48.css?ver=6.2' media='all' />
     <link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.minae48.css?ver=6.2'
         media='all' />
-        <link rel="stylesheet"
-         href="wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-call-to-action.min.css">
+    <link rel="stylesheet" href="wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-call-to-action.min.css">
 
-   <link rel='stylesheet' id='hello-elementor-css'
-        href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1' media='all' />
+    <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.minc141.css?ver=2.6.1'
+        media='all' />
     <link rel='stylesheet' id='hello-elementor-theme-style-css'
         href='wp-content/themes/hello-elementor/theme.minc141.css?ver=2.6.1' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css'
         href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css?ver=3.12.2' media='all' />
     <link rel='stylesheet' id='elementor-post-16-css'
         href='wp-content/uploads/sites/231/elementor/css/post-16046b.css?ver=1684334869' media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css?ver=5.18.0'
-        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
-    <!-- <link rel='stylesheet' id='elementor-pro-css'
-        href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css?ver=3.12.3' media='all' />
-    <link rel='stylesheet' id='font-awesome-5-all-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css?ver=3.12.2'
-        media='all' />
-    <link rel='stylesheet' id='font-awesome-4-shim-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css?ver=3.12.2'
-        media='all' /> -->
     <link rel='stylesheet' id='elementor-global-css'
         href='wp-content/uploads/sites/231/elementor/css/global1195.css?ver=1684334870' media='all' />
     <link rel='stylesheet' id='elementor-post-55-css'
@@ -510,17 +462,7 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.2'
         media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        media='all' />
-         -->
-<!-- services ends -->
+    <!-- services ends -->
 
     <!-- contact us stylesheet lists  -->
     <link rel='stylesheet' id='hello-elementor-css'
@@ -535,21 +477,12 @@
     <link rel='stylesheet' id='elementor-post-16-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-16.css?ver=1684334869'
         media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0'
-        media='all' /> -->
     <link rel='stylesheet' id='swiper-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min.css?ver=5.3.6'
         media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min.css?ver=3.12.3'
         media='all' />
-    <!-- <link rel='stylesheet' id='font-awesome-5-all-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.min.css?ver=3.12.2'
-        media='all' />
-    <link rel='stylesheet' id='font-awesome-4-shim-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.12.2'
-        media='all' /> -->
     <link rel='stylesheet' id='elementor-global-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/global.css?ver=1684334870'
         media='all' />
@@ -565,18 +498,9 @@
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2'
         media='all' />
-    <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
-        media='all' /> -->
-
     <!-- for boot strap      -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- bootstrap -->
     <!-- for nav bar -->
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
@@ -590,25 +514,27 @@
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/71" />
 
     <link rel='shortlink' href='index' />
-    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed56ec?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede0c5?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
-    <meta name="generator" content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+    <link rel="alternate" type="application/json+oembed"
+        href="wp-json/oembed/1.0/embed56ec?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F" />
+    <link rel="alternate" type="text/xml+oembed"
+        href="wp-json/oembed/1.0/embede0c5?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2F&amp;format=xml" />
+    <meta name="generator"
+        content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
     <!-- favicon icon  -->
-    
-<link rel="icon" type="image/png" sizes="512x512" href="wp-content\favicon_io\android-chrome-512x512.png">
-<link rel="icon" type="image/png" sizes="192x192" href="wp-content\favicon_io\android-chrome-192x192.png">
-<link rel="apple-touch-icon" sizes="180x180" href="wp-content\favicon_io\apple-touch-icon.png">    
-<link rel="icon" type="image/png" sizes="32x32" href="wp-content\favicon_io\favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="wp-content\favicon_io\favicon-16x16.png">
 
-<link rel="manifest" href="wp-content\favicon_io\site.webmanifest">
-<link rel="mask-icon" href="wp-content\favicon\safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-<!-- favicon icon  -->
+    <link rel="icon" type="image/png" sizes="512x512" href="wp-content\favicon_io\android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="wp-content\favicon_io\android-chrome-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="wp-content\favicon_io\apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="wp-content\favicon_io\favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="wp-content\favicon_io\favicon-16x16.png">
 
-    <meta name="msapplication-TileImage"
-    content="wp-content\favicon_io\android-chrome-512x512.png" />
+    <link rel="manifest" href="wp-content\favicon_io\site.webmanifest">
+    <link rel="mask-icon" href="wp-content\favicon\safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!-- favicon icon  -->
+
+    <meta name="msapplication-TileImage" content="wp-content\favicon_io\android-chrome-512x512.png" />
 </head>
 
 <body
@@ -627,7 +553,7 @@
         padding: 0 !important;
     }
     </style>
-       <header data-elementor-type="header" data-elementor-id="18"
+    <header data-elementor-type="header" data-elementor-id="18"
         class="shadow elementor elementor-18 elementor-location-header">
         <div class="elementor-element elementor-element-310218fd e-con-boxed e-con" data-id="310218fd"
             data-element_type="container"
@@ -657,8 +583,8 @@
                                 display: inline-block
                             }
                             </style> <a href="index.php">
-                                <img src="logo-change-color.jpg"
-                                    class="attachment-full size-full wp-image-11 ms-2"  alt="" loading="lazy" /> </a>
+                                <img src="logo-change-color.jpg" class="attachment-full size-full wp-image-11 ms-2"
+                                    alt="" loading="lazy" /> </a>
                         </div>
                     </div>
                 </div>
@@ -676,114 +602,222 @@
                                 <ul id="menu-1-f0c4eec" class="elementor-nav-menu">
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
-                                        <a href="index.php" aria-current="page"
-                                            class="elementor-item">Home</a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="index.php" aria-current="page" class="elementor-item">Home</a>
+                                    </li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#!" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li> -->
-                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li> -->
                                         </ul>
                                     </li>
-                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li> -->
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#" class="elementor-item">Services</a>
-                                        <ul class="sub-menu bg-white pt-3 ">
-                                        <li><a class="text-dark elementor-item py-2 px-2" href="omnistudio.php">Omnistudio (Vlocity)</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Salesforce-Implementation.php">Salesforce Implementation</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Consulting-Service.php">Consulting Service</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Non-profitCloud.php">Non-Profit Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-managed-package.php">Salesforce Managed Packages</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="data-migration.php">Data Migration</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="api-integration.php">API Integration</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Education-Cloud.php">Education Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-cpq.php">Salesforce CPQ</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Manufacturing-Cloud.php">Manufacturing Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Industries-Cloud.php">Industries Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Support-And-Maintenance.php">Support And Maintenance</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="TestingAndDeployment.php">Testing And Deployment</a></li>
-                                        </ul>
-                                    </li>
+                                    <style>
+                                    .dropdown {
+                                        position: relative;
+                                        /* Add relative positioning */
+                                    }
+
+                                    .dropdown:hover .dropdown-content {
+                                        display: block;
+                                    }
+
+                                    .dropdown-content {
+                                        display: none;
+                                        position: absolute;
+                                        background-color: #f9f9f9;
+                                        width: auto;
+                                        /* Change width to auto */
+                                        min-width: 100%;
+                                        /* Ensure minimum width */
+                                        z-index: 1;
+                                        transition: opacity 0.5s;
+                                        /* Add transition effect */
+                                        opacity: 0;
+                                        /* Initially set opacity to 0 */
+                                        top: 100%;
+                                        /* Position below the dropdown button */
+                                        left: 0;
+                                        /* Align with the left edge of the dropdown button */
+                                    }
+
+                                    .dropdown:hover .dropdown-content {
+                                        opacity: 1;
+                                        /* On hover, set opacity to 1 */
+                                    }
+
+                                    .dropdown-content .header {
+                                        /* background: red; */
+                                        padding: 16px;
+                                        color: white;
+                                    }
+
+                                    .column {
+                                        float: left;
+                                        width: 50%;
+                                        /* Change to 50% for two columns */
+                                        padding: 10px;
+                                        background-color: white;
+                                        /* height: 250px; Remove fixed height */
+                                    }
+
+                                    .column a {
+                                        float: none;
+                                        color: black;
+                                        padding: 16px;
+                                        text-decoration: none;
+                                        display: block;
+                                        text-align: left;
+                                        /* font-family: ; */
+                                        font-weight: 500;
+                                        font-size: 16px;
+                                    }
+
+                                    .column a:hover {
+                                        /* background-color: #ddd; */
+                                    }
+
+                                    /* Clear floats after the columns */
+                                    .rwo:after {
+                                        content: "";
+                                        display: table;
+                                        clear: both;
+                                    }
+                                    </style>
+
+
+
+                                    <div class="dropdown">
+                                        <a href="#" class="elementor-item" style="padding: 20px;">services</a>
+                                        <div class="dropdown-content">
+                                            <div class="rwo" style="width: 545px">
+                                                <div class="column">
+                                                    <!-- <h3>Category 1</h3> -->
+                                                    <a href="Consulting-Service.php">Consulting Service</a>
+                                                    <a href="Manufacturing-Cloud.php">Manufacturing Cloud</a>
+                                                    <a href="api-integration.php">API Integration</a>
+                                                    <a href="data-migration.php">Data Migration</a>
+                                                    <a href="TestingAndDeployment.php">Testing And Deployment</a> 
+                                                    <a href="Support-And-Maintenance.php">Support And Maintenance</a>
+                                                </div>
+                                                <div class="column">
+                                                    <!-- <h3>Category 2</h3> -->
+                                                    <a href="salesforce-managed-package.php">Salesforce Managed Packages</a>
+                                                    <a href="Salesforce-Implementation.php">Salesforce Implementation</a>
+                                                    <a href="salesforce-cpq.php">Salesforce CPQ</a>
+                                                    <a href="Education-Cloud.php">Education Cloud</a>
+                                                    <a href="Industries-Cloud.php">Industries Cloud</a>
+                                                    <a href="omnistudio.php">Omnistudio (Vlocity)</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item">Blog</a></li> -->
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="field-history-tracking.php">Field History Tracking</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-form.php">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-sign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-survey.php">Titan Survey </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="field-history-tracking.php">Field History Tracking</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="titan-form.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan
+                                                    Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="titan-sign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan
+                                                    CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan
+                                                    Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="titan-survey.php">Titan Survey </a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
-                                        <a href="contact-us.php" class="elementor-item">Contact Us</a></li>
+                                        <a href="contact-us.php" class="elementor-item">Contact Us</a>
+                                    </li>
                                 </ul>
-                                
+
                             </nav>
+
                             <!-- Mobile response  -->
                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle"
                                 aria-expanded="false">
                                 <i aria-hidden="true" role="presentation"
                                     class="elementor-menu-toggle__icon--open fa-solid fa-bars"></i>
-                                    <i aria-hidden="true"
-                                    role="presentation" class="elementor-menu-toggle__icon--close fa-solid fa-xmark"></i>
+                                <i aria-hidden="true" role="presentation"
+                                    class="elementor-menu-toggle__icon--close fa-solid fa-xmark"></i>
                                 <span class="elementor-screen-only">Menu</span>
                             </div>
                             <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
                                 <ul id="menu-2-f0c4eec" class="elementor-nav-menu">
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
-                                        <a href="index.php" aria-current="page"
-                                            class="elementor-item" tabindex="-1">Home</a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                        <a href="index.php" aria-current="page" class="elementor-item"
+                                            tabindex="-1">Home</a>
+                                    </li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                        <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="#!">Blog</a></li> -->
-                                            <!-- <li><a class="text-dark elementor-item py-2 px-2" href="titansign">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanclm">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titanweb">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titansurvey">Titan Survey </a></li> -->
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About
+                                                    Us</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Services</a>
                                         <ul class="sub-menu bg-white pt-3 ">
-                                        <li><a class="text-dark elementor-item py-2 px-2" href="omnistudio.php">Omnistudio (Vlocity)</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Salesforce-Implementation.php">Salesforce Implementation</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Consulting-Service.php">Consulting Service</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Non-profitCloud.php">Non-Profit Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-managed-package.php">Salesforce Managed Packages</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="data-migration.php">Data Migration</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="api-integration.php">API Integration</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Education-Cloud.php">Education Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="salesforce-cpq.php">Salesforce CPQ</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Manufacturing-Cloud.php">Manufacturing Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Industries-Cloud.php">Industries Cloud</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="Support-And-Maintenance.php">Support And Maintenance</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="TestingAndDeployment.php">Testing And Deployment</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="omnistudio.php">Omnistudio (Vlocity)</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Salesforce-Implementation.php">Salesforce Implementation</a>
+                                            </li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Consulting-Service.php">Consulting Service</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Non-profitCloud.php">Non-Profit Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="salesforce-managed-package.php">Salesforce Managed
+                                                    Packages</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="data-migration.php">Data Migration</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="api-integration.php">API Integration</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Education-Cloud.php">Education Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="salesforce-cpq.php">Salesforce CPQ</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Manufacturing-Cloud.php">Manufacturing Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Industries-Cloud.php">Industries Cloud</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="Support-And-Maintenance.php">Support And Maintenance</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="TestingAndDeployment.php">Testing And Deployment</a></li>
                                         </ul>
                                     </li>
-                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li> -->
-                                    <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item" tabindex="-1">Blog</a></li> -->
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="field-history-tracking.php">Field History Tracking</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-form.php">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-sign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-survey.php">Titan Survey </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="field-history-tracking.php">Field History Tracking</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="titan-form.php">Titan Form</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan
+                                                    Doc </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="titan-sign.php">Titan Sign</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan
+                                                    CLM </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan
+                                                    Web </a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2"
+                                                    href="titan-survey.php">Titan Survey </a></li>
                                         </ul>
-                                    </li> 
+                                    </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item" tabindex="-1">Contact Us</a>
                                     </li>
@@ -796,8 +830,8 @@
                         data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a href="Job-list.php"
-                                    class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                <a href="Job-list.php" class="elementor-button-link elementor-button elementor-size-sm"
+                                    role="button">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-text">Join Us </span>
                                     </span>
@@ -811,38 +845,46 @@
     </header>
     <style>
     .marquee-container {
-      width: 100%;
-      overflow: hidden;
-      border: 3px solid #ccc; 
+        width: 100%;
+        overflow: hidden;
+        border: 3px solid #ccc;
     }
 
     .marquee-text {
-      white-space: nowrap;
-      animation: marquee 30s linear infinite;
+        white-space: nowrap;
+        animation: marquee 30s linear infinite;
     }
 
     @keyframes marquee {
-      0% { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
+        0% {
+            transform: translateX(100%);
+        }
+
+        100% {
+            transform: translateX(-100%);
+        }
     }
-  </style>
-</head>
-<body>
-<div class="marquee-container" onmouseover="stopMarquee()" onmouseout="startMarquee()">
-    <div class="marquee-text">
-      We recently introduced our new product FHT <a href="field-history-tracking.php">(Field History Tracking)</a>Application which enables users to track field history of as many fields for an object they want .The object can be standard or custom as per users choice.
-    </div>
-  
-</div>
+    </style>
+    </head>
 
-<script>
-  function stopMarquee() {
-    var marquee = document.querySelector('.marquee-text');
-    marquee.style.animationPlayState = 'paused';
-  }
+    <body>
+        <div class="marquee-container" onmouseover="stopMarquee()" onmouseout="startMarquee()">
+            <div class="marquee-text">
+                We recently introduced our new product FHT <a href="field-history-tracking.php">(Field History
+                    Tracking)</a>Application which enables users to track field history of as many fields for an object
+                they want .The object can be standard or custom as per users choice.
+            </div>
 
-  function startMarquee() {
-    var marquee = document.querySelector('.marquee-text');
-    marquee.style.animationPlayState = 'running';
-  }
-</script>
+        </div>
+
+        <script>
+        function stopMarquee() {
+            var marquee = document.querySelector('.marquee-text');
+            marquee.style.animationPlayState = 'paused';
+        }
+
+        function startMarquee() {
+            var marquee = document.querySelector('.marquee-text');
+            marquee.style.animationPlayState = 'running';
+        }
+        </script>
