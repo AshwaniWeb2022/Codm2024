@@ -515,6 +515,9 @@
         font-size: 1.5em;
         line-height: 1.6;
     }
+    .dropdown a {
+            color: black !important;
+        }
     </style>
     <link rel='stylesheet' id='hello-elementor-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1'

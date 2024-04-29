@@ -635,6 +635,9 @@
         .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
             font-size: 59px
         }
+        .dropdown a {
+            color: black !important;
+        }
         </style>
         <h1 class="elementor-heading-title elementor-size-default elementor-align-center pt-5 ">Testing and Deployment
         </h1>

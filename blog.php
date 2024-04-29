@@ -391,6 +391,10 @@
         .wp-block-pullquote {
             font-size: 1.5em;
             line-height: 1.6;
+
+        }
+        .dropdown a {
+            color: black !important;
         }
     </style>
     <link rel='stylesheet' id='hello-elementor-css'
@@ -536,38 +540,38 @@
                     data-id="71b60159" data-element_type="widget"
                     data-settings="{&quot;archive_classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:80,&quot;sizes&quot;:[]},&quot;archive_classic_columns&quot;:&quot;3&quot;,&quot;archive_classic_columns_tablet&quot;:&quot;2&quot;,&quot;archive_classic_columns_mobile&quot;:&quot;1&quot;,&quot;archive_classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;archive_classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;pagination_type&quot;:&quot;numbers&quot;}"
                     data-widget_type="archive-posts.archive_classic">
-                    <div class="elementor-widget-container">
+                    <div class="elementor-widget-container ">
                         <link rel="stylesheet"
                             href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-posts.min.css">
                         <div
                             class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
                             <article
-                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
                                 <a class="elementor-post__thumbnail__link"
                                     href="https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/">
                                     <div class="elementor-post__thumbnail"><img width="1027" height="835"
-                                            src="wp-content/uploads/sites/231/2022/08/hand-drawn-api-illustration_23-2149388656.avif"
+                                            src="wp-content/uploads/sites/231/2022/08/pricerule.webp"
                                             class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
                                 </a>
                                 <div class="elementor-post__text">
                                     <h4 class="elementor-post__title">
                                         <a
-                                            href="">
-                                            API Integration </a>
+                                            href="#!">
+                                            Price Rule  </a>
                                     </h4>
                                     <div class="elementor-post__excerpt">
-                                        <p>Seamless Connectivity, Elevated Performance – CodM Specializes In API Integration, Bridging Systems For A Unified And Efficient Business Experience</p>
+                                        <p>A systematic approach guiding businesses in setting prices for products or services, balancing factors like demand, costs, and competition to achieve desired objectives in the market</p>
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blog details.php"
+                                        href="blogDetails.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
                                 </div>
                             </article>
                         </div>
-
+                        </div>
                     </div>
                 </div>
             </div>
