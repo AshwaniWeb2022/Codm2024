@@ -57,6 +57,9 @@
 .S-A-full_page_product:hover {
     box-shadow: inset 1.5em 0 #29ade4
 }
+.dropdown a {
+            color: black !important;
+        }
 </style>
 
 <div data-elementor-type="wp-page" data-elementor-id="61" class="elementor elementor-61">

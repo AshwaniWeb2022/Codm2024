@@ -604,13 +604,6 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-71 current_page_item menu-item-91">
                                         <a href="index.php" aria-current="page" class="elementor-item">Home</a>
                                     </li>
-                                    <li
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#!" class="elementor-item">Company</a>
-                                        <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About Us</a></li>
-                                        </ul>
-                                    </li>
                                     <style>
                                     .dropdown {
                                         position: relative;
@@ -624,7 +617,7 @@
                                     .dropdown-content {
                                         display: none;
                                         position: absolute;
-                                        background-color: #f9f9f9;
+                                        background-color: #e5e5e5;
                                         width: auto;
                                         /* Change width to auto */
                                         min-width: 100%;
@@ -636,7 +629,7 @@
                                         /* Initially set opacity to 0 */
                                         top: 100%;
                                         /* Position below the dropdown button */
-                                        left: 0;
+                                        left: 0% !important;
                                         /* Align with the left edge of the dropdown button */
                                     }
 
@@ -656,7 +649,97 @@
                                         width: 50%;
                                         /* Change to 50% for two columns */
                                         padding: 10px;
-                                        background-color: white;
+                                        background-color: #e5e5e5;
+                                        #F3F5F8
+                                        /* height: 250px; Remove fixed height */
+                                    }
+
+                                    .dropdown a {
+                                        float: none;
+                                        color: black;
+                                        padding: 16px;
+                                        text-decoration: none;
+                                        display: block;
+                                        text-align: left;
+                                        /* font-family: ; */
+                                        font-weight: 500;
+                                        font-size: 16px;
+                                    }
+
+                                    .column a:hover {
+                                        /* background-color: #ddd; */
+                                    }
+
+                                    /* Clear floats after the columns */
+                                    .rwo:after {
+                                        content: "";
+                                        display: table;
+                                        clear: both;
+                                    }
+                                    </style>
+
+
+
+                                    <div class="dropdown">
+                                        <a href="#" class="elementor-item" style="padding: 23px;">Company</a>
+                                        <div class="dropdown-content">
+                                            <div class="rwo" style="">  
+                                                    <!-- <h3>Category 1</h3> -->
+                                                    <a href="about-us.php">About Us</a>
+                                                    <a href="blog.php">Blogs</a>
+
+                                                    
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <style>
+                                    .dropdown {
+                                        position: relative;
+                                        /* Add relative positioning */
+                                    }
+
+                                    .dropdown:hover .dropdown-content2 {
+                                        display: block;
+                                    }
+
+                                    .dropdown-content2 {
+                                        display: none;
+                                        position: absolute;
+                                        background-color: black;
+                                        width: auto;
+                                        /* Change width to auto */
+                                        min-width: 100%;
+                                        /* Ensure minimum width */
+                                        z-index: 1;
+                                        transition: opacity 0.5s;
+                                        /* Add transition effect */
+                                        opacity: 0;
+                                        /* Initially set opacity to 0 */
+                                        top: 100%;
+                                        /* Position below the dropdown button */
+                                        left: -150%;
+                                        /* Align with the left edge of the dropdown button */
+                                    }
+
+                                    .dropdown:hover .dropdown-content2 {
+                                        opacity: 1;
+                                        /* On hover, set opacity to 1 */
+                                    }
+
+                                    .dropdown-content2 .header {
+                                        /* background: red; */
+                                        padding: 16px;
+                                        color: white;
+                                    }
+
+                                    .column {
+                                        float: left;
+                                        width: 50%;
+                                        /* Change to 50% for two columns */
+                                        padding: 10px;
+                                        background-color: #e5e5e5;
+                                        #F3F5F8
                                         /* height: 250px; Remove fixed height */
                                     }
 
@@ -687,9 +770,9 @@
 
 
                                     <div class="dropdown">
-                                        <a href="#" class="elementor-item" style="padding: 20px;">services</a>
-                                        <div class="dropdown-content">
-                                            <div class="rwo" style="width: 545px">
+                                        <a href="#" class="elementor-item" style="padding: 23px;">services</a>
+                                        <div class="dropdown-content2">
+                                            <div class="rwo" style="width: 545px">  
                                                 <div class="column">
                                                     <!-- <h3>Category 1</h3> -->
                                                     <a href="Consulting-Service.php">Consulting Service</a>
@@ -713,26 +796,96 @@
                                     </div>
 
                                     <!-- <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="category/blog/index" class="elementor-item">Blog</a></li> -->
-                                    <li
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#" class="elementor-item">Products</a>
-                                        <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2"
-                                                    href="field-history-tracking.php">Field History Tracking</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2"
-                                                    href="titan-form.php">Titan Form</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-doc.php">Titan
-                                                    Doc </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2"
-                                                    href="titan-sign.php">Titan Sign</a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-clm.php">Titan
-                                                    CLM </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="titan-web.php">Titan
-                                                    Web </a></li>
-                                            <li><a class="text-dark elementor-item py-2 px-2"
-                                                    href="titan-survey.php">Titan Survey </a></li>
-                                        </ul>
-                                    </li>
+                                    <style>
+                                    .dropdown {
+                                        position: relative;
+                                        /* Add relative positioning */
+                                    }
+
+                                    .dropdown:hover .dropdown-content {
+                                        display: block;
+                                    }
+
+                                    .dropdown-content {
+                                        display: none;
+                                        position: absolute;
+                                        background-color: #e5e5e5;
+                                        width: auto;
+                                        /* Change width to auto */
+                                        min-width: 100%;
+                                        /* Ensure minimum width */
+                                        z-index: 1;
+                                        transition: opacity 0.5s;
+                                        /* Add transition effect */
+                                        opacity: 0;
+                                        /* Initially set opacity to 0 */
+                                        top: 100%;
+                                        /* Position below the dropdown button */
+                                        left: -150%;
+                                        /* Align with the left edge of the dropdown button */
+                                    }
+
+                                    .dropdown:hover .dropdown-content {
+                                        opacity: 1;
+                                        /* On hover, set opacity to 1 */
+                                    }
+
+                                    .dropdown-content .header {
+                                        /* background: red; */
+                                        padding: 16px;
+                                        color: white;
+                                    }
+
+                                    .column {
+                                        float: left;
+                                        width: 50%;
+                                        /* Change to 50% for two columns */
+                                        padding: 10px;
+                                        background-color: #e5e5e5;
+                                        #F3F5F8
+                                        /* height: 250px; Remove fixed height */
+                                    }
+
+                                    .column a {
+                                        float: none;
+                                        color: black;
+                                        padding: 16px;
+                                        text-decoration: none;
+                                        display: block;
+                                        text-align: left;
+                                        /* font-family: ; */
+                                        font-weight: 500;
+                                        font-size: 16px;
+                                    }
+
+                                    .column a:hover {
+                                        /* background-color: #ddd; */
+                                    }
+
+                                    /* Clear floats after the columns */
+                                    .rwo:after {
+                                        content: "";
+                                        display: table;
+                                        clear: both;
+                                    }
+                                    </style>
+
+                                    <div class="dropdown">
+                                        <a href="#" class="elementor-item" style="padding: 23px;">Products</a>
+                                        <div class="dropdown-content">
+                                            <div class="rwo" style="">  
+                                                    <!-- <h3>Category 1</h3> -->
+                                                    <a href="field-history-tracking.php">Field History Tracking</a>
+                                                    <a href="titan-form.php">Titan Form</a>
+                                                    <a href="titan-clm.php">Titan CLM</a>
+                                                    <a href="titan-doc.php">Titan Doc</a>
+                                                    <a href="titan-sign.php">Titan Sign</a> 
+                                                    <a href="titan-web.php">Titan Web</a>
+                                                    <a href="titan-survey.php">Titan Survey</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100">
                                         <a href="contact-us.php" class="elementor-item">Contact Us</a>
                                     </li>

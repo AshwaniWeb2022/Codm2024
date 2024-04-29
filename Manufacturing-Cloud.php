@@ -36,65 +36,6 @@
         content="Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
     <meta name="twitter:image"
         content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
-    <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>
-    {
-        "@context": "https://schema.org",
-        "@graph": [{
-            "@type": "WebSite",
-            "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/#website",
-            "url": "https://library.elementor.com/local-services-wireframe-4-flexbox/",
-            "name": "Local Services Wireframe 4 (Flexbox) | Elementor Kit Library",
-            "inLanguage": "en-US",
-            "potentialAction": [{
-                "@type": "SearchAction",
-                "target": "https://library.elementor.com/local-services-wireframe-4-flexbox/?s={search_term_string}",
-                "query-input": "required name=search_term_string"
-            }]
-        }, {
-            "@type": "ImageObject",
-            "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/#primaryimage",
-            "inLanguage": "en-US",
-            "url": "https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg",
-            "width": 1027,
-            "height": 835
-        }, {
-            "@type": "WebPage",
-            "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/#webpage",
-            "url": "https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/",
-            "name": "Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library",
-            "isPartOf": {
-                "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/#website"
-            },
-            "inLanguage": "en-US",
-            "primaryImageOfPage": {
-                "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/#primaryimage"
-            },
-            "datePublished": "2022-08-28T13:03:27+00:00",
-            "dateModified": "2022-08-28T13:03:43+00:00",
-            "author": {
-                "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/#/schema/person/513b4c160b9056f10bd94b115c8fb9f9"
-            },
-            "potentialAction": [{
-                "@type": "ReadAction",
-                "target": [
-                    "https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/"
-                ]
-            }]
-        }, {
-            "@type": ["Person"],
-            "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/#/schema/person/513b4c160b9056f10bd94b115c8fb9f9",
-            "name": "Post Author",
-            "image": {
-                "@type": "ImageObject",
-                "@id": "https://library.elementor.com/local-services-wireframe-4-flexbox/#authorlogo",
-                "inLanguage": "en-US",
-                "url": "https://secure.gravatar.com/avatar/09fce20fa805c8c5410bf3c06afb17cc?s=96&d=mm&r=g",
-                "caption": "Post Author"
-            },
-            "sameAs": []
-        }]
-    }
-    </script>
     <!-- / Yoast SEO plugin. -->
 
     <link rel="alternate" type="application/rss+xml"
@@ -515,6 +456,9 @@
         font-size: 1.5em;
         line-height: 1.6;
     }
+    .dropdown a {
+            color: black !important;
+        }
     </style>
     <link rel='stylesheet' id='hello-elementor-css'
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1'
