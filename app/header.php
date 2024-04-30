@@ -5,7 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <link rel="profile" href="https://gmpg.org/xfn/11"> -->
     <title>CODM SOFTWARE | Salesforce Consulting Partner</title>
 
     <!-- / Yoast SEO plugin. -->
@@ -845,7 +844,6 @@
                                         #F3F5F8
                                         /* height: 250px; Remove fixed height */
                                     }
-
                                     .column a {
                                         float: none;
                                         color: black;
@@ -861,7 +859,6 @@
                                     .column a:hover {
                                         /* background-color: #ddd; */
                                     }
-
                                     /* Clear floats after the columns */
                                     .rwo:after {
                                         content: "";
