@@ -548,7 +548,7 @@
                             <article
                                 class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
                                 <a class="elementor-post__thumbnail__link"
-                                    href="https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/">
+                                    href="#!">
                                     <div class="elementor-post__thumbnail"><img width="1027" height="835"
                                             src="wp-content/uploads/sites/231/2022/08/pricerule.webp"
                                             class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
@@ -565,6 +565,81 @@
 
                                     <a class="elementor-post__read-more"
                                         href="blogDetails.php"
+                                        aria-label="Read more about Blog Post Title">
+                                        Read More </a>
+
+                                </div>
+                            </article>
+                            <article
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
+                                <a class="elementor-post__thumbnail__link"
+                                    href="#!">
+                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
+                                            src="wp-content/uploads/sites/231/2022/08/0_4BcXJF0d7pMoDy0i.png"
+                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
+                                </a>
+                                <div class="elementor-post__text">
+                                    <h4 class="elementor-post__title">
+                                        <a
+                                            href="#!">
+                                            Salesforce CPQ Product Validation Rule</a>
+                                    </h4>
+                                    <div class="elementor-post__excerpt">
+                                        <p>In Salesforce CPQ, Product Validation Rules empower businesses to enforce specific criteria or conditions to ensure accurate configuration and pricing, thereby enhancing quote accuracy and reducing errors.</p>
+                                    </div>
+
+                                    <a class="elementor-post__read-more"
+                                        href="blog2.php"
+                                        aria-label="Read more about Blog Post Title">
+                                        Read More </a>
+
+                                </div>
+                            </article>
+                            <article
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
+                                <a class="elementor-post__thumbnail__link"
+                                    href="#!">
+                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
+                                            src="wp-content/uploads/sites/231/2022/08/Salesforce-Winter-Release-23-Automation-Changes-1080-×-1080-px-.png"
+                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
+                                </a>
+                                <div class="elementor-post__text">
+                                    <h4 class="elementor-post__title">
+                                        <a
+                                            href="#!">
+                                            Salesforce winter 23 release</a>
+                                    </h4>
+                                    <div class="elementor-post__excerpt">
+                                        <p>In Salesforce CPQ, Product Validation Rules empower businesses to enforce specific criteria or conditions to ensure accurate configuration and pricing, thereby enhancing quote accuracy and reducing errors.</p>
+                                    </div>
+
+                                    <a class="elementor-post__read-more"
+                                        href="blog2.php"
+                                        aria-label="Read more about Blog Post Title">
+                                        Read More </a>
+
+                                </div>
+                            </article>
+                            <article
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
+                                <a class="elementor-post__thumbnail__link"
+                                    href="#!">
+                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
+                                            src="wp-content/uploads/sites/231/2022/08/0_4BcXJF0d7pMoDy0i.png"
+                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
+                                </a>
+                                <div class="elementor-post__text">
+                                    <h4 class="elementor-post__title">
+                                        <a
+                                            href="#!">
+                                            Salesforce CPQ Product Validation Rule</a>
+                                    </h4>
+                                    <div class="elementor-post__excerpt">
+                                        <p>In Salesforce CPQ, Product Validation Rules empower businesses to enforce specific criteria or conditions to ensure accurate configuration and pricing, thereby enhancing quote accuracy and reducing errors.</p>
+                                    </div>
+
+                                    <a class="elementor-post__read-more"
+                                        href="blog2.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
