@@ -571,7 +571,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="aligncenter size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2picture.png" alt="" class="wp-image-122"
+                                    src="wp-content/uploads/sites/231/2022/08/blog2Pic.png" alt="" class="wp-image-122"
                                     width="858" height="385" /></figure>
                         </div>
                         <h4 class="wp-block-heading">Step 3: Create a Validation Product Rule </h4>
@@ -593,7 +593,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="aligncenter size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2pictures.png" alt="" class="wp-image-122"
+                                    src="wp-content/uploads/sites/231/2022/08/blog2Pict.png" alt="" class="wp-image-122"
                                     width="858" height="385" /></figure>
                         </div>
 
