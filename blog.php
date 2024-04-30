@@ -564,7 +564,7 @@
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blogs/blogDetails.php"
+                                        href="blogDetails.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
@@ -589,7 +589,7 @@
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blogs/blog2.php"
+                                        href="blog2.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
