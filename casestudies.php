@@ -741,6 +741,7 @@
                                     </ul>
                                 </nav>
                             </div>
+                            
                             <div class="col-12 col-md-11 col-lg-10">
                                 <h2 class="intro-para-title">A constantly evolving portfolio to meet the ever-changing
                                     needs of our clients.</h2>
@@ -755,13 +756,7 @@
                     </div>
                 </div>
             </section>
-
-
-
             <p></p>
-
-
-
             <section class="wp-block-cg-blocks-wrapper-card-related-capabilities undefined card-related-capability">
                 <div class="cardelatedBgShape"></div>
                 <div class="container">
@@ -783,122 +778,7 @@
                                     </a></div>
                             </div>
                         </div>
-
-
-
-                        <!-- <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio">
-                                        <img src="https://www.capgemini.com/wp-content/uploads/2022/05/Capgemini_Services_Customer-First.jpg"
-                                            class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title" aria-label="Customer first"
-                                        href="https://www.capgemini.com/in-en/services/customer-first/" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Customer first</h4>
-                                    </a></div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio"><img decoding="async"
-                                            src="https://www.capgemini.com/wp-content/uploads/2022/02/Capgemini_services_Cybersecurity.jpg?w=500&amp;quality=90"
-                                            srcset="https://www.capgemini.com/wp-content/uploads/2022/02/Capgemini_services_Cybersecurity.jpg?w=500&amp;quality=90 1x, https://www.capgemini.com/wp-content/uploads/2022/02/Capgemini_services_Cybersecurity.jpg?w=1000&amp;quality=90 2x"
-                                            class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title" aria-label="Cybersecurity"
-                                        href="https://www.capgemini.com/in-en/services/cybersecurity/" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Cybersecurity</h4>
-                                    </a></div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio"><img decoding="async"
-                                            src="https://www.capgemini.com/wp-content/uploads/2022/04/0_1_Header-banner_Eye-lady-e1649075744243.jpg?w=500&amp;quality=90"
-                                            srcset="https://www.capgemini.com/wp-content/uploads/2022/04/0_1_Header-banner_Eye-lady-e1649075744243.jpg?w=500&amp;quality=90 1x, https://www.capgemini.com/wp-content/uploads/2022/04/0_1_Header-banner_Eye-lady-e1649075744243.jpg?w=1000&amp;quality=90 2x"
-                                            class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title"
-                                        aria-label="Data and artificial intelligence"
-                                        href="https://www.capgemini.com/in-en/services/data-and-ai/" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Data and artificial intelligence</h4>
-                                    </a></div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio"><img decoding="async"
-                                            src="https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services_Enterprise-management.jpg?w=500&amp;quality=90"
-                                            srcset="https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services_Enterprise-management.jpg?w=500&amp;quality=90 1x, https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services_Enterprise-management.jpg?w=1000&amp;quality=90 2x"
-                                            class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title" aria-label="Enterprise management"
-                                        href="https://www.capgemini.com/in-en/services/enterprise-management/" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Enterprise management</h4>
-                                    </a></div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio"><img decoding="async"
-                                            src="https://www.capgemini.com/wp-content/uploads/2021/12/Capgemini_Industries_Intelligent-Industry.jpg?w=500&amp;quality=90"
-                                            srcset="https://www.capgemini.com/wp-content/uploads/2021/12/Capgemini_Industries_Intelligent-Industry.jpg?w=500&amp;quality=90 1x, https://www.capgemini.com/wp-content/uploads/2021/12/Capgemini_Industries_Intelligent-Industry.jpg?w=1000&amp;quality=90 2x"
-                                            class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title" aria-label="Intelligent industry"
-                                        href="https://www.capgemini.com/in-en/services/intelligent-industry/" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Intelligent industry</h4>
-                                    </a></div>
-                            </div>
-                        </div> -->
-
-
-
-                        <!-- <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio"><img decoding="async"
-                                            src="https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services_Sustainability.jpg?w=500&amp;quality=90"
-                                            srcset="https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services_Sustainability.jpg?w=500&amp;quality=90 1x, https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services_Sustainability.jpg?w=1000&amp;quality=90 2x"
-                                            class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title" aria-label="Sustainability"
-                                        href="https://www.capgemini.com/in-en/services/sustainability/" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Sustainability</h4>
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div> -->
-                </div>
+                    </div>
             </section>
 
 
@@ -908,92 +788,6 @@
     </div>
     <div id="consent_blackbar"></div>
 
-    <!-- Footer Section -->
-
-
-    <!-- <script src="https://consent.trustarc.com/autoblockasset/core.min.js?domain=cm-capgemini.com"></script>
-    <script src="https://consent.trustarc.com/autoblockoptout?domain=cm-capgemini.com"></script>
-    <script async="async"
-        src="//consent.trustarc.com/notice?domain=cm-capgemini.com&c=teconsent&js=nj&noticeType=bb&text=true&country=in&language=en_in&gtm=1&cookieLink=https://www.capgemini.com/in-en/cookie-policy&privacypolicylink=https://www.capgemini.com/in-en/privacy-notice"
-        crossorigin></script>
-    <script type="text/javascript">
-        var entityMap = {
-            '&': '&',
-            '<': '&lt;',
-            '>': '&gt;',
-            '"': '&quot;',
-            "'": "'",
-            '/': '&#x2F;',
-            '`': '&#x60;',
-            '=': '&#x3D;'
-        };
-
-        function escapeHtmlHeader(string) {
-            return String(string).replace(/[&<>"'`=\/]/g, function (s) {
-                return entityMap[s];
-            });
-        }
-        var noresult = '<h3><b>No results found</b></h3>';
-        function fetch_search_result() {
-            let paged = 1;
-            if (escapeHtmlHeader(jQuery('#searchform input:text').val())) {
-                jQuery('#searchform input:text').val(escapeHtmlHeader(jQuery('#searchform input:text').val()));
-                jQuery.ajax({
-                    url: 'https://www.capgemini.com/in-en/wp-json/wp/v2/search?allow_search_function',
-                    type: 'GET',
-                    data: { search: escapeHtmlHeader(jQuery('#searchform input:text').val()), paged: paged, postperpage: 6 },
-                    success: function (success) {
-                        var html = "";
-                        if (success.length > 0) {
-                            success.forEach((data, index) => {
-                                if (index < 5) {
-                                    var dateHtml = "";
-                                    if (data.type !== "post" && data.type !== "page") {
-                                        dateHtml = '<span class="box-date">' + data.formatted_date + '</span>';
-                                    }
-                                    html += '<div class="box"><h5 class="box-tag">' + data.post_type_name + '</h5><a  href="' + data.post_link + '" class="box-title"><h4>' + data.title + '</h4></a>' + dateHtml + '</div>';
-                                }
-                            });
-                        } else {
-                            html += '<div class="box">' + noresult + '</div>';
-                        }
-                        jQuery('#search_result').html(html);
-                    },
-                    error: function (error) {
-                        jQuery('#search_result').html("No results found");
-                    }
-                });
-            }
-
-        }
-    </script> -->
-
-    <!-- <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19'
-        id='lodash-js'></script>
-    <script id="lodash-js-after" type="text/javascript">
-        window.lodash = _.noConflict();
-    </script>
-    <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4'
-        id='moment-js'></script>
-    <script id="moment-js-after" type="text/javascript">
-        moment.updateLocale('en_IN', { "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "monthsShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "weekdaysShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "week": { "dow": 1 }, "longDateFormat": { "LT": "g:i a", "LTS": null, "L": null, "LL": "F j, Y", "LLL": "F j, Y g:i a", "LLLL": null } });
-    </script>
-    <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/_static/??-eJyNzTEOwjAMheEL0ZpUCMSAOEtVG3BI4sh2i7g9GRiYIub3/XrwqgOXJa1IBtEA2Rw2KigKbaqS3jdOqRlSHzOXMdoOOpHSnZqdXXTQtThn+if7+eryh8jTugKpKi2zE37ZNV/CKeyn43kKh/gB2K9Ylg=="></script>
-    <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/date.min.js?ver=505e060585ac0f4b6cb6'
-        id='wp-date-js'></script>
-    <script id="wp-date-js-after" type="text/javascript">
-        wp.date.setSettings({ "l10n": { "locale": "en_IN", "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "monthsShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "weekdaysShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "meridiem": { "am": "am", "pm": "pm", "AM": "AM", "PM": "PM" }, "relative": { "future": "%s from now", "past": "%s ago" }, "startOfWeek": 1 }, "formats": { "time": "g:i a", "date": "F j, Y", "datetime": "F j, Y g:i a", "datetimeAbbreviated": "M j, Y g:i a" }, "timezone": { "offset": 0, "string": "", "abbr": "" } });
-    </script> -->
-    <!-- <script id='wp-util-js-extra'>
-        var _wpUtilSettings = { "ajax": { "url": "\/in-en\/wp-admin\/admin-ajax.php" } };
-    </script> -->
-    <!-- <script id='soc-front-end-js-extra'>
-        var socData = { "ajaxURL": "\/wp-admin\/admin-ajax.php", "nonce": "16568c2c46" };
-    </script> -->
-    <!-- <script id='macs-cookies-es5-js-extra'>
-        var MACS_COOKIES = { "cookiePolicyVersion": "1684761042", "ID": "2681744386", "embedCookiesYtb": "<a href='#' onclick = 'ta_click();'>Please allow advertising cookies to see this Youtube embed<\/a>", "embedCookiesSnd": "<a href='#' onclick = 'ta_click();'>Please allow statistical cookies to see this Soundcloud embed<\/a>" };
-    </script> -->
     <script type="text/javascript"
         src="https://www.capgemini.com/in-en/_static/??-eJyllN1S4zAMhV8IxWWA2dmLHZ7FcdRUqWMZy4bp26P8tE2H0LL0JhnrKN+xZCvmI4LjkDFkE31pKYhxLdSe3V6MFcEsphOzTWNSU01KVRfyTdXJg7kKmF87TAwROXqcSDCg5q8pOF8aHG1KaDCJ44RVT2EtQ5clk1/KN+0lcyIU4C24nQ3tyiZuMvBdZRBPusFjXxaxH3M+ko0RE7SYtS7IXNxu0WeFuf1/FfcTIOgqU2jlO+oY4j3hoMignAndW8F0qCb92tauQXrrZFYFUF5+w8h2qGPWvwPY4Hacph6ZWGot/yJ2q6/g1CZy1FZuOfVmvOhmTYLTTMTETXGZOOhchMZf7dLJaOspgl5lXHrIOXwvn3rbIrTWez2+4829sFrLuNfVUxgeki+tTuF7+RklU8+BrAfnaRxAHe8DvOvueT73C+uFcK/5hIrcOKuVRG8PXytdz/m9c6K65gC9DXpYyfTk9F96pM3WX9LOdp289v8e/zxunjd/N0/P3SeM4T2i"></script>
     <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0'
@@ -1004,42 +798,6 @@
         src="https://www.capgemini.com/in-en/_static/??/wp-includes/js/dist/escape-html.min.js,/wp-includes/js/dist/element.min.js?m=1710269214j"></script>
     <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef'
         id='wp-i18n-js'></script>
-    <!-- <script id="wp-i18n-js-after" type="text/javascript">
-        wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
-    </script> -->
-    <!-- <script id='jobs_search-js-extra'>
-        var get_column_selections = ["job_name", "location", "experience_level", "department", "contract_type", "brand"];
-        var get_filter_data = ["location", "experience_level", "department", "contract_type", "brand"];
-        var es_var = { "pathName": "in-en" };
-    </script>
-    <script id='jobs_search-js-translations'>
-        (function (domain, translations) {
-            var localeData = translations.locale_data[domain] || translations.locale_data.messages;
-            localeData[""].domain = domain;
-            wp.i18n.setLocaleData(localeData, domain);
-        })("macs-react-jobs", { "domain": "messages", "locale_data": { "messages": { "": { "domain": "messages" }, "MACS React Jobs": [""], "https://github.com/wpcomvip/capgemini": [""], "React Jobstream App embedded into WordPress page": [""], "Patrycja Niestroj Capgemini MACS PL": [""], "Brand": [""], "Job name": [""], "sort top jobName": [""], "sort bottom jobName": [""], "Location": [""], "sort top location of the jobs": [""], "sort bottom location of the jobs": [""], "Experience level": [""], "sort top experienceLevel of the jobs": [""], "sort bottom experience Level of the jobs": [""], "Department": ["Professional Communities"], "sort top department of the jobs": [""], "sort bottom department of the jobs": [""], "Contract Type": [""], "sort top contractType of the jobs": [""], "sort bottom contractType of the jobs": [""], "Business Unit": [""], "sort top businessUnits of the jobs": [""], "sort bottom businessUnits of the jobs": [""], "sort top brand of the jobs": [""], "sort bottom brand of the jobs": [""], "Jan": [""], "Feb": [""], "Mar": [""], "Apr": [""], "May": [""], "Jun": [""], "Jul": [""], "Aug": [""], "Sep": [""], "October": [""], "Nov": [""], "Dec": [""], "Load More": [""], "No results matching your search": [""], "Job Search": [""], "Enter job name or reference id": [""], "Are you ready to apply your knowledge and background to exciting new challenges? From learning to leadership, this is your chance to take your career to the next level. Search and apply for a job today.": [""], "Filters": [""], "Filter results": [""], "Country": [""], "Experience Level": [""], "Business Units": [""], "Brands": [""], "Clear all": [""], "Search jobs": [""], " Apply now": [""], "Related positions": [""], "Loading...": [""], "January": [""], "February": [""], "March": [""], "April": [""], "June": [""], "July": [""], "August": [""], "September": [""], "November": [""], "December": [""], "Ref. code": [""], "Posted on": [""], "Contract type": [""], "Business unit": [""], "Show more positions": [""] } } });
-    </script> -->
-    <!-- <script
-        src='https://www.capgemini.com/in-en/wp-content/plugins/macs-react-jobs/inc/search/app/build/static/js/main.js?ver=7.0.0'
-        id='jobs_search-js'></script>
-    <script id='jobs_single-js-extra'>
-        var singlejob_desc_setting = ["ref_code", "posted_on", "experience_level", "contract_type", "location", "business_units", "professional_communities"];
-    </script> -->
-    <!-- <script id='jobs_single-js-translations'>
-        (function (domain, translations) {
-            var localeData = translations.locale_data[domain] || translations.locale_data.messages;
-            localeData[""].domain = domain;
-            wp.i18n.setLocaleData(localeData, domain);
-        })("macs-react-jobs", { "domain": "messages", "locale_data": { "messages": { "": { "domain": "messages" }, "MACS React Jobs": [""], "https://github.com/wpcomvip/capgemini": [""], "React Jobstream App embedded into WordPress page": [""], "Patrycja Niestroj Capgemini MACS PL": [""], "Brand": [""], "Job name": [""], "sort top jobName": [""], "sort bottom jobName": [""], "Location": [""], "sort top location of the jobs": [""], "sort bottom location of the jobs": [""], "Experience level": [""], "sort top experienceLevel of the jobs": [""], "sort bottom experience Level of the jobs": [""], "Department": ["Professional Communities"], "sort top department of the jobs": [""], "sort bottom department of the jobs": [""], "Contract Type": [""], "sort top contractType of the jobs": [""], "sort bottom contractType of the jobs": [""], "Business Unit": [""], "sort top businessUnits of the jobs": [""], "sort bottom businessUnits of the jobs": [""], "sort top brand of the jobs": [""], "sort bottom brand of the jobs": [""], "Jan": [""], "Feb": [""], "Mar": [""], "Apr": [""], "May": [""], "Jun": [""], "Jul": [""], "Aug": [""], "Sep": [""], "October": [""], "Nov": [""], "Dec": [""], "Load More": [""], "No results matching your search": [""], "Job Search": [""], "Enter job name or reference id": [""], "Are you ready to apply your knowledge and background to exciting new challenges? From learning to leadership, this is your chance to take your career to the next level. Search and apply for a job today.": [""], "Filters": [""], "Filter results": [""], "Country": [""], "Experience Level": [""], "Business Units": [""], "Brands": [""], "Clear all": [""], "Search jobs": [""], " Apply now": [""], "Related positions": [""], "Loading...": [""], "January": [""], "February": [""], "March": [""], "April": [""], "June": [""], "July": [""], "August": [""], "September": [""], "November": [""], "December": [""], "Ref. code": [""], "Posted on": [""], "Contract type": [""], "Business unit": [""], "Show more positions": [""] } } });
-    </script> -->
-    <!-- <script
-        src='https://www.capgemini.com/in-en/wp-content/plugins/macs-react-jobs/inc/single/app/build/static/js/main.js?ver=6.0.8'
-        id='jobs_single-js'></script>
-    <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/wp-content/plugins/social-media-share/js/front.js?m=1670249583g"></script>
-    <script id="wp-parsely-loader-js-before" type="text/javascript">
-        window.wpParselySiteId = 'capgemini.com';
-    </script>-->
     <script
         src='https://www.capgemini.com/in-en/wp-content/mu-plugins/wp-parsely-3.13/build/loader.js?ver=f5c2d06f6755fda3f6d4'
         id='wp-parsely-loader-js'></script> 

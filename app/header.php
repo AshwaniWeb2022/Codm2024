@@ -912,6 +912,7 @@
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About
                                                     Us</a></li>
+                                            <li><a class="text-dark elementor-item py-2 px-2" href="blog.php">Blogs</a></li>        
                                         </ul>
                                     </li>
                                     <li
