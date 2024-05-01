@@ -1,4 +1,105 @@
 <?php include 'app/header.php';?>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <title>Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library</title>
+    <meta name='robots' content='max-image-preview:large' />
+
+    <!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title"
+        content="Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
+    <meta property="og:description"
+        content="Blog post excerpt [1-2 lines]. This text is automatically pulled from your existing blog post." />
+    <meta property="og:url"
+        content="https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/" />
+    <meta property="og:site_name" content="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
+    <meta property="article:section" content="Blog" />
+    <meta property="article:published_time" content="2022-08-28T13:03:27+00:00" />
+    <meta property="article:modified_time" content="2022-08-28T13:03:43+00:00" />
+    <meta property="og:updated_time" content="2022-08-28T13:03:43+00:00" />
+    <meta property="og:image"
+        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
+    <meta property="og:image:secure_url"
+        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
+    <meta property="og:image:width" content="1027" />
+    <meta property="og:image:height" content="835" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description"
+        content="Blog post excerpt [1-2 lines]. This text is automatically pulled from your existing blog post." />
+    <meta name="twitter:title"
+        content="Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
+    <meta name="twitter:image"
+        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
+
+    <!-- / Yoast SEO plugin. -->
+
+    <link rel="alternate" type="application/rss+xml"
+        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed"
+        href="https://library.elementor.com/local-services-wireframe-4-flexbox/feed/" />
+    <link rel="alternate" type="application/rss+xml"
+        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed"
+        href="https://library.elementor.com/local-services-wireframe-4-flexbox/comments/feed/" />
+    <script>
+    window._wpemojiSettings = {
+        "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
+        "ext": ".png",
+        "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
+        "svgExt": ".svg",
+        "source": {
+            "concatemoji": "https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"
+        }
+    };
+    /*! This file is auto-generated */
+    ! function(e, a, t) {
+        var n, r, o, i = a.createElement("canvas"),
+            p = i.getContext && i.getContext("2d");
+
+        function s(e, t) {
+            p.clearRect(0, 0, i.width, i.height), p.fillText(e, 0, 0);
+            e = i.toDataURL();
+            return p.clearRect(0, 0, i.width, i.height), p.fillText(t, 0, 0), e === i.toDataURL()
+        }
+
+        function c(e) {
+            var t = a.createElement("script");
+            t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
+        }
+        for (o = Array("flag", "emoji"), t.supports = {
+                everything: !0,
+                everythingExceptFlag: !0
+            }, r = 0; r < o.length; r++) t.supports[o[r]] = function(e) {
+            if (p && p.fillText) switch (p.textBaseline = "top", p.font = "600 32px Arial", e) {
+                case "flag":
+                    return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !
+                        1 : !s("\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !s(
+                            "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+                            "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
+                        );
+                case "emoji":
+                    return !s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff",
+                        "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")
+            }
+            return !1
+        }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports
+            .everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]);
+        t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t
+            .readyCallback = function() {
+                t.DOMReady = !0
+            }, t.supports.everything || (n = function() {
+                t.readyCallback()
+            }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !
+                1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
+                "complete" === a.readyState && t.readyCallback()
+            })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e
+                .wpemoji)))
+    }(window, document, window._wpemojiSettings);
+    </script>
     <style>
     img.wp-smiley,
     img.emoji {
@@ -491,8 +592,7 @@
                             color: black !important;
                         }
                         </style>
-                        <h1 class="elementor-heading-title elementor-size-default">Salesforce CPQ’s Product Validation
-                            Rule</h1>
+                        <h1 class="elementor-heading-title elementor-size-default">Salesforce winter 23 release</h1>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
@@ -503,189 +603,116 @@
                         </ul>
                     </div>
                 </div>
+                <section>
                 <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
                     data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
                     <div class="elementor-widget-container">
-                        Generally Product rules are made in Salesforce CPQ to evaluate product options within a bundle,
-                        or a quote, or a quote line against some conditions (Error Condition) and if conditions are
-                        fulfilled as per Client requirement then perform ‘Actions’ in that response.
+                        The release includes new features and improvements for Lightning Experience, Salesforce Flow,
+                        Lightning Web Component, Apex, Experience Cloud, Einstein Automate, Customer Data Platform,
+                        Field Service, Marketing Cloud Account Engagement, Quip, and CRM Analytics.
                     </div>
                 </div>
+                <h4 class="wp-block-heading">1. Create Overlays with the New Modal Component</h4>
+                <p> Use modals to interrupt a user’s workflow and draw attention to an important message. A modal, which displays the message on top of the current app window, requires a user to interact with it to regain control over the app.</p>
+                <ul>
+                    <li>To create a modal component, import LightningModal from lightning/modal in your JavaScript file. Then, create a component class that extends LightningModal.</li>
+
                 <div class="wp-block-image size-full">
                     <figure class="size-full is-resized">
-                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog2pic1.png" alt=""
+                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture1.png" alt=""
                             class="wp-image-122" width="400" height="200" />
                     </figure>
                 </div>
+                </ul>
+                <ul>
+                    <li class="mt-3">This component doesn’t use a lightning-modal tag. Instead, the modal’s HTML template uses helper lightning-modal-* components to make the modal’s header, footer, and body. The lightning-modal-body component is required, and the others are optional.</li>
                 <div class="wp-block-image size-full">
                     <figure class="size-full is-resized">
-                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/Salesforce-Consultant-Salesforce-CPQ-Product-Rules-TYPES.png" alt=""
-                            class="wp-image-122" width="858" height="385" />
+                        <img decoding="async"
+                            src="wp-content/uploads/sites/231/2022/08/blog3picture2.png"
+                            alt="" class="wp-image-122" width="858" height="385" />
                     </figure>
                 </div>
-                <h4 class="wp-block-heading">Scenario:</h4>
+                </ul>
+                </section>
+
+                <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+                <h4 class="wp-block-heading">2. Fix Invalid Template Usage to Avoid Warning When Component Loading</h4>
                 <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
                     data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
                     <div class="elementor-widget-container">
 
                         <p>
-                            Create a Validation Product Rule to Limit the Number of Warranty Product should be Equal to
-                            Number of Hardware Product (in our Case CARS, Keys,Toolkits are hardware product in our
-                            Bundle)
+                        <p>Loading an LWC component results in a warning if your component includes a  <code>&lt;template&gt;</code> element includes an invalid attribute. For non-root <code>&lt;template&gt;</code> elements, only the following directives are supported: <code>for:each</code>, <code>iterator:iteratorName</code>, and <code>if:true|false</code>. We strongly recommend resolving any issues by removing any invalid attributes from your component's <code>&lt;template&gt;</code> element.</p>
                         </p>
-                        <h4 class="wp-block-heading mt-5">Step 1: Create a Summary Variable to get Sum of “Hardware
-                            (Tata Cars)”</h4>
-                        <ul>
-                            <li>Click Summary Variables from the navigation bar.</li>
-                            <li>Click New. </li>
-                            <li>In the Variable Name field, enter Sum of Hardware (Tata Cars)</li>
-                            <li>For the Aggregate Function field, choose Sum.</li>
-                            <li>For the Aggregate Field field, choose Quantity.</li>
-                            <li>For the Target Object field, choose Product Option</li>
-                            <li>For the Filter Field field, choose Product Code.</li>
-                            <li>For the Operator field, choose equals.</li>
-                            <li>In the Filter Value field, enter HARDWARE.(We have given Product Code as HARDWARE for
-                                Hardware Products)</li>
-                            <li>Click Save</li>
-                        </ul>
+                        <p>In Spring’23, this invalid usage of the <code>&lt;template&gt;</code> element doesn’t render correctly, and loading a component that contains this invalid usage will result in an error. For example, the non-root <code>&lt;template&gt;</code> element in this example contains an invalid attribute.</p>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog2Pictur.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture3.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
-                        <h4 class="wp-block-heading mt-5">Step 2: Create another Summary Variable to get Sum of Warranty</h4>
+                        <p class="mt-3">To fix the warning and ensure that your component continues to load correctly in future releases, remove the invalid attribute or use another element like <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code>, depending on your use case.</p>
+                        <div class="wp-block-image size-full">
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture4.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
+                        </div>
+                        <h4 class="wp-block-heading mt-5">3.Be Ready for Multi-Factor Authentication Auto-Enablement</h4>
+                        <p>The requirement to use multi-factor authentication (MFA) when accessing Salesforce products went into effect on February 1, 2022. All users must now use MFA when they login to Salesforce, whether they’re logging in directly or using single sign-on (SSO). To help customers satisfy this requirement, in the first half of 2023, Salesforce is automatically enabling MFA for direct logins. In the September 2023 timeframe, we’re enforcing MFA by making it a permanent part of the Salesforce login process. To avoid disruptions to your users when these milestones occur, enable MFA as soon as possible.</p>
+                        <!-- <p>To enable MFA for your users, follow these steps:</p> -->
+                        <h4 class="wp-block-heading mt-5">Salesforce Flow Enhancements</h4>
+                        <p>There are several enhancements in Salesforce Flow  as follows:
+
                         <ul>
-                        <li>Click Summary Variables from the navigation bar.</li>
-                            <li>Click New. </li>
-                            <li>In the Variable Name field, enter Sum of Hardware (Tata Cars)</li>
-                            <li>For the Aggregate Function field, choose Sum.</li>
-                            <li>For the Aggregate Field field, choose Quantity.</li>
-                            <li>For the Target Object field, choose Product Option</li>
-                            <li>For the Filter Field field, choose Product Code.</li>
-                            <li>For the Operator field, choose equals.</li>
-                            <li>In the Filter Value field, enter <b>WARRANTY</b>
-                            <li>Click <b> Save</b></li>
-                    </ul>    
-                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
+                            <li><b>Cut and Paste Flow Elements:</b>Change the order of flow elements auto-layout faster by using cut and paste. Previously, to move an element on the canvas, you copied and pasted the element then deleted the original element, and then you updated the API name of the pasted element. </li>
+                            <li><b>Use Formula Builder in Flow Resources and Collection Filter Elements:</b> You can now use an enhanced formula builder in Flow Formula-type resources and the Collection Filter element. The builder guides you through the syntax so that you can create an expression more easily. Instead of waiting until you save a flow, you can check the formula syntax and catch errors as you work. </b></li>
+                        
                         <div class="wp-block-image size-full">
-                            <figure class="aligncenter size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2picture5.png" alt="" class="wp-image-122"
-
-                                    width="858" height="385" /></figure>
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture5.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
                         </div>
-                        <h4 class="wp-block-heading">Step 3: Create a Validation Product Rule </h4>
-                        <p> 
-                            <ul>
-                                <li>Click Product Rules from the Navigation bar.</li>
-                                <li>Click New.</li>
-                                <li>In the Product Rule Name field, enter Warranty Sum should be Equal to Sum of Hardware Product.</li>
-                                <li>For the Type field, choose Validation</li>
-                                <li>The Scope field remains as Quote, since you need the rule to run on the quote in general, not within a specific bundle.</li>
-                                <li>For the Evaluation Event field, choose Save.</li>
-                                <li>Check Active.</li>
-                                <li>For the Conditions Met field, choose All.</li>
-                                <li>In the Message field,<b> “Please Check !! Sum of Warranty should be Equal to Sum of Hardware Product.”</b></li>
-                                <li>Click Save.</li>
-                            </ul>
-                        </p>
-
-
+                        <li class="mt-3"><b>Select Multiple Records in the Lookup Flow Screen Component :</b> Now you can search and then select more than one record with the Lookup flow screen component. You can specify a selection maximum and one or more default records.</li>
+                        <li>Add the Lookup component to your screen flow and set the Maximum Selections field to a value greater than 1.</li>
                         <div class="wp-block-image size-full">
-                            <figure class="aligncenter size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2picture6.png" alt="" class="wp-image-122"
-
-                                    width="858" height="385" /></figure>
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture6.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
                         </div>
-
-                        <!-- <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div> -->
-
-                        <h4 class="wp-block-heading">Step 4: Create an Error Condition to Leverage a Summary Variable</h4>
-                        <p>
-                        <ul>
-                                <li>In the Error Conditions related list, click New.</li>
-                                <li>Index:10.</li>
-                                <li>In the Tested Variable field, search for and select Sum of Warranty (Tata Cars).</li>
-                                <li>For the Type field, choose Validation</li>
-                                <li>For the Operator field, choose less than.</li>
-                                <li>For the Filter Type field, choose Variable.</li>
-                                <li>In the Filter Variable field, enter Sum of Hardware(Tata Cars).</li>
-                                <li>Click Save.</li>
-                            </ul>
-                         </p>
+                        <li class="mt-3"><b>Use Record-Triggered Flows to Update Related Records:</b> Now you can use record-triggered flows to update any records related to the triggering record.</li>
+                        <li class="mt-3"><b>Launch Screen Flows With Lightning Web Components : </b> Embed a screen flow from any Lightning Web Component with the new lightning-flow component. Developers can supercharge their flows by customizing finish behavior, setting custom styling, or launching flows from their Lightning Web Components. And they can offload complex input collection and branching logic to Flow, saving time and money. </li>
+                        <li class="mt-3"><b>Example shows an LWC component with the Survey_customers flow API name.</b></li>
                         <div class="wp-block-image size-full">
                             <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2Picture7.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
+                                    src="wp-content/uploads/sites/231/2022/08/blog3Picture7.png" alt=""
+                                    class="wp-image-122" width="858" height="385" /></figure>
                         </div>
-                        <h4 class="wp-block-heading">Step 5: Create an Error Condition to Leverage a Summary Variable</h4>
-                        <p>
-                        <ul>
-                                <li>In the Error Conditions related list, click New.</li>
-                                <li>Index:20.</li>
-                                <li>In the Tested Variable field, search for and select Sum of Warranty (Tata Cars).</li>
-                                <li>For the Type field, choose Validation</li>
-                                <li>For the Operator field, choose Greater than.</li>
-                                <li>For the Filter Type field, choose Variable.</li>
-                                <li>In the Filter Variable field, enter Sum of Hardware(Tata Cars).</li>
-                                <li>Click Save.</li>
-                            </ul>
-                         </p>
+                        <li class="mt-3 mb-3"><b>Use In and Not In Operators in Flows to Find Related Records : </b>  With the new In and Not In operators, a flow accesses a collection of primitive values to get related records without using the Loop element. The flow uses fewer SOQL queries and DML statements and performs faster. The new operators support accessing collections of type Text, Number, Date, Date/Time, Currency, and Boolean. The operators are available in the Get Records, Update Records, and Delete Records elements.</li>
                         <div class="wp-block-image size-full">
                             <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blogPicture8.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
+                                    src="wp-content/uploads/sites/231/2022/08/blog3Picture8.png" alt=""
+                                    class="wp-image-122" width="858" height="385" /></figure>
                         </div>
-                        <h4 class="wp-block-heading">Step 6: Save configuration rule by making it Active as per picture</h4>
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2Picture9.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <h4 class="wp-block-heading">Final Step Testing :Test the Validation Rule</h4>
-                        <p>
-                        <ul>
-                                <li>Click Accounts in the Navigation bar.</li>
-                                <li>Click The Name of Account.</li>
-                                <li>Click The Name of Account.</li>
-                                <li>Click the Related tab.</li>
-                                <li>From the Quotes related list, click Q-XXXX.</li>
-                                <li>Click Edit Lines.</li>
-                                <li>Click Add Products.(Warranty, Tata Cars, Keys, Toolkit)</li>
-                                <li>Update the quantity of the Warranty.</li>
-                                <li>Click Save.</li>
-                            </ul>
-                         </p>
-                         <p>If Sum of all Hardware Products is not equal to Sum of Warranty Products then this validation rule will fire and then it does allow to save this quote.</p>
+                        <li class="mt-3"><b>Test One, Two, Three, Flow (Generally Available): </b>Before you activate a record-triggered flow, you can now test it to quickly verify its expected results and identify flow run-time failures. In Flow Builder, you create, save, and run flow tests. Previously, you debugged a flow manually to troubleshoot failures each time they occurred. Now, you create and save a flow test from a debug run. Then each time you modify the flow, you can run the test. Flow tests don’t support flows that run when a record is deleted. This feature, now generally available, includes some changes since the last release. Flow tests now support scheduled paths. Previously, flow tests </li>
+                        <li class="mt-3"><b>Filter Your Picklists By Record Type in Flow Screens: </b>Now you only see relevant picklist values when using Dynamic Forms for Flow. Previously, all the picklist values for a field appeared, regardless of whether a record type was provided, and could show irrelevant values. </li>
+                        <li class="mt-3"><b>Select Multiple Records from a Table in a Flow Screen : </b>Leverage the new Data Table (beta) flow screen component to display a list of records on a flow screen. You can set the table to read-only, or enable your users to select one or more records and use their selections later in the flow. And users can change the width of table columns and wrap or truncate overflowing text.</li>
+                        <h4 class="wp-block-heading mt-5">Add the Data Table (beta) component to your screen flow and configure the fields.</h4>
 
-                        <!-- <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div> -->
                         <div class="wp-block-image size-full">
                             <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2Picture10.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <p class="mt-2">Filter condition</p>
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/Picture8.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+                                    src="wp-content/uploads/sites/231/2022/08/blog3Picture9.png" alt=""
+                                    class="wp-image-122" width="858" height="385" /></figure>
+                        </div> 
+                    </ul>
 
-                        <h4 class="wp-block-heading"> Step 3: put the price action in related list of price rule </h4>
-                        <div class="wp-block-image size-full">
-                            <figure class="aligncenter size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/Picture9.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <h4 class="wp-block-heading">Note -: Rule should be Activated.</h4>
-
-                    </div>
-                </div>
                 <div class="elementor-element elementor-element-4741b956 elementor-widget elementor-widget-heading"
                     data-id="4741b956" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
+                    <div class="elementor-widget-container-fluid mt-5">
                         <span class="elementor-heading-title elementor-size-default">Share the Post:</span>
                     </div>
                 </div>
@@ -728,47 +755,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <!-- <div class="elementor-element elementor-element-5ddcc98b elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading"
-                    data-id="5ddcc98b" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">Related Posts</h2>
-                    </div>
-                </div> -->
-                <!-- <div class="elementor-element elementor-element-76362474 elementor-grid-2 elementor-posts--align-center elementor-widget__width-inherit elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts"
-                    data-id="76362474" data-element_type="widget"
-                    data-settings="{&quot;classic_columns&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:80,&quot;sizes&quot;:[]},&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
-                    data-widget_type="posts.classic">
-                    <div class="elementor-widget-container">
-                        <link rel="stylesheet"
-                            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-posts.min.css">
-                        <div
-                            class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-                            <article
-                                class="elementor-post elementor-grid-item post-149 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
-                                <a class="elementor-post__thumbnail__link" href="">
-                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
-                                            src="https://img.freepik.com/free-vector/data-network-illustration_24908-57794.jpg?w=740&t=st=1707144042~exp=1707144642~hmac=4567c06d897b9c675634129fb02f6503e383e60b0f0068d7ced6e40c3fb53ba0"
-                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
-                                </a>
-                                <div class="elementor-post__text">
-                                    <h4 class="elementor-post__title">
-                                        <a href="">
-                                            Api Integration</a>
-                                    </h4>
-                                    <div class="elementor-post__meta-data">
-                                        <span class="elementor-post-date">
-                                            August 28, 2022 </span>
-                                    </div>
-                                </div>
-
-                            </article>
-
-                        </div>
-
-
-                    </div>
-                </div> -->
+                </div> 
             </div>
         </div>
     </div>

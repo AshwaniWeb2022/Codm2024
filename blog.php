@@ -522,13 +522,13 @@
                                 font-size: 59px
                             }
                         </style>
-                        <h1 class="elementor-heading-title elementor-size-default">Mastering Success</h1>
+                        <h1 class="elementor-heading-title elementor-size-default">Unlocking Insights</h1>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-665add15 elementor-widget elementor-widget-heading"
                     data-id="665add15" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h5 class="elementor-heading-title elementor-size-default">Unveiling the Power of CRM in Transforming Business Dynamics</h5>
+                        <h5 class="elementor-heading-title elementor-size-default">Dive Into Our Latest Blog Articles!</h5>
                     </div>
                 </div>
             </div>
@@ -595,7 +595,7 @@
 
                                 </div>
                             </article>
-                            <!-- <article
+                            <article
                                 class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
                                 <a class="elementor-post__thumbnail__link"
                                     href="#!">
@@ -606,7 +606,7 @@
                                 <div class="elementor-post__text">
                                     <h4 class="elementor-post__title">
                                         <a
-                                            href="#!">
+                                            href="blog3.php">
                                             Salesforce winter 23 release</a>
                                     </h4>
                                     <div class="elementor-post__excerpt">
@@ -614,7 +614,7 @@
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blog2.php"
+                                        href="blog3.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
@@ -625,26 +625,26 @@
                                 <a class="elementor-post__thumbnail__link"
                                     href="#!">
                                     <div class="elementor-post__thumbnail"><img width="1027" height="835"
-                                            src="wp-content/uploads/sites/231/2022/08/0_4BcXJF0d7pMoDy0i.png"
+                                            src="wp-content/uploads/sites/231/2022/08/named-cred-v2.jpg"
                                             class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
                                 </a>
                                 <div class="elementor-post__text">
                                     <h4 class="elementor-post__title">
                                         <a
                                             href="#!">
-                                            Salesforce CPQ Product Validation Rule</a>
+                                            Named Credentials</a>
                                     </h4>
                                     <div class="elementor-post__excerpt">
-                                        <p>In Salesforce CPQ, Product Validation Rules empower businesses to enforce specific criteria or conditions to ensure accurate configuration and pricing, thereby enhancing quote accuracy and reducing errors.</p>
+                                        <p>A named credential specifies the URL of a callout endpoint and its required authentication parameters in one definition.</p>
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blog2.php"
+                                        href="Named-Credentials.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
                                 </div>
-                            </article> -->
+                            </article>
                         </div>
                         </div>
                     </div>
