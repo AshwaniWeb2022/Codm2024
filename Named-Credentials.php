@@ -592,8 +592,8 @@
                             color: black !important;
                         }
                         </style>
-                        <h1 class="elementor-heading-title elementor-size-default">Salesforce CPQ’s Product Validation
-                            Rule</h1>
+                        <h1 class="elementor-heading-title elementor-size-default">Integration between 2 salesforce Orgs
+                            Using Named Credentials.</h1>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-401b5af5 elementor-align-center elementor-widget elementor-widget-post-info"
@@ -604,274 +604,210 @@
                         </ul>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
-                    data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
-                    <div class="elementor-widget-container">
-                        Generally Product rules are made in Salesforce CPQ to evaluate product options within a bundle,
-                        or a quote, or a quote line against some conditions (Error Condition) and if conditions are
-                        fulfilled as per Client requirement then perform ‘Actions’ in that response.
+                <section>
+                    <div class="elementor-element elementor-element-5b392c56 elementor-widget elementor-widget-theme-post-excerpt"
+                        data-id="5b392c56" data-element_type="widget" data-widget_type="theme-post-excerpt.default">
+                        <div class="elementor-widget-container">
+
+                        </div>
                     </div>
-                </div>
-                <div class="wp-block-image size-full">
-                    <figure class="size-full is-resized">
-                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog2pic1.png" alt=""
-                            class="wp-image-122" width="400" height="200" />
-                    </figure>
-                </div>
-                <div class="wp-block-image size-full">
-                    <figure class="size-full is-resized">
-                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/Salesforce-Consultant-Salesforce-CPQ-Product-Rules-TYPES.png" alt=""
-                            class="wp-image-122" width="858" height="385" />
-                    </figure>
-                </div>
-                <h4 class="wp-block-heading">Scenario:</h4>
+                    <h4 class="wp-block-heading"> What is a Named Credential ?</h4>
+                    <p> A Named Credential Specifies the URL of a Callout endpoint and its required authentication
+                        Parameters in one definition To Simplify the Setup of authenticated Callouts, Specify a Named
+                        Credential as the Callout
+                        endpoint.</p>
+                    <ul>
+                        <li>
+                            We will use the Named Credentials in salesforce to call the external System.
+                        </li>
+                    </ul>
+                </section>
+
+                <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+                <h4 class="wp-block-heading">What is Callout</h4>
                 <div class="elementor-element elementor-element-413a808e elementor-widget elementor-widget-theme-post-content"
                     data-id="413a808e" data-element_type="widget" data-widget_type="theme-post-content.default">
                     <div class="elementor-widget-container">
+                        <p>Callout means calling an external web Service or Sending an HTTP request from Apex Code and
+                            then receiving the response. </p>
 
-                        <p>
-                            Create a Validation Product Rule to Limit the Number of Warranty Product should be Equal to
-                            Number of Hardware Product (in our Case CARS, Keys,Toolkits are hardware product in our
-                            Bundle)
+                        <h4 class="wp-block-heading">Why We Use Named Credentials</h4>
+
+                        <p class="mt-3"> Named credentials to make callouts easier to maintain.
+                            For example: If an endpoint URL changes, you update only the named credential. All callouts
+                            that reference the named credential simply continue to work.
+
                         </p>
-                        <h4 class="wp-block-heading mt-5">Step 1: Create a Summary Variable to get Sum of “Hardware
-                            (Tata Cars)”</h4>
+                        <h4 class="wp-block-heading mt-5"> Authentication in Salesforce</h4>
+
+                        <p>Salesforce provides several methods to authenticate users. Some methods are automatically
+                            enabled, and some require that you enable and configure them.</p>
+
+                        <p>It supports two types of authentication protocols for now: Basic Authentication (Password
+                            authentication) or OAuth
+                            Basic Authentication: Where you have to share your Password with People who need to access
+                            your User Account.</p>
+
+                        <p><b>OAuth :</b> OAuth doesn’t Share Passwords. Instead, OAuth uses authorization tokens to
+                            verify an identity between consumers and service providers.</p>
+
+                        <!-- <p>To enable MFA for your users, follow these steps:</p> -->
+                        <h4 class="wp-block-heading mt-5">Benefits of Named Credential</h4>
+                        <p> You can skip remote site settings, which are otherwise required for callouts to external
+                            sites, for the site defined in the named credential.
+
                         <ul>
-                            <li>Click Summary Variables from the navigation bar.</li>
-                            <li>Click New. </li>
-                            <li>In the Variable Name field, enter Sum of Hardware (Tata Cars)</li>
-                            <li>For the Aggregate Function field, choose Sum.</li>
-                            <li>For the Aggregate Field field, choose Quantity.</li>
-                            <li>For the Target Object field, choose Product Option</li>
-                            <li>For the Filter Field field, choose Product Code.</li>
-                            <li>For the Operator field, choose equals.</li>
-                            <li>In the Filter Value field, enter HARDWARE.(We have given Product Code as HARDWARE for
-                                Hardware Products)</li>
-                            <li>Click Save</li>
+                            <li> For example callout: My_Named_Credential/some_path.</li>
                         </ul>
+
+                        <h4 class="wp-block-heading mt-5">Architecture Diagram of Named Credential</h4>
+
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog2picture3.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture3.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
-                        <h4 class="wp-block-heading mt-5">Step 2: Create another Summary Variable to get Sum of Warranty</h4>
-                        <ul>
-                        <li>Click Summary Variables from the navigation bar.</li>
-                            <li>Click New. </li>
-                            <li>In the Variable Name field, enter Sum of Hardware (Tata Cars)</li>
-                            <li>For the Aggregate Function field, choose Sum.</li>
-                            <li>For the Aggregate Field field, choose Quantity.</li>
-                            <li>For the Target Object field, choose Product Option</li>
-                            <li>For the Filter Field field, choose Product Code.</li>
-                            <li>For the Operator field, choose equals.</li>
-                            <li>In the Filter Value field, enter <b>WARRANTY</b>
-                            <li>Click <b> Save</b></li>
-                    </ul>    
-                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2picture5.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <h4 class="wp-block-heading">Step 3: Create a Validation Product Rule </h4>
-                        <p> 
+                        <h4 class="wp-block-heading mt-5">Following steps to Connect to an external System using “Named Credential”:</h4>
+                        <p>
                             <ul>
-                                <li>Click Product Rules from the Navigation bar.</li>
-                                <li>Click New.</li>
-                                <li>In the Product Rule Name field, enter Warranty Sum should be Equal to Sum of Hardware Product.</li>
-                                <li>For the Type field, choose Validation</li>
-                                <li>The Scope field remains as Quote, since you need the rule to run on the quote in general, not within a specific bundle.</li>
-                                <li>For the Evaluation Event field, choose Save.</li>
-                                <li>Check Active.</li>
-                                <li>For the Conditions Met field, choose All.</li>
-                                <li>In the Message field,<b> “Please Check !! Sum of Warranty should be Equal to Sum of Hardware Product.”</b></li>
-                                <li>Click Save.</li>
+                                <li>Create a Connected App.</li>
+                                <li>Create an Authorization Provider.</li>
+                                <li>Define Named Credential.</li>
+                                <li>Use Apex to connect in 5 lines of code.</li>
                             </ul>
                         </p>
+                        <h4 class="wp-block-heading mt-5">1. Create a Connected App:-</h4>
 
-
                         <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2picture6.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture4.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
                         </div>
-
-                        <!-- <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div> -->
-
-                        <h4 class="wp-block-heading">Step 4: Create an Error Condition to Leverage a Summary Variable</h4>
-                        <p>
-                        <ul>
-                                <li>In the Error Conditions related list, click New.</li>
-                                <li>Index:10.</li>
-                                <li>In the Tested Variable field, search for and select Sum of Warranty (Tata Cars).</li>
-                                <li>For the Type field, choose Validation</li>
-                                <li>For the Operator field, choose less than.</li>
-                                <li>For the Filter Type field, choose Variable.</li>
-                                <li>In the Filter Variable field, enter Sum of Hardware(Tata Cars).</li>
-                                <li>Click Save.</li>
-                            </ul>
-                         </p>
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2Picture7.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <h4 class="wp-block-heading">Step 5: Create an Error Condition to Leverage a Summary Variable</h4>
-                        <p>
-                        <ul>
-                                <li>In the Error Conditions related list, click New.</li>
-                                <li>Index:20.</li>
-                                <li>In the Tested Variable field, search for and select Sum of Warranty (Tata Cars).</li>
-                                <li>For the Type field, choose Validation</li>
-                                <li>For the Operator field, choose Greater than.</li>
-                                <li>For the Filter Type field, choose Variable.</li>
-                                <li>In the Filter Variable field, enter Sum of Hardware(Tata Cars).</li>
-                                <li>Click Save.</li>
-                            </ul>
-                         </p>
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blogPicture8.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <h4 class="wp-block-heading">Step 6: Save configuration rule by making it Active as per picture</h4>
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2Picture9.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <h4 class="wp-block-heading">Final Step Testing :Test the Validation Rule</h4>
-                        <p>
-                        <ul>
-                                <li>Click Accounts in the Navigation bar.</li>
-                                <li>Click The Name of Account.</li>
-                                <li>Click The Name of Account.</li>
-                                <li>Click the Related tab.</li>
-                                <li>From the Quotes related list, click Q-XXXX.</li>
-                                <li>Click Edit Lines.</li>
-                                <li>Click Add Products.(Warranty, Tata Cars, Keys, Toolkit)</li>
-                                <li>Update the quantity of the Warranty.</li>
-                                <li>Click Save.</li>
-                            </ul>
-                         </p>
-                         <p>If Sum of all Hardware Products is not equal to Sum of Warranty Products then this validation rule will fire and then it does allow to save this quote.</p>
-
-                        <!-- <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div> -->
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog2Picture10.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
-                        <p class="mt-2">Filter condition</p>
-                        <div class="wp-block-image size-full">
-                            <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/Picture8.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
-                        </div>
+                        
                         <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
-                        <h4 class="wp-block-heading"> Step 3: put the price action in related list of price rule </h4>
                         <div class="wp-block-image size-full">
-                            <figure class="aligncenter size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/Picture9.png" alt="" class="wp-image-122"
-                                    width="858" height="385" /></figure>
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture5.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
                         </div>
-                        <h4 class="wp-block-heading">Note -: Rule should be Activated.</h4>
+                        <h4 class="wp-block-heading mt-5">2. Create Authorization Provider: </h4>
+                        
+                        <div class="wp-block-image size-full">
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture6.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
+                        </div>
 
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-4741b956 elementor-widget elementor-widget-heading"
-                    data-id="4741b956" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
-                        <span class="elementor-heading-title elementor-size-default">Share the Post:</span>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-7878ac4d elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--color-custom elementor-share-buttons-mobile--align-center elementor-widget__width-inherit elementor-share-buttons--shape-square elementor-grid-0 elementor-widget elementor-widget-share-buttons"
-                    data-id="7878ac4d" data-element_type="widget" data-widget_type="share-buttons.default">
-                    <div class="elementor-widget-container">
-                        <link rel="stylesheet"
-                            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-share-buttons.min.css">
-                        <div class="elementor-grid">
-                            <div class="elementor-grid-item">
-                                <div class="elementor-share-btn elementor-share-btn_facebook" role="button" tabindex="0"
-                                    aria-label="Share on facebook">
-                                    <span class="elementor-share-btn__icon">
-                                        <i class="fab fa-facebook" aria-hidden="true"></i> </span>
-                                </div>
-                            </div>
-                            <div class="elementor-grid-item">
-                                <div class="elementor-share-btn elementor-share-btn_twitter" role="button" tabindex="0"
-                                    aria-label="Share on twitter">
-                                    <span class="elementor-share-btn__icon">
-                                        <i class="fab fa-twitter" aria-hidden="true"></i> </span>
-                                </div>
-                            </div>
-                            <div class="elementor-grid-item">
-                                <div class="elementor-share-btn elementor-share-btn_linkedin" role="button" tabindex="0"
-                                    aria-label="Share on linkedin">
-                                    <span class="elementor-share-btn__icon">
-                                        <i class="fab fa-linkedin" aria-hidden="true"></i> </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-789a58f elementor-widget elementor-widget-post-navigation"
-                    data-id="789a58f" data-element_type="widget" data-widget_type="post-navigation.default">
-                    <div class="elementor-widget-container">
-                        <div class="elementor-post-navigation">
+                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
-                            <div class="elementor-post-navigation__next elementor-post-navigation__link">
+                        <div class="wp-block-image size-full">
+                            <figure class="size-full is-resized">
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture7.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                            </figure>
+                        </div>
+                        <p>
+                            <ul>
+                                <li><b>Label  – </b>A user-friendly name for the named credential displayed in Salesforce.</li>
+                                <li><b>Name   – </b>A unique identifier that refers to this named credential from callout definitions</li>
+                                <li><b>URL    – </b>The URL or root URL of the callout endpoint.</li>
+                                <li><b>Identity Type  – </b>Determines whether you are using one or multiple sets of credentials to access the external system.</li>
+                                <li><b>Anonymous : </b>No identity and therefore no authentication.</li>
+                                <li><b>Per User : </b>Use separate credentials for each user who accesses the external system via callouts.</li>
+                                <li><b>Named Principal : </b>Use the same set of credentials for all users who access the external system from your org.</li>
+                                <div class="wp-block-image size-full">
+                                    <figure class="size-full is-resized">
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture8.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                                    </figure>
+                                </div>                                  
+                            </ul>
+                        </p>
+                        
+                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+                        <h4 class="wp-block-heading mt-5">3. Use Apex code to connect:</h4>
+                        <div class="wp-block-image size-full">
+                                    <figure class="size-full is-resized">
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture9.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                                    </figure>
+                        </div> 
+                        
+                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+                        <div class="wp-block-image size-full">
+                                    <figure class="size-full is-resized">
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture10.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                                    </figure>
+                        </div>
+
+                        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+                        <div class="wp-block-image size-full">
+                                    <figure class="size-full is-resized">
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog4picture11.png"
+                                    alt="" class="wp-image-122 mt-2" width="758" height="385" />
+                                    </figure>
+                        </div>
+
+                        <div class="elementor-element elementor-element-4741b956 elementor-widget elementor-widget-heading"
+                            data-id="4741b956" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container-fluid mt-5">
+                                <span class="elementor-heading-title elementor-size-default">Share the Post:</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <!-- <div class="elementor-element elementor-element-5ddcc98b elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading"
-                    data-id="5ddcc98b" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">Related Posts</h2>
-                    </div>
-                </div> -->
-                <!-- <div class="elementor-element elementor-element-76362474 elementor-grid-2 elementor-posts--align-center elementor-widget__width-inherit elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts"
-                    data-id="76362474" data-element_type="widget"
-                    data-settings="{&quot;classic_columns&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:80,&quot;sizes&quot;:[]},&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
-                    data-widget_type="posts.classic">
-                    <div class="elementor-widget-container">
-                        <link rel="stylesheet"
-                            href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-posts.min.css">
-                        <div
-                            class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-                            <article
-                                class="elementor-post elementor-grid-item post-149 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
-                                <a class="elementor-post__thumbnail__link" href="">
-                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
-                                            src="https://img.freepik.com/free-vector/data-network-illustration_24908-57794.jpg?w=740&t=st=1707144042~exp=1707144642~hmac=4567c06d897b9c675634129fb02f6503e383e60b0f0068d7ced6e40c3fb53ba0"
-                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
-                                </a>
-                                <div class="elementor-post__text">
-                                    <h4 class="elementor-post__title">
-                                        <a href="">
-                                            Api Integration</a>
-                                    </h4>
-                                    <div class="elementor-post__meta-data">
-                                        <span class="elementor-post-date">
-                                            August 28, 2022 </span>
+                        <div class="elementor-element elementor-element-7878ac4d elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--color-custom elementor-share-buttons-mobile--align-center elementor-widget__width-inherit elementor-share-buttons--shape-square elementor-grid-0 elementor-widget elementor-widget-share-buttons"
+                            data-id="7878ac4d" data-element_type="widget" data-widget_type="share-buttons.default">
+                            <div class="elementor-widget-container">
+                                <link rel="stylesheet"
+                                    href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-share-buttons.min.css">
+                                <div class="elementor-grid">
+                                    <div class="elementor-grid-item">
+                                        <div class="elementor-share-btn elementor-share-btn_facebook" role="button"
+                                            tabindex="0" aria-label="Share on facebook">
+                                            <span class="elementor-share-btn__icon">
+                                                <i class="fab fa-facebook" aria-hidden="true"></i> </span>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-grid-item">
+                                        <div class="elementor-share-btn elementor-share-btn_twitter" role="button"
+                                            tabindex="0" aria-label="Share on twitter">
+                                            <span class="elementor-share-btn__icon">
+                                                <i class="fab fa-twitter" aria-hidden="true"></i> </span>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-grid-item">
+                                        <div class="elementor-share-btn elementor-share-btn_linkedin" role="button"
+                                            tabindex="0" aria-label="Share on linkedin">
+                                            <span class="elementor-share-btn__icon">
+                                                <i class="fab fa-linkedin" aria-hidden="true"></i> </span>
+                                        </div>
                                     </div>
                                 </div>
-
-                            </article>
-
+                            </div>
                         </div>
+                        <div class="elementor-element elementor-element-789a58f elementor-widget elementor-widget-post-navigation"
+                            data-id="789a58f" data-element_type="widget" data-widget_type="post-navigation.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-post-navigation">
 
-
+                                    <div class="elementor-post-navigation__next elementor-post-navigation__link">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
-    </div>
-    </div>
     </div>
 
     <?php include 'app/footer.php';?>
