@@ -619,7 +619,7 @@
 
                 <div class="wp-block-image size-full">
                     <figure class="size-full is-resized">
-                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture1.png" alt=""
+                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture1.png" alt=""
                             class="wp-image-122" width="400" height="200" />
                     </figure>
                 </div>
@@ -629,7 +629,7 @@
                 <div class="wp-block-image size-full">
                     <figure class="size-full is-resized">
                         <img decoding="async"
-                            src="wp-content/uploads/sites/231/2022/08/blog3picture2.png"
+                            src="wp-content/uploads/sites/231/2022/08/SF23picture2.png"
                             alt="" class="wp-image-122" width="858" height="385" />
                     </figure>
                 </div>
@@ -649,14 +649,14 @@
                         <p>In Spring’23, this invalid usage of the <code>&lt;template&gt;</code> element doesn’t render correctly, and loading a component that contains this invalid usage will result in an error. For example, the non-root <code>&lt;template&gt;</code> element in this example contains an invalid attribute.</p>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture3.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture3.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
                         <p class="mt-3">To fix the warning and ensure that your component continues to load correctly in future releases, remove the invalid attribute or use another element like <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code>, depending on your use case.</p>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture4.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture4.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -672,7 +672,7 @@
                         
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture5.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture5.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -680,7 +680,7 @@
                         <li>Add the Lookup component to your screen flow and set the Maximum Selections field to a value greater than 1.</li>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/blog3picture6.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture6.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -689,13 +689,13 @@
                         <li class="mt-3"><b>Example shows an LWC component with the Survey_customers flow API name.</b></li>
                         <div class="wp-block-image size-full">
                             <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog3Picture7.png" alt=""
+                                    src="wp-content/uploads/sites/231/2022/08/SF23Picture7.png" alt=""
                                     class="wp-image-122" width="858" height="385" /></figure>
                         </div>
                         <li class="mt-3 mb-3"><b>Use In and Not In Operators in Flows to Find Related Records : </b>  With the new In and Not In operators, a flow accesses a collection of primitive values to get related records without using the Loop element. The flow uses fewer SOQL queries and DML statements and performs faster. The new operators support accessing collections of type Text, Number, Date, Date/Time, Currency, and Boolean. The operators are available in the Get Records, Update Records, and Delete Records elements.</li>
                         <div class="wp-block-image size-full">
                             <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog3Picture8.png" alt=""
+                                    src="wp-content/uploads/sites/231/2022/08/SF23Picture8.png" alt=""
                                     class="wp-image-122" width="858" height="385" /></figure>
                         </div>
                         <li class="mt-3"><b>Test One, Two, Three, Flow (Generally Available): </b>Before you activate a record-triggered flow, you can now test it to quickly verify its expected results and identify flow run-time failures. In Flow Builder, you create, save, and run flow tests. Previously, you debugged a flow manually to troubleshoot failures each time they occurred. Now, you create and save a flow test from a debug run. Then each time you modify the flow, you can run the test. Flow tests don’t support flows that run when a record is deleted. This feature, now generally available, includes some changes since the last release. Flow tests now support scheduled paths. Previously, flow tests </li>
@@ -705,7 +705,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="align center size-full is-resized"><img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/blog3Picture9.png" alt=""
+                                    src="wp-content/uploads/sites/231/2022/08/SF23Picture9.png" alt=""
                                     class="wp-image-122" width="858" height="385" /></figure>
                         </div> 
                     </ul>
