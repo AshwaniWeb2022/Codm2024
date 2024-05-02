@@ -682,7 +682,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture4.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture4.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -699,7 +699,7 @@
                         
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture6.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture6.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -708,7 +708,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture7.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture7.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -723,7 +723,7 @@
                                 <li><b>Named Principal : </b>Use the same set of credentials for all users who access the external system from your org.</li>
                                 <div class="wp-block-image size-full">
                                     <figure class="size-full is-resized">
-                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture8.png"
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture8.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                                     </figure>
                                 </div>                                  
@@ -735,7 +735,7 @@
                         <h4 class="wp-block-heading mt-5">3. Use Apex code to connect:</h4>
                         <div class="wp-block-image size-full">
                                     <figure class="size-full is-resized">
-                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture9.png"
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture9.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                                     </figure>
                         </div> 
@@ -744,7 +744,7 @@
 
                         <div class="wp-block-image size-full">
                                     <figure class="size-full is-resized">
-                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture10.png"
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture10.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                                     </figure>
                         </div>
@@ -753,7 +753,7 @@
 
                         <div class="wp-block-image size-full">
                                     <figure class="size-full is-resized">
-                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture11.png"
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture11.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                                     </figure>
                         </div>
