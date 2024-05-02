@@ -691,7 +691,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_picture5.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/NC_Picture5.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
