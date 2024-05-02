@@ -1,112 +1,4 @@
 <?php include 'app/header.php';?>
-<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-dark-grayscale">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 0.49803921568627" />
-					<feFuncG type="table" tableValues="0 0.49803921568627" />
-					<feFuncB type="table" tableValues="0 0.49803921568627" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-grayscale">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 1" />
-					<feFuncG type="table" tableValues="0 1" />
-					<feFuncB type="table" tableValues="0 1" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-purple-yellow">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
-					<feFuncG type="table" tableValues="0 1" />
-					<feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-blue-red">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 1" />
-					<feFuncG type="table" tableValues="0 0.27843137254902" />
-					<feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-midnight">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 0" />
-					<feFuncG type="table" tableValues="0 0.64705882352941" />
-					<feFuncB type="table" tableValues="0 1" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-magenta-yellow">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.78039215686275 1" />
-					<feFuncG type="table" tableValues="0 0.94901960784314" />
-					<feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-purple-green">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
-					<feFuncG type="table" tableValues="0 1" />
-					<feFuncB type="table" tableValues="0.44705882352941 0.4" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-blue-orange">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.098039215686275 1" />
-					<feFuncG type="table" tableValues="0 0.66274509803922" />
-					<feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg>
-	<a class="skip-link screen-reader-text" href="#content">
-		Skip to content</a> -->
-
 
 <div data-elementor-type="wp-page" data-elementor-id="71" class="elementor elementor-71">
     <div class="elementor-element elementor-element-5826e0f1 e-con-boxed e-con" data-id="5826e0f1"
@@ -185,6 +77,8 @@
     </div>
 
     <!-- nav bar ends -->
+
+    <!-- new product starts -->
     <div>
         <style>
         .fixed-image {
@@ -205,11 +99,55 @@
         </style>
         <img class="fixed-image" src="wp-content/uploads/sites/231/2022/08/Badges3.png" alt="Fixed Image">
     </div>
+    <div class="elementor-element elementor-element-44836bec elementor-widget elementor-widget-heading"
+        data-id="44836bec" data-element_type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+            <h2 class="  text-center elementor-heading-title elementor-size-medium">New Products</h2>
+        </div>
+        <div class="text-center elementor-widget-container">
+            <p> Introduction to our new products  </p>
+        </div>
+    </div>
+    <style>
+    .T-form-tital {
+        font-size: 26px;
+        font-weight: 600;
+        line-height: 60px
+    }
+
+    .T-form-subTital {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 30px;
+        color: #626464
+    }
+    </style>
+    <section class="mb-5">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-6 mx-auto align-self-center  p-md-5 mt-5">
+                    <div class="T-form-tital align-self-center">Field History Tracking in Salesforce</div>
+                    <div class="T-form-subTital pt-4">"Introducing FHT: Revolutionizing how you track field history in
+                        Salesforce, ensuring every data change is seamlessly recorded, empowering your team with
+                        comprehensive insights and compliance assurance."
+                    </div>
+                </div>
+                <div class="col-lg-6 mx-auto mt-5 pt-5">
+                    <iframe width="360" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?si=ooFXBTLNx6robLgx"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- new product ends -->
     <!-- Industries sections starts -->
     <div data-elementor-type="footer" data-elementor-id="999" class="elementor elementor-999 elementor-location-footer">
         <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-            <div class="e-con-inner">
+            <div class="e-con-inner mt-3">
                 <div class="elementor-element elementor-element-44836bec elementor-widget elementor-widget-heading"
                     data-id="44836bec" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
@@ -522,8 +460,7 @@
                     data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
                     <div class="elementor-widget-container">
                         <div class="elementor-button-wrapper">
-                            <a href="#!" class="elementor-button-link elementor-button elementor-size-sm"
-                                role="button">
+                            <a href="#!" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                 <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">View all services</span>
                                 </span>
@@ -534,8 +471,8 @@
             </div>
         </div>
         <!-- Services ends -->
-       
-        <!-- Why choose us starts -->
+
+
         <div class="elementor-element elementor-element-199fb5cb e-con-boxed e-con" data-id="199fb5cb"
             data-element_type="container"
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
@@ -673,7 +610,51 @@
                 </div>
             </div>
         </div>
+
+
+        <!-- Why choose us starts -->
+        <div class="elementor-element elementor-element-199fb5cb e-con-boxed e-con" data-id="199fb5cb"
+            data-element_type="container"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-27bf3089 elementor-widget__width-inherit elementor-widget elementor-widget-heading"
+                    data-id="27bf3089" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h2 class="elementor-heading-title elementor-size-default">Trusted By</h2>
+                    </div>
+                </div>
+                <!-- Owl Carousel CSS -->
+                <link rel="stylesheet"
+                    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+                <link rel="stylesheet"
+                    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+                <div class="owl-carousel">
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/yamaha.jpg" alt="Client 9"></div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/phaseTrust.jpg" alt="Client 10">
+                    </div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/coventry.jpg" alt="Client 11">
+                    </div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/foogalClinet.png" alt="Client 1">
+                    </div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/elgebra.jpg" alt="Client 2"></div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/dynamicClinet.png" alt="Client 3">
+                    </div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/bellhopClinet.png" alt="Client 4">
+                    </div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/absaClinet.png" alt="Client 5">
+                    </div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/cloudsr.webp" alt="Client 6"></div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/changeMachineClinet.png"
+                            alt="Client 7"></div>
+                    <div class="item"><img src="wp-content/uploads/sites/231/2022/08/xqlClinet.png" alt="Client 8">
+                    </div>
+                    <!-- Add more items as needed -->
+                </div>
+            </div>
+        </div>
         <!-- Why choose us ends -->
+
         <!-- Client section starts  -->
         <div class="elementor-element elementor-element-37246a4b e-con-boxed e-con" data-id="37246a4b"
             data-element_type="container"
@@ -1037,6 +1018,40 @@
             </div>
         </div>
     </div>
+
+
+
+
+
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <!-- Owl Carousel JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        $(".owl-carousel").owlCarousel({
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 3000, // Autoplay interval in milliseconds
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 2
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 9
+                }
+            }
+        });
+    });
+    </script>
+
     <!-- footer section  -->
     <script>
     document.getElementById('pdfLink').addEventListener('click', function(event) {
