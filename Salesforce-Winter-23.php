@@ -619,7 +619,7 @@
 
                 <div class="wp-block-image size-full">
                     <figure class="size-full is-resized">
-                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture1.png" alt=""
+                        <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF_23Picture1.png" alt=""
                             class="wp-image-122" width="400" height="200" />
                     </figure>
                 </div>
