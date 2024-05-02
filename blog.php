@@ -556,7 +556,7 @@
                                 <div class="elementor-post__text">
                                     <h4 class="elementor-post__title">
                                         <a
-                                            href="#!">
+                                            href="pricerule.php">
                                             Price Rule  </a>
                                     </h4>
                                     <div class="elementor-post__excerpt">
@@ -564,7 +564,7 @@
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blogDetails.php"
+                                        href="pricerule.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
@@ -589,7 +589,7 @@
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blog2.php"
+                                        href="Salesforce-CPQ-Product-Validation-Rule.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
@@ -606,7 +606,7 @@
                                 <div class="elementor-post__text">
                                     <h4 class="elementor-post__title">
                                         <a
-                                            href="blog3.php">
+                                            href="Salesforce-Winter-23">
                                             Salesforce winter 23 release</a>
                                     </h4>
                                     <div class="elementor-post__excerpt">
@@ -614,7 +614,7 @@
                                     </div>
 
                                     <a class="elementor-post__read-more"
-                                        href="blog3.php"
+                                        href="Salesforce-Winter-23.php"
                                         aria-label="Read more about Blog Post Title">
                                         Read More </a>
 
@@ -631,7 +631,7 @@
                                 <div class="elementor-post__text">
                                     <h4 class="elementor-post__title">
                                         <a
-                                            href="#!">
+                                            href="Named-Credentials.php">
                                             Named Credentials</a>
                                     </h4>
                                     <div class="elementor-post__excerpt">
