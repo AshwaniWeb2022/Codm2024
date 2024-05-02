@@ -629,7 +629,7 @@
                 <div class="wp-block-image size-full">
                     <figure class="size-full is-resized">
                         <img decoding="async"
-                            src="wp-content/uploads/sites/231/2022/08/SF23picture2.png"
+                            src="wp-content/uploads/sites/231/2022/08/SF_23Picture2.png"
                             alt="" class="wp-image-122" width="858" height="385" />
                     </figure>
                 </div>
@@ -649,14 +649,14 @@
                         <p>In Spring’23, this invalid usage of the <code>&lt;template&gt;</code> element doesn’t render correctly, and loading a component that contains this invalid usage will result in an error. For example, the non-root <code>&lt;template&gt;</code> element in this example contains an invalid attribute.</p>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture3.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF_23Picture3.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
                         <p class="mt-3">To fix the warning and ensure that your component continues to load correctly in future releases, remove the invalid attribute or use another element like <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code>, depending on your use case.</p>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture4.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF_23Picture4.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -672,7 +672,7 @@
                         
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture5.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF_23Picture5.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -680,7 +680,7 @@
                         <li>Add the Lookup component to your screen flow and set the Maximum Selections field to a value greater than 1.</li>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF23picture6.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF_23Picture6.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
