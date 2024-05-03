@@ -189,7 +189,7 @@ h1.entry-title {
         --e-global-typography-primary-font-size: 28px;
         --e-global-typography-primary-line-height: 1.1em;
         --e-global-typography-secondary-font-size: 20px;
-        --e-global-typography-392b9e0-font-size: 18px;
+        --e-global-typography-392b9e0-font-size: 16px !important;
         --e-global-typography-b2deeae-font-size: 48px;
         --e-global-typography-b2deeae-line-height: 1em;
         --e-global-typography-fb1a3e0-font-size: 100px;

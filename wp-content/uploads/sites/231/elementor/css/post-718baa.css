@@ -554,10 +554,10 @@
     --gap: 67px;
     --flex-wrap: wrap;
     --background-transition: 0.3s;
-    --padding-top: 8%;
+    --padding-top: 4%;
     --padding-right: 4%;
-    --padding-bottom: 8%;
-    --padding-left: 4%
+    --padding-bottom: 4%;
+    --padding-left: 4%;
 }
 
 .elementor-71 .elementor-element.elementor-element-199fb5cb:not(.elementor-motion-effects-element-type-background),
@@ -814,9 +814,9 @@
     --container-widget-align-self: stretch;
     --flex-wrap: wrap;
     --background-transition: 0.3s;
-    --padding-top: 8%;
+    --padding-top: 4%;
     --padding-right: 4%;
-    --padding-bottom: 8%;
+    --padding-bottom: 4%;
     --padding-left: 4%
 }
 
