@@ -99,18 +99,23 @@
         </style>
         <img class="fixed-image" src="wp-content/uploads/sites/231/2022/08/Badges3.png" alt="Fixed Image">
     </div>
-    <div class="elementor-element elementor-element-44836bec elementor-widget elementor-widget-heading"
-        data-id="44836bec" data-element_type="widget" data-widget_type="heading.default">
-        <div class="elementor-widget-container">
-            <h2 class="  text-center elementor-heading-title elementor-size-medium">New Products</h2>
-        </div>
+    <div data-elementor-type="footer" data-elementor-id="999" class="elementor elementor-999 elementor-location-footer">
+        <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
+            data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+            <div class="e-con-inner mt-3">
+            <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
+                    data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h2 class="elementor-heading-title elementor-size-default">New Product</h2>
+                    </div>
+                </div>
         <div class="text-center elementor-widget-container">
-            <p> Introduction to our new products  </p>
+            <p> Introduction to our new product </p>
         </div>
     </div>
     <style>
     .T-form-tital {
-        font-size: 26px;
+        font-size: 23px;
         font-weight: 600;
         line-height: 60px
     }
@@ -132,7 +137,7 @@
                         comprehensive insights and compliance assurance."
                     </div>
                 </div>
-                <div class="col-lg-6 mx-auto mt-5 pt-5">
+                <div class="col-lg-6 mx-auto pt-5">
                     <iframe width="360" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?si=ooFXBTLNx6robLgx"
                         title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -148,10 +153,10 @@
         <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
             <div class="e-con-inner mt-3">
-                <div class="elementor-element elementor-element-44836bec elementor-widget elementor-widget-heading"
-                    data-id="44836bec" data-element_type="widget" data-widget_type="heading.default">
+            <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
+                    data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="  text-center elementor-heading-title elementor-size-medium">INDUSTRIES</h2>
+                        <h2 class="elementor-heading-title elementor-size-default">Industries</h2>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-c084b06 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
@@ -166,7 +171,7 @@
                     data-widget_type="media-carousel.default">
                     <div class="elementor-widget-container">
                         <link rel="stylesheet"
-                            href="https://library.elementor.com/blog-wireframe-1-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-carousel.min.css">
+                            href="wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-carousel.min.css">
                         <div class="elementor-swiper">
                             <div class="elementor-main-swiper swiper-container">
                                 <div class="swiper-wrapper">
