@@ -159,7 +159,7 @@
             <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
                     data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">Industries</h2>
+                        <h2 class="elementor-heading-title elementor-size-default">Industries We Serve</h2>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-c084b06 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
