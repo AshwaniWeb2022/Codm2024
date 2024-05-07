@@ -672,7 +672,7 @@
 
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture4.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture4.png"
                                     alt="" class="wp-image-122" width="858" height="385" />
                             </figure>
                         </div>
@@ -699,7 +699,7 @@
                         <p class="mt-3">HTTP Callout is an amazing feature that Salesforce introduced in the Spring '23 release. In the previous release, they added a POST method as well. Starting with the Winter '24 release, HTTP Callout supports other methods as well (PUT, PATCH, DELETE).</p>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture6.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture6.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>
@@ -708,14 +708,14 @@
                         <P>In the screenshot below, this element transforms a lead record to a contact record.</P>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture7.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture7.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>  
                         <h4 class="wp-block-heading mt-5">It is also possible to use a formula for the mapping.</h4>
                         <div class="wp-block-image size-full">
                             <figure class="size-full is-resized">
-                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture8.png"
+                                <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture8.png"
                                     alt="" class="wp-image-122 mt-2" width="758" height="385" />
                             </figure>
                         </div>  
@@ -723,14 +723,14 @@
 
                             <div class="wp-block-image size-full">
                                 <figure class="size-full is-resized">
-                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture9.png"
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture9.png"
                                         alt="" class="wp-image-122 mt-2" width="758" height="385" />
                                 </figure>
                             </div>
                             <P class="mt-3">Here is another example that transforms Contact records to Opportunity Contact Role records. It transforms a record collection to another type of record collection. Before this release, you had to use Loop and Assignment elements in order to achieve this.</P>
                             <div class="wp-block-image size-full">
                                 <figure class="size-full is-resized">
-                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture10.png"
+                                    <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture10.png"
                                         alt="" class="wp-image-122 mt-2" width="758" height="385" />
                                 </figure>
                             </div>
@@ -741,7 +741,7 @@
 
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture11.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture11.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                           
@@ -751,14 +751,14 @@
                           
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture12.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture12.png" alt=""
                                         class="wp-image-122" width="400" height="385" /></figure>
                             </div>
                             <P class="mt-3"><b>The Wait for Conditions</b> element replaces the Pause element, there is nothing different here.
                             
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture13.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture13.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                             <P class="mt-3"><b>Wait for the Amount of Time </b>element lets you wait for a specified amount of time. Valid values are Minutes, Hours, Days, and Months. Moreover, you can resume at a specific time of day.</p>
@@ -766,13 +766,13 @@
                             
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture14.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture14.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                             <p><b>Wait Until Date </b>element lets you wait until a specific date and time.</p>
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture15.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture15.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                             <h4 class="wp-block-heading mt-5">8. Product Selector Screen Component</h4>
@@ -780,14 +780,14 @@
                             <p>There is a new screen component called Product Selector. This input component lets you select products with quantities. In order to configure this component, you have to provide the available products and price book entries.</p>
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture16.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture16.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                             <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
 
                             <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture17.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture17.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                         
@@ -799,7 +799,7 @@
                         
                         <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture20.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture20.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                             </div>
                         <h4 class="wp-block-heading mt-5">10. Dynamic Actions on Mobile for Standard Objects</h4>
@@ -808,7 +808,7 @@
                         <p>Instead of scanning an endless list of actions, your users will be presented with a simple choice relevant to their role, profile, or when a record meets certain criteria.</p>
                         <div class="wp-block-image size-full">
                                 <figure class="align center size-full is-resized"><img decoding="async"
-                                        src="wp-content/uploads/sites/231/2022/08/SF24picture21.png" alt=""
+                                        src="wp-content/uploads/sites/231/2022/08/SF24Picture21.png" alt=""
                                         class="wp-image-122" width="858" height="385" /></figure>
                         </div>
                         <P>Currently, you can define different Dynamic Actions for mobile (versus desktop) for<b> custom objects.</b> This idea is advocating for this flexibility to be extended for<b>standard objects.</b></P>
