@@ -613,7 +613,7 @@
                     </div>
                     <div class="wp-block-image size-full">
                         <figure class="size-full is-resized">
-                            <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture1.png" alt=""
+                            <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture1.png" alt=""
                                 class="wp-image-122" width="858" height="385" />
                         </figure>
                     </div>
@@ -653,7 +653,7 @@
 
                     <div class="wp-block-image size-full">
                         <figure class="size-full is-resized">
-                            <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture2.png" alt=""
+                            <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture2.png" alt=""
                                 class="wp-image-122" width="858" height="385" />
                         </figure>
                     </div>
@@ -662,7 +662,7 @@
 
                     <div class="wp-block-image size-full">
                         <figure class="size-full is-resized">
-                            <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24picture3.png" alt=""
+                            <img decoding="async" src="wp-content/uploads/sites/231/2022/08/SF24Picture3.png" alt=""
                                 class="wp-image-122" width="858" height="385" />
                         </figure>
                     </div>
