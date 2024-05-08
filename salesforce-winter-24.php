@@ -3,14 +3,7 @@
 
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Salesforce Winter 24</title>
-    <meta name='robots' content='max-image-preview:large' />
-
-    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
     <meta property="og:title"
         content="Salesforce Winter 24" />
     <meta property="og:description"
@@ -30,25 +23,9 @@
         content="Salesforce Winter 24" />
     <meta name="twitter:image"
         content="wp-content/uploads/sites/231/2022/08/blog5.png" />
-        <meta property="og:url" content="codmsoftware.com" />
-    <meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
-    <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
-    <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
-    <meta property="og:image:width" content="400" />
-    <meta property="og:image:height" content="380" />
-    <meta name="twitter:card" content="Salesforce Consulting Partner." />
-    <meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
-    <meta name="twitter:title" content="codmsoftware.com" />
-    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
 
     <!-- / Yoast SEO plugin. -->
 
-    <link rel="alternate" type="application/rss+xml"
-        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/feed/" />
-    <link rel="alternate" type="application/rss+xml"
-        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/comments/feed/" />
     <style>
     img.wp-smiley,
     img.emoji {
@@ -64,10 +41,10 @@
     }
     </style>
     <link rel='stylesheet' id='wp-block-library-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-includes/css/dist/block-library/style.min.css?ver=6.2'
+        href='wp-includes/css/dist/block-library/style.minae48.css'
         media='all' />
     <link rel='stylesheet' id='classic-theme-styles-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-includes/css/classic-themes.min.css?ver=6.2'
+        href='wp-includes/css/classic-themes.minae48.css'
         media='all' />
     <style id='global-styles-inline-css'>
     body {
@@ -407,88 +384,12 @@
         line-height: 1.6;
     }
     </style>
-    <link rel='stylesheet' id='hello-elementor-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1'
-        media='all' />
-    <link rel='stylesheet' id='hello-elementor-theme-style-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1'
-        media='all' />
-    <link rel='stylesheet' id='elementor-frontend-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.min.css?ver=3.12.2'
-        media='all' />
-    <link rel='stylesheet' id='elementor-post-16-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-16.css?ver=1684334869'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0'
-        media='all' />
-    <link rel='stylesheet' id='swiper-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min.css?ver=5.3.6'
-        media='all' />
-    <link rel='stylesheet' id='elementor-pro-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min.css?ver=3.12.3'
-        media='all' />
-    <link rel='stylesheet' id='font-awesome-5-all-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.min.css?ver=3.12.2'
-        media='all' />
-    <link rel='stylesheet' id='font-awesome-4-shim-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.12.2'
-        media='all' />
-    <link rel='stylesheet' id='elementor-global-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/global.css?ver=1684334870'
-        media='all' />
-    <link rel='stylesheet' id='elementor-post-18-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-18.css?ver=1691498103'
-        media='all' />
-    <link rel='stylesheet' id='elementor-post-23-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-23.css?ver=1684334870'
-        media='all' />
+    
     <link rel='stylesheet' id='elementor-post-32-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-32.css?ver=1684398255'
+        href='wp-content/uploads/sites/231/elementor/css/post-32.css'
         media='all' />
-    <link rel='stylesheet' id='google-fonts-1-css'
-        href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3'
-        media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
-        media='all' />
+
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <script
-        src='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-includes/js/jquery/jquery.min.js?ver=3.6.3'
-        id='jquery-core-js'></script>
-    <script
-        src='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0'
-        id='jquery-migrate-js'></script>
-    <script
-        src='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.12.2'
-        id='font-awesome-4-shim-js'></script>
-    <link rel="https://api.w.org/" href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-json/" />
-    <link rel="alternate" type="application/json"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-json/wp/v2/posts/151" />
-    <meta name="generator" content="WordPress 6.2" />
-    <link rel='shortlink' href='https://library.elementor.com/local-services-wireframe-4-flexbox/?p=151' />
-    <link rel="alternate" type="application/json+oembed"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2Fblog-post-title-6%2F" />
-    <link rel="alternate" type="text/xml+oembed"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flibrary.elementor.com%2Flocal-services-wireframe-4-flexbox%2Fblog-post-title-6%2F&#038;format=xml" />
-    <meta name="generator"
-        content="Elementor 3.12.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
-    <link rel="icon"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png"
-        sizes="32x32" />
-    <link rel="icon"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
-    <meta name="msapplication-TileImage"
-        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/08/elementor_favicon.png" />
 </head>
 
 <body
