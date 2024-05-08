@@ -3,9 +3,34 @@
 
 
 <head>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Salesforce Winter 24</title>
-    <meta property="og:url" content="codmsoftware.com" />
+    <meta name='robots' content='max-image-preview:large' />
+
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title"
+        content="Salesforce Winter 24" />
+    <meta property="og:description"
+        content="A named credential specifies the URL of a callout endpoint and its required authentication parameters in one definition." />
+    <meta property="og:url"
+        content="https://codmsoftware.com/salesforce-winter-24.php" />
+    <meta property="og:image"
+        content="wp-content/uploads/sites/231/2022/08/blog5.png" />
+    <meta property="og:image:secure_url"
+        content="wp-content/uploads/sites/231/2022/08/blog5.png" />
+    <meta property="og:image:width" content="1027" />
+    <meta property="og:image:height" content="835" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description"
+        content="A named credential specifies the URL of a callout endpoint and its required authentication parameters in one definition." />
+    <meta name="twitter:title"
+        content="Salesforce Winter 24" />
+    <meta name="twitter:image"
+        content="wp-content/uploads/sites/231/2022/08/blog5.png" />
+        <meta property="og:url" content="codmsoftware.com" />
     <meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
     <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
     <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
@@ -16,6 +41,14 @@
     <meta name="twitter:title" content="codmsoftware.com" />
     <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
 
+    <!-- / Yoast SEO plugin. -->
+
+    <link rel="alternate" type="application/rss+xml"
+        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed"
+        href="https://library.elementor.com/local-services-wireframe-4-flexbox/feed/" />
+    <link rel="alternate" type="application/rss+xml"
+        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed"
+        href="https://library.elementor.com/local-services-wireframe-4-flexbox/comments/feed/" />
     <style>
     img.wp-smiley,
     img.emoji {
