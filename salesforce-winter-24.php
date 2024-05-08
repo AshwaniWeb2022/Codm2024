@@ -1,105 +1,21 @@
+
 <?php include 'app/header.php';?>
 
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library</title>
-    <meta name='robots' content='max-image-preview:large' />
 
-    <!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <link rel="canonical" href="https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title"
-        content="Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
-    <meta property="og:description"
-        content="Blog post excerpt [1-2 lines]. This text is automatically pulled from your existing blog post." />
-    <meta property="og:url"
-        content="https://library.elementor.com/local-services-wireframe-4-flexbox/blog-post-title-6/" />
-    <meta property="og:site_name" content="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
-    <meta property="article:section" content="Blog" />
-    <meta property="article:published_time" content="2022-08-28T13:03:27+00:00" />
-    <meta property="article:modified_time" content="2022-08-28T13:03:43+00:00" />
-    <meta property="og:updated_time" content="2022-08-28T13:03:43+00:00" />
-    <meta property="og:image"
-        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
-    <meta property="og:image:secure_url"
-        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
-    <meta property="og:image:width" content="1027" />
-    <meta property="og:image:height" content="835" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description"
-        content="Blog post excerpt [1-2 lines]. This text is automatically pulled from your existing blog post." />
-    <meta name="twitter:title"
-        content="Blog Post Title - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library" />
-    <meta name="twitter:image"
-        content="https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/2022/07/Image_Placeholder_3-131220211647-5.jpg" />
+    <title>Salesforce Winter 24</title>
+    <meta property="og:url" content="codmsoftware.com" />
+    <meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
+    <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
+    <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="380" />
+    <meta name="twitter:card" content="Salesforce Consulting Partner." />
+    <meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
+    <meta name="twitter:title" content="codmsoftware.com" />
+    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/blog5.png" />
 
-    <!-- / Yoast SEO plugin. -->
-
-    <link rel="alternate" type="application/rss+xml"
-        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/feed/" />
-    <link rel="alternate" type="application/rss+xml"
-        title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Comments Feed"
-        href="https://library.elementor.com/local-services-wireframe-4-flexbox/comments/feed/" />
-    <script>
-    window._wpemojiSettings = {
-        "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
-        "ext": ".png",
-        "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
-        "svgExt": ".svg",
-        "source": {
-            "concatemoji": "https:\/\/library.elementor.com\/local-services-wireframe-4-flexbox\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"
-        }
-    };
-    /*! This file is auto-generated */
-    ! function(e, a, t) {
-        var n, r, o, i = a.createElement("canvas"),
-            p = i.getContext && i.getContext("2d");
-
-        function s(e, t) {
-            p.clearRect(0, 0, i.width, i.height), p.fillText(e, 0, 0);
-            e = i.toDataURL();
-            return p.clearRect(0, 0, i.width, i.height), p.fillText(t, 0, 0), e === i.toDataURL()
-        }
-
-        function c(e) {
-            var t = a.createElement("script");
-            t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
-        }
-        for (o = Array("flag", "emoji"), t.supports = {
-                everything: !0,
-                everythingExceptFlag: !0
-            }, r = 0; r < o.length; r++) t.supports[o[r]] = function(e) {
-            if (p && p.fillText) switch (p.textBaseline = "top", p.font = "600 32px Arial", e) {
-                case "flag":
-                    return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !
-                        1 : !s("\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !s(
-                            "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
-                            "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
-                        );
-                case "emoji":
-                    return !s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff",
-                        "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")
-            }
-            return !1
-        }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports
-            .everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]);
-        t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t
-            .readyCallback = function() {
-                t.DOMReady = !0
-            }, t.supports.everything || (n = function() {
-                t.readyCallback()
-            }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !
-                1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
-                "complete" === a.readyState && t.readyCallback()
-            })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e
-                .wpemoji)))
-    }(window, document, window._wpemojiSettings);
-    </script>
     <style>
     img.wp-smiley,
     img.emoji {
