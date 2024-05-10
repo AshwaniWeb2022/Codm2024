@@ -249,43 +249,54 @@
                         <h2 class="elementor-heading-title elementor-size-default">New Product</h2>
                     </div>
                 </div>
-                <div class="text-center elementor-widget-container">
-                    <p> Introduction to our new product </p>
+        <div class="text-center elementor-widget-container">
+            <p> Introduction to our new product </p>
+        </div>
+    </div>
+    <style>
+    .T-form-tital {
+        font-size: 23px;
+        font-weight: 600;
+        line-height: 60px
+    }
+
+    .T-form-subTital {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 30px;
+        color: #626464
+    }
+    </style>
+    <section class="mb-5">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-6 mx-auto align-self-center  p-md-5 mt-5">
+                    <div class="T-form-tital align-self-center">Field History Tracking in Salesforce</div>
+                    <div class="T-form-subTital pt-4">"Introducing FHT: Revolutionizing how you track field history in
+                        Salesforce, ensuring every data change is seamlessly recorded, empowering your team with
+                        comprehensive insights and compliance assurance."
+                    </div>
+                </div>
+                <div class="col-lg-6 mx-auto pt-5">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?modestbranding=1&autoplay=1&controls=0&showinfo=0&autohide=1&mute=1&loop=1&rel=0&showsearch=0" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                referrerpolicy="strict-origin-when-cross-origin" 
+                allowfullscreen>
+            </iframe>
                 </div>
             </div>
-            <style>
-            .T-form-tital {
-                font-size: 23px;
-                font-weight: 600;
-                line-height: 60px
-            }
-
-            .T-form-subTital {
-                font-size: 20px;
-                font-weight: 400;
-                line-height: 30px;
-                color: #626464
-            }
-            </style>
-            <section class="mb-5">
-                <div class="container">
-                    <div class="row ">
-                        <div class="col-lg-6 mx-auto align-self-center  p-md-5 mt-5">
-                            <div class="T-form-tital align-self-center">Field History Tracking in Salesforce</div>
-                            <div class="T-form-subTital pt-1">"Introducing FHT: Revolutionizing how you track field
-                                history in
-                                Salesforce, ensuring every data change is seamlessly recorded, empowering your team with
-                                comprehensive insights and compliance assurance."
-                            </div>
-                        </div>
-                        <div class="col-lg-6 mx-auto pt-5">
-                            <iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/8yG_uJyIDcA?modestbranding=1&autoplay=1&controls=0&showinfo=0&autohide=1&mute=1&loop=1&rel=0&showsearch=0"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                            </iframe>
-                        </div>
+    <!-- new product ends -->
+    <!-- Industries sections starts -->
+    <div data-elementor-type="footer" data-elementor-id="999" class="elementor elementor-999 elementor-location-footer">
+        <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
+            data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+            <div class="e-con-inner mt-3">
+            <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
+                    data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h2 class="elementor-heading-title elementor-size-default">Industries We Serve</h2>
                     </div>
                 </div>
             </section>
