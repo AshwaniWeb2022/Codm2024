@@ -1,4 +1,4 @@
-<?php include 'app/header.php';?>
+<?php include './app/header.php';?>
 
 <div data-elementor-type="wp-page" data-elementor-id="71" class="elementor elementor-71">
     <div class="elementor-element elementor-element-5826e0f1 e-con-boxed e-con" data-id="5826e0f1"
@@ -159,15 +159,14 @@
             <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
                     data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">Industries We Serve</h2>
+                        <h2 class="elementor-heading-title elementor-size-default">Industries </h2>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-c084b06 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
                     data-id="c084b06" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="mb-5 pb-5  text-center elementor-widget-container">
                         <p> Diverse sectors benefiting from our tailored solutions and expertise.</p>
-                    </div>
-                </div>
+
                 <div class="elementor-element elementor-element-e00415a elementor-widget__width-inherit elementor-skin-carousel elementor-widget elementor-widget-media-carousel"
                     data-id="e00415a" data-element_type="widget"
                     data-settings="{&quot;slides_per_view&quot;:&quot;5&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:18,&quot;sizes&quot;:[]},&quot;slides_per_view_tablet&quot;:&quot;4&quot;,&quot;slides_per_view_mobile&quot;:&quot;2&quot;,&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}"
@@ -1026,12 +1025,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
@@ -1079,4 +1072,4 @@
     </script>
     <?php include 'app/footer.php';?>
 
-    <!-- <?php include 'app/popup.php';?> -->
+
