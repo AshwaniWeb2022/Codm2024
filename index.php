@@ -1,4 +1,4 @@
-<?php include 'app/header.php';?>
+<?php include './app/header.php';?>
 
 <div data-elementor-type="wp-page" data-elementor-id="71" class="elementor elementor-71">
     <div class="elementor-element elementor-element-5826e0f1 e-con-boxed e-con" data-id="5826e0f1"
@@ -1223,4 +1223,4 @@
             </script>
             <?php include 'app/footer.php';?>
 
-            <!-- <?php include 'app/popup.php';?> -->
+            <!-- <?php include './app/popup.php';?> -->
