@@ -4,7 +4,7 @@
     RewriteBase /
 
     # Set error document as the index file
-        DirectoryIndex maintenance.php
+        # DirectoryIndex maintenance.php
 
     # Remove .php extension
     RewriteCond %{REQUEST_FILENAME} !-d
