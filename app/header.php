@@ -492,7 +492,7 @@
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-18.css?ver=1691498103'
         media='all' />
     <link rel='stylesheet' id='elementor-post-23-css'
-        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-23.css?ver=1684334870'
+        href='wp-content/uploads/sites/231/elementor/css/post-23.css?ver=1684334870'
         media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2'
@@ -684,8 +684,10 @@
                                         <div class="dropdown-content">
                                             <div class="rwo" style="">  
                                                     <!-- <h3>Category 1</h3> -->
+                                                    <a href="casestudies.php">Case Studies</a>
                                                     <a href="about-us.php">About Us</a>
                                                     <a href="blog.php">Blogs</a>
+
 
                                                     
                                             </div>
