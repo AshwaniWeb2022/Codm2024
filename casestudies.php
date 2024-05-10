@@ -1,56 +1,25 @@
 <?php include 'app/header.php';?>
+
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> 
-    <!-- <script type="application/ld+json"
-        class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.capgemini.com/in-en/services/","url":"https://www.capgemini.com/in-en/services/","name":"Business Transformation & Consulting Services | Capgemini India","isPartOf":{"@id":"https://www.capgemini.com/in-en/#website"},"primaryImageOfPage":{"@id":"https://www.capgemini.com/in-en/services/#primaryimage"},"image":{"@id":"https://www.capgemini.com/in-en/services/#primaryimage"},"thumbnailUrl":"https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/07/Capgemini_Services.jpg","datePublished":"2022-07-05T09:04:58+00:00","dateModified":"2023-08-31T05:49:16+00:00","description":"Elevate your portfolio with Capgemini consulting services. We provide enterprises with the right solutions & technologies to help them drive digital transformation & innovation.","breadcrumb":{"@id":"https://www.capgemini.com/in-en/services/#breadcrumb"},"inLanguage":"en-IN","potentialAction":[{"@type":"ReadAction","target":["https://www.capgemini.com/in-en/services/"]}]},{"@type":"ImageObject","inLanguage":"en-IN","@id":"https://www.capgemini.com/in-en/services/#primaryimage","url":"https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/07/Capgemini_Services.jpg","contentUrl":"https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/07/Capgemini_Services.jpg","width":2880,"height":1800},{"@type":"BreadcrumbList","@id":"https://www.capgemini.com/in-en/services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.capgemini.com/in-en/"},{"@type":"ListItem","position":2,"name":"Services"}]},{"@type":"WebSite","@id":"https://www.capgemini.com/in-en/#website","url":"https://www.capgemini.com/in-en/","name":"Capgemini India","description":"Just another www.capgemini.com site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.capgemini.com/in-en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-IN"}]}</script>
-    / Yoast SEO Premium plugin. -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <title>Blog Archives - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library</title>
+    <meta name='robots' content='max-image-preview:large' />
 
-
-    <link rel='dns-prefetch' href='//cdn.parsely.com' />
-    <link rel='dns-prefetch' href='//stats.wp.com' />
-    <link rel="alternate" type="application/rss+xml" title="Capgemini India &raquo; Feed"
-        href="https://www.capgemini.com/in-en/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Capgemini India &raquo; Comments Feed"
-        href="https://www.capgemini.com/in-en/comments/feed/" />
-
-
-
-    <meta property="og:image"
-        content="wp-content/uploads/sites/231/2022/08/Case-Studies.png" />
-    <meta property="og:image:width" content="" />
-    <meta property="og:image:height" content="" />
-    <meta property="og:image:type" content="" />
-
-<!-- 
-    <script type="text/javascript">
-        piAId = '96412';
-        piCId = '1366';
-        piHostname = 'pi.pardot.com';
-
-        (function () {
-            function async_load() {
-                var s = document.createElement('script');
-                s.type = 'text/javascript';
-                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-                var c = document.getElementsByTagName('script')[0];
-                c.parentNode.insertBefore(s, c);
-            }
-            if (window.attachEvent) {
-                window.attachEvent('onload', async_load);
-            } else {
-                window.addEventListener('load', async_load, false);
-            }
-        })();
-    </script> -->
-    <!-- <script type="text/javascript">
-        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/www.capgemini.com\/in-en\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.3" } };
-        /*! This file is auto-generated */
-        !function (i, n) { var o, s, e; function c(e) { try { var t = { supportTests: e, timestamp: (new Date).valueOf() }; sessionStorage.setItem(o, JSON.stringify(t)) } catch (e) { } } function p(e, t, n) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data), r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data)); return t.every(function (e, t) { return e === r[t] }) } function u(e, t, n) { switch (t) { case "flag": return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !n(e, "\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff", "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff") }return !1 } function f(e, t, n) { var r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : i.createElement("canvas"), a = r.getContext("2d", { willReadFrequently: !0 }), o = (a.textBaseline = "top", a.font = "600 32px Arial", {}); return e.forEach(function (e) { o[e] = t(a, e, n) }), o } function t(e) { var t = i.createElement("script"); t.src = e, t.defer = !0, i.head.appendChild(t) } "undefined" != typeof Promise && (o = "wpEmojiSettingsSupports", s = ["flag", "emoji"], n.supports = { everything: !0, everythingExceptFlag: !0 }, e = new Promise(function (e) { i.addEventListener("DOMContentLoaded", e, { once: !0 }) }), new Promise(function (t) { var n = function () { try { var e = JSON.parse(sessionStorage.getItem(o)); if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests } catch (e) { } return null }(); if (!n) { if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try { var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), p.toString()].join(",") + "));", r = new Blob([e], { type: "text/javascript" }), a = new Worker(URL.createObjectURL(r), { name: "wpTestEmojiSupports" }); return void (a.onmessage = function (e) { c(n = e.data), a.terminate(), t(n) }) } catch (e) { } c(n = f(s, u, p)) } t(n) }).then(function (e) { for (var t in e) n.supports[t] = e[t], n.supports.everything = n.supports.everything && n.supports[t], "flag" !== t && (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && n.supports[t]); n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n.DOMReady = !1, n.readyCallback = function () { n.DOMReady = !0 } }).then(function () { return e }).then(function () { var e; n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e.concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji))) })) }((window, document), window._wpemojiSettings);
-    </script> -->
-    <style type="text/css">
+    <!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="object" />
+    <meta property="og:title" content="Case Studies" />
+    <meta property="og:url" content="https://codmsoftware.com/blog" />
+    <meta property="og:site_name" content="CodmSoftware.com" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Case Studies" />
+    <!-- <script type='application/ld+json'
+        class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://library.elementor.com/local-services-wireframe-4-flexbox/#website","url":"https://library.elementor.com/local-services-wireframe-4-flexbox/","name":"Local Services Wireframe 4 (Flexbox) | Elementor Kit Library","inLanguage":"en-US","potentialAction":[{"@type":"SearchAction","target":"https://library.elementor.com/local-services-wireframe-4-flexbox/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"CollectionPage","@id":"https://library.elementor.com/local-services-wireframe-4-flexbox/category/blog/#webpage","url":"https://library.elementor.com/local-services-wireframe-4-flexbox/category/blog/","name":"Blog Archives - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library","isPartOf":{"@id":"https://library.elementor.com/local-services-wireframe-4-flexbox/#website"},"inLanguage":"en-US"}]}</script>
+    / Yoast SEO plugin. -->
+    <style>
         img.wp-smiley,
         img.emoji {
             display: inline !important;
@@ -64,218 +33,12 @@
             padding: 0 !important;
         }
     </style>
-    <!-- <link rel='stylesheet' id='formidable-css'
-        href='https://www.capgemini.com/in-en/wp-admin/admin-ajax.php?action=frmpro_css&#038;ver=2271039' media='all' /> -->
-    <link rel='stylesheet' id='all-css-2'
-        href='https://www.capgemini.com/in-en/wp-includes/css/dist/block-library/style.min.css?m=1710269213g'
-        type='text/css' media='all' />
-    <style id='wp-block-library-inline-css'>
-        .has-text-align-justify {
-            text-align: justify;
-        }
-    </style>
-    <style id='wp-parsely-recommendations-style-inline-css'>
-        .parsely-recommendations-list-title {
-            font-size: 1.2em
-        }
-
-        .parsely-recommendations-list {
-            list-style: none;
-            padding: unset
-        }
-
-        .parsely-recommendations-cardbody {
-            overflow: hidden;
-            padding: .8em;
-            text-overflow: ellipsis;
-            white-space: nowrap
-        }
-
-        .parsely-recommendations-cardmedia {
-            padding: .8em .8em 0
-        }
-    </style>
-    <link rel='stylesheet' id='all-css-6'
-        href='https://www.capgemini.com/in-en/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGpobGhiZWRoZmgAARJQu3A=='
-        type='text/css' media='all' />
-    <style id='jetpack-sharing-buttons-style-inline-css'>
-        .jetpack-sharing-buttons__services-list {
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            gap: 0;
-            list-style-type: none;
-            margin: 5px;
-            padding: 0
-        }
-
-        .jetpack-sharing-buttons__services-list.has-small-icon-size {
-            font-size: 12px
-        }
-
-        .jetpack-sharing-buttons__services-list.has-normal-icon-size {
-            font-size: 16px
-        }
-
-        .jetpack-sharing-buttons__services-list.has-large-icon-size {
-            font-size: 24px
-        }
-
-        .jetpack-sharing-buttons__services-list.has-huge-icon-size {
-            font-size: 36px
-        }
-
-        @media print {
-            .jetpack-sharing-buttons__services-list {
-                display: none !important
-            }
-        }
-
-        ul.jetpack-sharing-buttons__services-list.has-background {
-            padding: 1.25em 2.375em
-        }
-    </style>
-    <style id='elasticpress-facet-style-inline-css'>
-        .widget_ep-facet input[type=search],
-        .wp-block-elasticpress-facet input[type=search] {
-            margin-bottom: 1rem
-        }
-
-        .widget_ep-facet .searchable .inner,
-        .wp-block-elasticpress-facet .searchable .inner {
-            max-height: 20em;
-            overflow: scroll
-        }
-
-        .widget_ep-facet .term.hide,
-        .wp-block-elasticpress-facet .term.hide {
-            display: none
-        }
-
-        .widget_ep-facet .empty-term,
-        .wp-block-elasticpress-facet .empty-term {
-            opacity: .5;
-            position: relative
-        }
-
-        .widget_ep-facet .empty-term:after,
-        .wp-block-elasticpress-facet .empty-term:after {
-            bottom: 0;
-            content: " ";
-            display: block;
-            left: 0;
-            position: absolute;
-            right: 0;
-            top: 0;
-            width: 100%;
-            z-index: 2
-        }
-
-        .widget_ep-facet .level-1,
-        .wp-block-elasticpress-facet .level-1 {
-            padding-left: 20px
-        }
-
-        .widget_ep-facet .level-2,
-        .wp-block-elasticpress-facet .level-2 {
-            padding-left: 40px
-        }
-
-        .widget_ep-facet .level-3,
-        .wp-block-elasticpress-facet .level-3 {
-            padding-left: 60px
-        }
-
-        .widget_ep-facet .level-4,
-        .wp-block-elasticpress-facet .level-4 {
-            padding-left: 5pc
-        }
-
-        .widget_ep-facet .level-5,
-        .wp-block-elasticpress-facet .level-5 {
-            padding-left: 75pt
-        }
-
-        .widget_ep-facet input[disabled],
-        .wp-block-elasticpress-facet input[disabled] {
-            cursor: pointer;
-            opacity: 1
-        }
-
-        .widget_ep-facet .term a,
-        .wp-block-elasticpress-facet .term a {
-            -webkit-box-align: center;
-            -ms-flex-align: center;
-            align-items: center;
-            display: -webkit-box;
-            display: -ms-flexbox;
-            display: flex;
-            position: relative
-        }
-
-        .widget_ep-facet .term a:hover .ep-checkbox,
-        .wp-block-elasticpress-facet .term a:hover .ep-checkbox {
-            background-color: #ccc
-        }
-
-        .ep-checkbox {
-            -webkit-box-align: center;
-            -ms-flex-align: center;
-            -ms-flex-negative: 0;
-            -webkit-box-pack: center;
-            -ms-flex-pack: center;
-            align-items: center;
-            background-color: #eee;
-            display: -webkit-box;
-            display: -ms-flexbox;
-            display: flex;
-            flex-shrink: 0;
-            height: 1em;
-            justify-content: center;
-            margin-right: .25em;
-            width: 1em
-        }
-
-        .ep-checkbox:after {
-            border: solid #fff;
-            border-width: 0 .125em .125em 0;
-            content: "";
-            display: none;
-            height: .5em;
-            -webkit-transform: rotate(45deg);
-            transform: rotate(45deg);
-            width: .25em
-        }
-
-        .ep-checkbox.checked {
-            background-color: #5e5e5e
-        }
-
-        .ep-checkbox.checked:after {
-            display: block
-        }
-    </style>
-    <link rel='stylesheet' id='all-css-10'
-        href='https://www.capgemini.com/in-en/wp-content/mu-plugins/search/elasticpress-next/dist/css/related-posts-block-styles.min.css?m=1709662998g'
-        type='text/css' media='all' />
-    <style id='classic-theme-styles-inline-css'>
-        /*! This file is auto-generated */
-        .wp-block-button__link {
-            color: #fff;
-            background-color: #32373c;
-            border-radius: 9999px;
-            box-shadow: none;
-            text-decoration: none;
-            padding: calc(.667em + 2px) calc(1.333em + 2px);
-            font-size: 1.125em
-        }
-
-        .wp-block-file__button {
-            background: #32373c;
-            color: #fff;
-            text-decoration: none
-        }
-    </style>
+    <link rel='stylesheet' id='wp-block-library-css'
+        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-includes/css/dist/block-library/style.min.css?ver=6.2'
+        media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css'
+        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-includes/css/classic-themes.min.css?ver=6.2'
+        media='all' />
     <style id='global-styles-inline-css'>
         body {
             --wp--preset--color--black: #000000;
@@ -302,6 +65,14 @@
             --wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
             --wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
             --wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+            --wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');
+            --wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');
+            --wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');
+            --wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');
+            --wp--preset--duotone--midnight: url('#wp-duotone-midnight');
+            --wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');
+            --wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');
+            --wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');
             --wp--preset--font-size--small: 13px;
             --wp--preset--font-size--medium: 20px;
             --wp--preset--font-size--large: 36px;
@@ -321,10 +92,6 @@
         }
 
         :where(.is-layout-flex) {
-            gap: 0.5em;
-        }
-
-        :where(.is-layout-grid) {
             gap: 0.5em;
         }
 
@@ -385,28 +152,8 @@
             margin: 0;
         }
 
-        body .is-layout-grid {
-            display: grid;
-        }
-
-        body .is-layout-grid>* {
-            margin: 0;
-        }
-
         :where(.wp-block-columns.is-layout-flex) {
             gap: 2em;
-        }
-
-        :where(.wp-block-columns.is-layout-grid) {
-            gap: 2em;
-        }
-
-        :where(.wp-block-post-template.is-layout-flex) {
-            gap: 1.25em;
-        }
-
-        :where(.wp-block-post-template.is-layout-grid) {
-            gap: 1.25em;
         }
 
         .has-black-color {
@@ -621,193 +368,209 @@
             color: inherit;
         }
 
-        :where(.wp-block-post-template.is-layout-flex) {
-            gap: 1.25em;
-        }
-
-        :where(.wp-block-post-template.is-layout-grid) {
-            gap: 1.25em;
-        }
-
         :where(.wp-block-columns.is-layout-flex) {
-            gap: 2em;
-        }
-
-        :where(.wp-block-columns.is-layout-grid) {
             gap: 2em;
         }
 
         .wp-block-pullquote {
             font-size: 1.5em;
             line-height: 1.6;
+
+        }
+        .dropdown a {
+            color: black !important;
         }
     </style>
-    <link rel='stylesheet' id='all-css-14'
-        href='https://www.capgemini.com/in-en/_static/??-eJytU+1qwzAMfKGpTrvC2I+xZ1EcNdHqLyxlpW8/xyml2Wi3wP7EcPKdT8fFnBLYGJSCmuTGnoMY20Proj2KQRHSAoiYGdmInh1tCvBkHjIvxyljSpShJwUOoHG0w62qOLbHf5YDHcjf91iheGSaJjJNbgQ8Wvk2viuEwQ4xzw5NGtvy9gL7dS2wipBiKpscYvamHdl15m8Jw8FxAmVH62jssSfo0TnKZyh5dZTXKTgO00d0HU1JlH0MjA6s43IHRGPx8FksxEuKqxRnYoqdRVFIDs9rXGVu2xjAYyiBZOPZ5giHXC92CxHP4a5Q7UsmtAofsRXDwRohzFMtU7rKoJZuzP16ICbRTul46hhBBsxUOdXUD1ItedkEU0/FIe+aXWO6awCP6l9NT41b/OCLAVwfffdv25dts29em+f9F5uYkYw='
-        type='text/css' media='all' />
-    <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/_static/??-eJx1jssKwjAQRX/IdtogigvxU8okGWJiXmYmiH9vEQvduLqbcw4XXnUwJQtlAblTIgaD1VHy2atJTYDMJAyBQZciLA3rqHu2kcaVGQMfYJeosTuf14YbdCzmwTsfrV2kLAYjZYttU302sVv6IuHZqb1/s+//hYbkXUPZztzSdT7Pkzpd1HwMH8TyUSM="></script>
-    <link rel="https://api.w.org/" href="https://www.capgemini.com/in-en/wp-json/" />
-    <link rel="alternate" type="application/json" href="https://www.capgemini.com/in-en/wp-json/wp/v2/pages/975343" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.capgemini.com/in-en/xmlrpc.php?rsd" />
-    <meta name="generator" content="WordPress 6.3.3" />
-    <link rel='shortlink' href='https://www.codmsoftware.com' />
-    <style>
-        img#wpstats {
-            display: none
-        }
-    </style>
+    <link rel='stylesheet' id='hello-elementor-css'
+        href='wp-content/themes/hello-elementor/style.minc141.css'
+        media='all' />
+    <link rel='stylesheet' id='hello-elementor-theme-style-css'
+        href='wp-content/themes/hello-elementor/theme.minc141.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/css/frontend-lite.mine56c.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-16-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-16046b.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/eicons/css/elementor-icons.min3b94.css'
+        media='all' />
+    <link rel='stylesheet' id='swiper-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/swiper/css/swiper.min48f5.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-pro-css'
+        href='wp-content/plugins/elementor-pro-3.12.3/assets/css/frontend-lite.min0fca.css'
+        media='all' />
+    <link rel='stylesheet' id='font-awesome-5-all-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/all.mine56c.css'
+        media='all' />
+    <link rel='stylesheet' id='font-awesome-4-shim-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/v4-shims.mine56c.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-global-css'
+        href='wp-content/uploads/sites/231/elementor/css/global1195.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-18-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-1894ef.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-23-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-231195.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-29-css'
+        href='wp-content/uploads/sites/231/elementor/css/post-29e647.css'
+        media='all' />
+    <link rel='stylesheet' id='google-fonts-1-css'
+        href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/fontawesome.min52d5.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/solid.min52d5.css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
+        href='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/css/brands.min52d5.css'
+        media='all' />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <script
+        src='wp-includes/js/jquery/jquery.min.js?ver=3.6.3'
+        id='jquery-core-js'></script>
+    <script
+        src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0'
+        id='jquery-migrate-js'></script>
+    <script
+        src='wp-content/plugins/elementor-3.12.2/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.12.2'
+        id='font-awesome-4-shim-js'></script>
 </head>
 
-<body class="page-template-default page page-id-975343 page-parent wp-embed-responsive body--main">
-    <!--Inject cg-ribbon-manager-output-->
-    <div class="content" id="main-content" role="main">
-        <section class="blog-page">
+<body
+    class="archive category category-blog category-8 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-16 elementor-page-29">
 
+    <div data-elementor-type="archive" data-elementor-id="29" class="elementor elementor-29 elementor-location-archive">
+        <div class="elementor-element elementor-element-5efa5751 e-con-boxed e-con" data-id="5efa5751"
+            data-element_type="container"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-8f04ba9 elementor-invisible elementor-widget elementor-widget-heading"
+                    data-id="8f04ba9" data-element_type="widget"
+                    data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <style>
+                            /*! elementor - v3.12.2 - 23-04-2023 */
+                            .elementor-heading-title {
+                                padding: 0;
+                                margin: 0;
+                                line-height: 1
+                            }
 
-            <div class="wp-block-cg-blocks-hero-picture-card undefined  heroPictureCard">
-                <div class="heroPictureCardBgs">
-                     <picture>
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 1500px)" />
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 992px)" />
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 768px)" />
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 0)" />
-                                    <img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    class="desktopImage" alt="" style="object-fit:cover;object-position:49% 15%"
-                                    loading="eager" />
-                            </picture>
-                            <picture>
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 1500px)" />
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 992px)" />
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    media="(min-width: 768px)" />
-                                <source
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"  media="(min-width: 0)" />
-                                    <img decoding="async"
-                                    src="wp-content/uploads/sites/231/2022/08/Case-Studies.png"
-                                    class="mobileImage" alt="" style="object-fit:cover;object-position:49% 15%"
-                                    loading="eager" />
-                            </picture> 
-                </div>
-                <div class="heroPictureCardHeaderShape"></div>
-                <!-- <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-lg-6">
-                            <div class="heroPictureCardBox">
-                                <div class="heroPictureCardBoxTitle">
-                                    <h1 data-maxlength="144">Case Studies</h1>
-                                </div>
-                            </div>
-                        </div>
+                            .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a {
+                                color: inherit;
+                                font-size: inherit;
+                                line-height: inherit
+                            }
+
+                            .elementor-widget-heading .elementor-heading-title.elementor-size-small {
+                                font-size: 15px
+                            }
+
+                            .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+                                font-size: 19px
+                            }
+
+                            .elementor-widget-heading .elementor-heading-title.elementor-size-large {
+                                font-size: 29px
+                            }
+
+                            .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
+                                font-size: 39px
+                            }
+
+                            .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
+                                font-size: 59px
+                            }
+                        </style>
+                        <h1 class="elementor-heading-title elementor-size-default">Case Studies</h1>
                     </div>
-                </div> -->
-                <div class="small-device">
-                    <div class="brandLogoWrapper"> </div>
+                </div>
+                <div class="elementor-element elementor-element-665add15 elementor-widget elementor-widget-heading"
+                    data-id="665add15" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h5 class="elementor-heading-title elementor-size-default">Dive Into Our Latest Case Studies!</h5>
+                    </div>
+                    <!-- <div>
+                    <i class="fa-solid fa-arrow-down"></i>
+                    </div> -->
                 </div>
             </div>
+        </div>
+        <div class="elementor-element elementor-element-5f5c6c88 e-con-boxed e-con" data-id="5f5c6c88"
+            data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-71b60159 elementor-posts--align-left elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-archive-posts"
+                    data-id="71b60159" data-element_type="widget"
+                    data-settings="{&quot;archive_classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:80,&quot;sizes&quot;:[]},&quot;archive_classic_columns&quot;:&quot;3&quot;,&quot;archive_classic_columns_tablet&quot;:&quot;2&quot;,&quot;archive_classic_columns_mobile&quot;:&quot;1&quot;,&quot;archive_classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;archive_classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;pagination_type&quot;:&quot;numbers&quot;}"
+                    data-widget_type="archive-posts.archive_classic">
+                    <div class="elementor-widget-container ">
+                        <link rel="stylesheet"
+                            href="wp-content/plugins/elementor-pro-3.12.3/assets/css/widget-posts.min.css">
+                        <div
+                            class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+                            <article
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
+                                <a class="elementor-post__thumbnail__link"
+                                    href="#!">
+                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
+                                            src="wp-content/uploads/sites/231/2022/08/8596903.png"
+                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
+                                </a>
+                                <div class="elementor-post__text">
+                                    <h4 class="elementor-post__title">
+                                        <a
+                                            href="ngo.php">
+                                            Non Profit (NGO)</a>
+                                    </h4>
+                                    <div class="elementor-post__excerpt">
+                                        <p>Case study on a Salesforce implementation project for an NGO involves several key steps to effectively showcase the projects objectives, challenges, solutions, and outcomes</p>
+                                    </div>
 
-            <section class="wp-block-cg-blocks-intro-para undefined section section--intro" id="introParaWrapper">
-                <div class="intro-para">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12 col-md-1">
-                                <nav class="article-social">
-                                    <ul class="social-nav">
-                                    <li class="ip-order-tw"><a
-                                                        href="https://x.com/CodmSoftwa?s=20"
-                                                        target="_blank" rel="noopener noreferrer"
-                                                        title="opens in a new window"><i area-hidden="true" class="fa-brands fa-twitter"></i><span
-                                                            class="sr-only">Twitter</span></a></li>
-                                                <li class="ip-order-li"><a
-                                                        href="https://www.linkedin.com/company/codmsoftware/mycompany//"
-                                                        target="_blank" rel="noopener noreferrer"
-                                                        title="opens in a new window"><i aria-hidden="true"
-                                                            class="icon-li"></i><span
-                                                            class="sr-only">Linkedin</span></a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            
-                            <div class="col-12 col-md-11 col-lg-10">
-                                <h2 class="intro-para-title">A constantly evolving portfolio to meet the ever-changing
-                                    needs of our clients.</h2>
-                                <p class="intro-para-content">We focus on three &#8216;playing fields&#8217; dedicated
-                                    to the digitalization of key management areas at the core of businesses: Customer
-                                    First, Intelligent Industry, and Enterprise Management. This is underpinned by two
-                                    technological pillars essential to all forms of digital transformation – data and
-                                    cloud, without losing sight of the fundamentals of cybersecurity and sustainable
-                                    development. </p>
-                            </div>
+                                    <a class="elementor-post__read-more"
+                                        href="ngo.php"
+                                        aria-label="Read more about Blog Post Title">
+                                        Read More </a>
+                                </div>
+                            </article>
+
+                            <article
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
+                                <a class="elementor-post__thumbnail__link"
+                                    href="#!">
+                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
+                                            src="wp-content/uploads/sites/231/2022/08/Salesforce-Education-Services_Main-Banner.jpg"
+                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
+                                </a>
+                                <div class="elementor-post__text">
+                                    <h4 class="elementor-post__title">
+                                        <a
+                                            href="Cs-2.php">
+                                            Salesforce Education Cloud and Experience Cloud</a>
+                                    </h4>
+                                    <div class="elementor-post__excerpt">
+                                        <p>Case Study: Implementing Salesforce Education Cloud and Experience Cloud for a UK Public University.</p>
+                                    </div>
+
+                                    <a class="elementor-post__read-more"
+                                        href="Cs-2.php"
+                                        aria-label="Read more about Blog Post Title">
+                                        Read More </a>
+                                </div>
+                            </article>
+                        </div>
                         </div>
                     </div>
                 </div>
-            </section>
-            <p></p>
-            <section class="wp-block-cg-blocks-wrapper-card-related-capabilities undefined card-related-capability">
-                <div class="cardelatedBgShape"></div>
-                <div class="container">
-                    <div class="contentTitle">
-                        <h3 data-maxlength="34">Explore our case studies </h3>
-                    </div>
-                    <div class="row">
-                        <div class="wp-block-cg-blocks-card-related-capabilities col-md-4 gridbox card-block">
-                            <div class="box box--1 capblock">
-                                <div class="box-img-wrapper">
-                                    <div class="img-ratio">
-                                        <img src="wp-content/uploads/sites/231/2022/08/people-working-tapping-futuristic-virtual-screens_1262-19467.avif"  class="box-img" alt="" style="object-fit:cover;object-position:50% 50%"
-                                            loading="lazy" /></div>
-                                </div>
-                                <div class="box-inner"><a class="box-title" aria-label="Salesforce Implementation"
-                                        href="ngo.php" target=""
-                                        rel="noopener noreferrer">
-                                        <h4>Salesforce Implementation</h4>
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-            </section>
-
-
-
-            <p></p>
-        </section>
+            </div>
+        </div>
     </div>
-    <div id="consent_blackbar"></div>
 
-    <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/_static/??-eJyllN1S4zAMhV8IxWWA2dmLHZ7FcdRUqWMZy4bp26P8tE2H0LL0JhnrKN+xZCvmI4LjkDFkE31pKYhxLdSe3V6MFcEsphOzTWNSU01KVRfyTdXJg7kKmF87TAwROXqcSDCg5q8pOF8aHG1KaDCJ44RVT2EtQ5clk1/KN+0lcyIU4C24nQ3tyiZuMvBdZRBPusFjXxaxH3M+ko0RE7SYtS7IXNxu0WeFuf1/FfcTIOgqU2jlO+oY4j3hoMignAndW8F0qCb92tauQXrrZFYFUF5+w8h2qGPWvwPY4Hacph6ZWGot/yJ2q6/g1CZy1FZuOfVmvOhmTYLTTMTETXGZOOhchMZf7dLJaOspgl5lXHrIOXwvn3rbIrTWez2+4829sFrLuNfVUxgeki+tTuF7+RklU8+BrAfnaRxAHe8DvOvueT73C+uFcK/5hIrcOKuVRG8PXytdz/m9c6K65gC9DXpYyfTk9F96pM3WX9LOdp289v8e/zxunjd/N0/P3SeM4T2i"></script>
-    <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0'
-        id='react-js'></script>
-    <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0'
-        id='react-dom-js'></script>
-    <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/_static/??/wp-includes/js/dist/escape-html.min.js,/wp-includes/js/dist/element.min.js?m=1710269214j"></script>
-    <script src='https://www.capgemini.com/in-en/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef'
-        id='wp-i18n-js'></script>
-    <script
-        src='https://www.capgemini.com/in-en/wp-content/mu-plugins/wp-parsely-3.13/build/loader.js?ver=f5c2d06f6755fda3f6d4'
-        id='wp-parsely-loader-js'></script> 
-    <script data-parsely-site="capgemini.com" src='https://cdn.parsely.com/keys/capgemini.com/p.js?ver=3.13.3'
-        id="parsely-cfg"></script>
-    <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/_static/??/wp-content/themes/capgemini2020/dist/app.build.js,/wp-includes/js/jquery/ui/core.min.js?m=1710409034j"></script>
-    <!-- <script type="text/javascript"
-        src="https://www.capgemini.com/in-en/wp-content/plugins/wp-macs-forms/assets/js/libs/selectWoo.full.js?m=1670249584g"></script> -->
-    
-    <script src='https://stats.wp.com/e-202411.js' id='jetpack-stats-js' data-wp-strategy='defer'></script> 
-
- <?php include 'app/footer.php';?>
+        <?php include 'app/footer.php';?>
