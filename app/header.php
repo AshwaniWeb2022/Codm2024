@@ -24,7 +24,7 @@
     <meta name="description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner.">
     <!--Description for Google bot  -->
 
-    <!-- <meta property="og:url" content="codmsoftware.com" />
+    <meta property="og:url" content="codmsoftware.com" />
     <meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
     <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
     <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
@@ -33,7 +33,7 @@
     <meta name="twitter:card" content="Salesforce Consulting Partner." />
     <meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
     <meta name="twitter:title" content="codmsoftware.com" />
-    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" /> -->
+    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
     <!-- / Yoast SEO plugin.  -->
 
     <!-- <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed" href="feed/index" />
@@ -684,10 +684,8 @@
                                         <div class="dropdown-content">
                                             <div class="rwo" style="">  
                                                     <!-- <h3>Category 1</h3> -->
-                                                    <a href="casestudies.php">Case Studies</a>
                                                     <a href="about-us.php">About Us</a>
                                                     <a href="blog.php">Blogs</a>
-
 
                                                     
                                             </div>
