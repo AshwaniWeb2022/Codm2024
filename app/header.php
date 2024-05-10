@@ -24,7 +24,7 @@
     <meta name="description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner.">
     <!--Description for Google bot  -->
 
-    <!-- <meta property="og:url" content="codmsoftware.com" />
+    <meta property="og:url" content="codmsoftware.com" />
     <meta property="og:site_name" content="CODM SOFTWARE | Salesforce Consulting Partner" />
     <meta property="og:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
     <meta property="og:image:secure_url" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
@@ -33,7 +33,7 @@
     <meta name="twitter:card" content="Salesforce Consulting Partner." />
     <meta name="twitter:description" content="CodM Software Ltd. is a certified Salesforce Consulting Partner." />
     <meta name="twitter:title" content="codmsoftware.com" />
-    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" /> -->
+    <meta name="twitter:image" content="wp-content/uploads/sites/231/2022/08/sfdx.png" />
     <!-- / Yoast SEO plugin.  -->
 
     <!-- <link rel="alternate" type="application/rss+xml" title="Local Services Wireframe 4 (Flexbox) | Elementor Kit Library &raquo; Feed" href="feed/index" />
@@ -492,7 +492,7 @@
         href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-18.css?ver=1691498103'
         media='all' />
     <link rel='stylesheet' id='elementor-post-23-css'
-        href='wp-content/uploads/sites/231/elementor/css/post-23.css?ver=1684334870'
+        href='https://library.elementor.com/local-services-wireframe-4-flexbox/wp-content/uploads/sites/231/elementor/css/post-23.css?ver=1684334870'
         media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2'
@@ -684,10 +684,8 @@
                                         <div class="dropdown-content">
                                             <div class="rwo" style="">  
                                                     <!-- <h3>Category 1</h3> -->
-                                                    <a href="casestudies.php">Case Studies</a>
                                                     <a href="about-us.php">About Us</a>
                                                     <a href="blog.php">Blogs</a>
-
 
                                                     
                                             </div>
