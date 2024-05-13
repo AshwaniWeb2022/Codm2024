@@ -684,6 +684,7 @@
                                         <div class="dropdown-content">
                                             <div class="rwo" style="">  
                                                     <!-- <h3>Category 1</h3> -->
+                                                    <a href="casestudies.php">Case Studies</a>
                                                     <a href="about-us.php">About Us</a>
                                                     <a href="blog.php">Blogs</a>
 
@@ -910,7 +911,8 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
                                         <a href="#" class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
-                                            <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About
+                                        <li><a class="text-dark elementor-item py-2 px-2" href="casestudies.php">Case Studies</a></li>    
+                                        <li><a class="text-dark elementor-item py-2 px-2" href="about-us.php">About
                                                     Us</a></li>
                                             <li><a class="text-dark elementor-item py-2 px-2" href="blog.php">Blogs</a></li>        
                                         </ul>
