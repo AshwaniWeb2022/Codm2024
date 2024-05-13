@@ -565,6 +565,30 @@
                                         Read More </a>
                                 </div>
                             </article>
+                            <article
+                                class="elementor-post elementor-grid-item post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-blog shadow" style="padding:20px;">
+                                <a class="elementor-post__thumbnail__link"
+                                    href="#!">
+                                    <div class="elementor-post__thumbnail"><img width="1027" height="835"
+                                            src="wp-content/uploads/sites/231/2022/08/Financial-cloud-1.png"
+                                            class="attachment-full size-full wp-image-83" alt="" loading="lazy" /></div>
+                                </a>
+                                <div class="elementor-post__text">
+                                    <h4 class="elementor-post__title">
+                                        <a
+                                            href="Cs-3.php">
+                                            Salesforce Financial Services Cloud and Experience Cloud </a>
+                                    </h4>
+                                    <div class="elementor-post__excerpt">
+                                        <p>Case Study: Implementing Salesforce Financial Services Cloud and Experience Cloud for a South Africa Based Bank</p>
+                                    </div>
+
+                                    <a class="elementor-post__read-more"
+                                        href="Cs-3.php"
+                                        aria-label="Read more about Case studies Post ">
+                                        Read More </a>
+                                </div>
+                            </article>
                         </div>
                         </div>
                     </div>
