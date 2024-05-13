@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Blog Archives - Local Services Wireframe 4 (Flexbox) | Elementor Kit Library</title>
+    <title>Case Studies dive into our latest case Studies</title>
     <meta name='robots' content='max-image-preview:large' />
 
     <!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->

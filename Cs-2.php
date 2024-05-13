@@ -823,7 +823,7 @@
                                             <h2 class="wp-block-heading" id="h-what-we-do">Implementation Process How we
                                                 solve the problems</h2>
                                             <blockquote class="wp-block-quote">
-                                                <p><strong>Implementation Process How we solve the problems</strong></p>
+                                                <p><strong>How we solve the problems</strong></p>
                                             </blockquote>
 
                                         </div>
