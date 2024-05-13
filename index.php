@@ -77,6 +77,148 @@
     </div>
 
     <!-- nav bar ends -->
+     <!-- case studies carousel section  -->
+     <style>
+    .content-title {
+        font-size: 10px !important;
+        font-weight: 600 !important;
+    }
+
+    .slider {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .slide {
+        display: none;
+        position: relative;
+    }
+
+    .bg-image {
+        width: 100%;
+        height: 300px;
+        /* Adjust height as needed */
+        background-size: cover;
+        background-position: center;
+    }
+
+    .text-card {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        color: white;
+    }
+
+    .slider {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .slide {
+        display: none;
+        position: relative;
+    }
+
+    .bg-image {
+        width: 100%;
+        height: 350px;
+        /* Adjust height as needed */
+        /* background-size: cover; */
+        background-position: center;
+    }
+
+    .text-box {
+        background-color: white;
+        /* White background */
+        color: black;
+        /* Black text color */
+        padding: 2rem;
+        /* Padding of 2rem */
+        border-radius: 10px;
+        /* Rounded corners */
+    }
+
+    .text-card {
+        position: absolute;
+        /* width: 530px; */
+        top: 35%;
+        /* Adjust as needed */
+        /* bottom: -10px; Adjust as needed */
+        left: 20px;
+        /* Adjust as needed */
+        color: white;
+        z-index: 1;
+        /* Ensure text card is above the image */
+        overflow: visible;
+        /* Allow overflow */
+    }
+    </style>
+    <div class="slider">
+        <div class="slide">
+            <div class="bg-image">
+                <img src="wp-content/uploads/sites/231/2022/08/case study bg.avif">
+            </div>
+            <div class="text-card ">
+                <div class="text-box">
+                    <h2>Case Study</h2>
+                    <p>Salesforce Education Cloud and Experience Cloud for a UK Public University <a href="Cs-2.php">
+                            Read More.</a></p>
+                </div>
+            </div>
+        </div>
+    <div class="slide">
+            <div class="bg-image">
+                <img
+                    src="wp-content/uploads/sites/231/2022/08/summer-blue-sky-and-fantasy-cloud-on-the-top-of-a-mountain-background-ai-generated-free-photo.jpg">
+            </div>
+            <div class="text-card ">
+                <div class="text-box">
+                    <h2>Case Study</h2>
+                    <p>Salesforce Implementation Project for Non Profit Organizations(NGOs)<a href="ngo.php"> Read
+                            More.</a></p>
+                </div>
+            </div>
+        </div>
+        <!-- Add more slides as needed -->
+    </div>
+    <script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.slide');
+    let slideInterval;
+
+    function showSlide(n) {
+        slides.forEach((slide) => {
+            slide.style.display = 'none';
+        });
+
+        slides[n].style.display = 'block';
+    }
+
+    function nextSlide() {
+        currentSlide = (currentSlide + 1) % slides.length;
+        showSlide(currentSlide);
+    }
+
+    function startSlideInterval() {
+        slideInterval = setInterval(nextSlide, 3000);
+    }
+
+    function stopSlideInterval() {
+        clearInterval(slideInterval);
+    }
+
+    // Auto play
+    startSlideInterval();
+
+    // Pause on hover
+    const sliderContainer = document.querySelector('.slider');
+    sliderContainer.addEventListener('mouseenter', stopSlideInterval);
+    sliderContainer.addEventListener('mouseleave', startSlideInterval);
+
+    // Show the first slide initially
+    showSlide(currentSlide);
+    </script>
+
 
     <!-- new product starts -->
     <div>
