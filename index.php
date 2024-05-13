@@ -179,6 +179,19 @@
                 </div>
             </div>
         </div>
+        <div class="slide">
+            <div class="bg-image">
+                <img
+                    src="wp-content/uploads/sites/231/2022/08/nokia-financial-services_0.jpg.webp">
+            </div>
+            <div class="text-card ">
+                <div class="text-box">
+                    <h2>Case Study</h2>
+                    <p>Salesforce Financial Services Cloud And Experience Cloud<a href="Cs-3.php"> Read
+                            More.</a></p>
+                </div>
+            </div>
+        </div>
         <!-- Add more slides as needed -->
     </div>
     <script>
