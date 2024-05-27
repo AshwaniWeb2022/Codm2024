@@ -336,8 +336,8 @@
                         </div>
                         <div class="elementor-element elementor-element-c084b06 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
                             data-id="c084b06" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="mb-5 pb-5  text-center elementor-widget-container">
-                                <p> Diverse sectors benefiting from our tailored solutions and expertise.</p>
+                            <div class="text-center elementor-widget-container ">
+                                <p class="mb-5 pb-5"> Diverse sectors benefiting from our tailored solutions and expertise.</p>
 
                                 <div class="elementor-element elementor-element-e00415a elementor-widget__width-inherit elementor-skin-carousel elementor-widget elementor-widget-media-carousel"
                                     data-id="e00415a" data-element_type="widget"
