@@ -273,7 +273,7 @@
     <div data-elementor-type="footer" data-elementor-id="999" class="elementor elementor-999 elementor-location-footer">
         <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
             data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-            <div class="e-con-inner mt-3">
+            <div class="e-con-inner mt-5 pt-5">
                 <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
                     data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
@@ -327,7 +327,7 @@
                 class="elementor elementor-999 elementor-location-footer">
                 <div class="elementor-element elementor-element-3186df51 e-con-boxed e-con" data-id="3186df51"
                     data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
-                    <div class="e-con-inner mt-3">
+                    <div class="e-con-inner mt-5 pt-5">
                         <div class="elementor-element elementor-element-5faa280d elementor-widget elementor-widget-heading"
                             data-id="5faa280d" data-element_type="widget" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
