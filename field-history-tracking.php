@@ -173,10 +173,12 @@
                     </div>
                 </div>
                 <div class="col-lg-6 mx-auto mt-5 pt-5">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?si=ooFXBTLNx6robLgx"
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?si=ooFXBTLNx6robLgx"
                         title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe>
+                        allowfullscreen></iframe> -->
+                    <img src="wp-content/uploads/sites/231/2022/08/Enhanced-Features-in-Field-History-Tracking.jpg"
+                                class="mg" alt="Enhanced Features in Field History Tracking"></a>
                 </div>
             </div>
         </div>
