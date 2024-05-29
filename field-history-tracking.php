@@ -173,12 +173,12 @@
                     </div>
                 </div>
                 <div class="col-lg-6 mx-auto mt-5 pt-5">
-                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8yG_uJyIDcA?si=ooFXBTLNx6robLgx"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe> -->
-                    <img src="wp-content/uploads/sites/231/2022/08/Enhanced-Features-in-Field-History-Tracking.jpg"
-                                class="mg" alt="Enhanced Features in Field History Tracking"></a>
+                             <iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/ynCoQ-a0IUo?si=txxvfq8MkQWfTE4K?modestbranding=1&autoplay=1&controls=0&showinfo=0&autohide=1&mute=1&loop=1&rel=0&showsearch=0"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                            </iframe>
                 </div>
             </div>
         </div>
