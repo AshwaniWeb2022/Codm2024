@@ -77,6 +77,9 @@
     </div>
 
     <!-- nav bar ends -->
+
+
+
     <!-- case studies carousel section  -->
     <style>
     .content-title {
@@ -97,7 +100,6 @@
     .bg-image {
         width: 100%;
         height: 300px;
-        /* Adjust height as needed */
         background-size: cover;
         background-position: center;
     }
@@ -122,35 +124,23 @@
     .bg-image {
         width: 100%;
         height: 350px;
-        /* Adjust height as needed */
-        /* background-size: cover; */
         background-position: center;
     }
 
     .text-box {
         background-color: white;
-        /* White background */
         color: black;
-        /* Black text color */
         padding: 2rem;
-        /* Padding of 2rem */
         border-radius: 10px;
-        /* Rounded corners */
     }
 
     .text-card {
         position: absolute;
-        /* width: 530px; */
         top: 35%;
-        /* Adjust as needed */
-        /* bottom: -10px; Adjust as needed */
         left: 20px;
-        /* Adjust as needed */
         color: white;
         z-index: 1;
-        /* Ensure text card is above the image */
         overflow: visible;
-        /* Allow overflow */
     }
     </style>
     <div class="slider">
@@ -161,7 +151,7 @@
             <div class="text-card ">
                 <div class="text-box">
                     <h2>Case Study</h2>
-                    <p>Salesforce Education Cloud and Experience Cloud for a UK Public University <a href="Cs-2.php">
+                    <p>Salesforce Education Cloud And Experience Cloud for a UK Public University <a href="Cs-2.php">
                             Read More.</a></p>
                 </div>
             </div>
@@ -181,13 +171,13 @@
         </div>
         <div class="slide">
             <div class="bg-image">
-                <img
-                    src="wp-content/uploads/sites/231/2022/08/nokia-financial-services_0.jpg.webp">
+                <img src="wp-content/uploads/sites/231/2022/08/nokia-financial-services_0.jpg.webp">
             </div>
             <div class="text-card ">
                 <div class="text-box">
-                    <h2>Case Study</h2>
-                    <p>Salesforce Financial Services Cloud And Experience Cloud<a href="Cs-3.php"> Read
+                    <h2 class="">Financial Services</h2>
+                    <p class="" >Here's our case study on Salesforce Financial Services
+                        Cloud And Experience Cloud <a href="Cs-3.php"> Read
                             More.</a></p>
                 </div>
             </div>
@@ -238,31 +228,20 @@
         <style>
         .fixed-image {
             position: fixed;
-            /* Fix the image position */
             top: 50%;
-            /* Adjust as per your requirement */
             right: 0%;
-            /* Adjust as per your requirement */
             z-index: 9999;
-            /* Ensure the image appears above other content */
-            /* Customize height and width */
             height: 20px;
-            /* Adjust height as needed */
             width: 100px;
-            /* Automatically adjust width to maintain aspect ratio */
         }
 
         @media only screen and (max-width: 768px) {
-
-            /* Adjust image size for smaller screens */
             .fixed-image {
                 width: 80px;
             }
         }
 
         @media only screen and (max-width: 480px) {
-
-            /* Adjust image size for even smaller screens */
             .fixed-image {
                 width: 60px;
             }
@@ -297,6 +276,15 @@
                 line-height: 30px;
                 color: #626464
             }
+
+            .mg {
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
+            }
+
+            .mg:hover {
+                transform: scale(1.05);
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            }
             </style>
             <section class="mb-5">
                 <div class="container">
@@ -310,12 +298,14 @@
                             </div>
                         </div>
                         <div class="col-lg-6 mx-auto pt-5">
-                            <iframe width="560" height="315"
+                            <!-- <iframe width="560" height="315"
                                 src="https://www.youtube.com/embed/8yG_uJyIDcA?modestbranding=1&autoplay=1&controls=0&showinfo=0&autohide=1&mute=1&loop=1&rel=0&showsearch=0"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                            </iframe>
+                            </iframe> -->
+                            <a href="field-history-tracking.php"><img src="wp-content/uploads/sites/231/2022/08/Enhanced-Features-in-Field-History-Tracking.jpg"
+                                class="mg" alt="Enhanced Features in Field History Tracking"></a>
                         </div>
                     </div>
                 </div>
@@ -337,7 +327,8 @@
                         <div class="elementor-element elementor-element-c084b06 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
                             data-id="c084b06" data-element_type="widget" data-widget_type="text-editor.default">
                             <div class="text-center elementor-widget-container ">
-                                <p class="mb-5 pb-5"> Diverse sectors benefiting from our tailored solutions and expertise.</p>
+                                <p class="mb-5 pb-5"> Diverse sectors benefiting from our tailored solutions and
+                                    expertise.</p>
 
                                 <div class="elementor-element elementor-element-e00415a elementor-widget__width-inherit elementor-skin-carousel elementor-widget elementor-widget-media-carousel"
                                     data-id="e00415a" data-element_type="widget"
