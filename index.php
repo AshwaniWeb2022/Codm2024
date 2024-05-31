@@ -76,12 +76,13 @@
         </div>
     </div>
 
-    <!-- nav bar ends -->
+<!-- nav bar ends -->
 
 
 
-    <!-- case studies carousel section  -->
-    <style>
+<!-- case studies carousel section  -->
+<style>
+    
     .content-title {
         font-size: 10px !important;
         font-weight: 600 !important;
@@ -128,7 +129,7 @@
     }
 
     .text-box {
-        background-color: white;
+        background-color: #ffffffb5;
         color: black;
         padding: 2rem;
         border-radius: 10px;
@@ -150,8 +151,8 @@
             </div>
             <div class="text-card ">
                 <div class="text-box">
-                    <h2>Case Study</h2>
-                    <p>Salesforce Education Cloud And Experience Cloud for a UK Public University <a href="Cs-2.php">
+                    <h2>Education Cloud</h2>
+                    <p>Here's our case study on Salesforce Education Cloud  <br/>And Experience Cloud for a UK Public University <a href="Cs-2.php">
                             Read More.</a></p>
                 </div>
             </div>
@@ -163,10 +164,10 @@
             </div>
             <div class="text-card ">
                 <div class="text-box">
-                    <h2>Case Study</h2>
-                    <p>Salesforce Implementation Project for Non Profit Organizations(NGOs)<a href="ngo.php"> Read
+                    <h2> Non Profit Organizations</h2>
+                    <p>Here's our case study on Salesforce Implementation <br/> Project for Non Profit Organizations(NGOs)<a href="ngo.php"> Read
                             More.</a></p>
-                </div>
+                </div> 
             </div>
         </div>
         <div class="slide">
@@ -176,8 +177,7 @@
             <div class="text-card ">
                 <div class="text-box">
                     <h2 class="">Financial Services</h2>
-                    <p class="" >Here's our case study on Salesforce Financial Services
-                        Cloud And Experience Cloud <a href="Cs-3.php"> Read
+                    <p class="" >Here's our case study on Salesforce <br/> Financial Services Cloud And Experience Cloud <a href="Cs-3.php"> Read
                             More.</a></p>
                 </div>
             </div>
