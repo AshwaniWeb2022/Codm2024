@@ -740,7 +740,7 @@
                                             </blockquote>
 
 
-                                            <p>The University of Oxford partnered with a certified Salesforce implementation partner to deploy Salesforce Education Cloud and Experience Cloud. The solution included the following components</p>
+                                            <p>The University of Coventry partnered with a certified Salesforce implementation partner to deploy Salesforce Education Cloud and Experience Cloud. The solution included the following components</p>
                                             <p><b>1.Education Cloud Implementation:</b>Education Cloud was customised to manage the entire student lifecycle, from recruitment and admissions to graduation and alumni relations. This involved consolidating student data from various sources into a single, unified platform.
                                         <ul>        
                                           <li><b>Recruitment and Admissions:</b>There was a need to improve
