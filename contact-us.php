@@ -93,6 +93,34 @@
 
                         <div class="accordion-item p-4">
                             <h2 class="accordion-header fs-5">
+                            <img src="wp-content\uploads\sites\231\2022\08\Flag_of_India.svg" alt="india Flag" style="height:30px;">    
+                                India
+                                
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse show " data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="accordionAddress">
+                                        <div style="margin-top: 10px;">
+                                        <h3 class="fs-5">Noida</h3>
+                                            <a href="https://maps.app.goo.gl/NMPC1ZvTYzknM3688" target="_blank" rel="noopener">
+                                                Ihdp Business Park <br> 
+                                                Plot, Street Number 7 <br>
+                                                Sector 127, Noida
+                                                 Uttar Pradesh 201304
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:+91 9871717425" class="text-dark">+91 9871717425</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item p-4">
+                            <h2 class="accordion-header fs-5">
                             <img src="wp-content\uploads\sites\231\2022\08\2807790_18165.jpg" alt="usa Flag" style="height:30px;">    
                                 USA
                                 
