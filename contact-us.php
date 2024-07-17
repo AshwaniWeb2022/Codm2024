@@ -39,7 +39,7 @@
                             font-size: 59px
                         }
                     </style>
-                    <h1 class="elementor-heading-title elementor-size-default mt-5">Our Locations </h1>
+                <h1 class="elementor-heading-title elementor-size-default mt-5">Our Locations </h1>
                 </div>
             </div>  
             <div class="elementor-element elementor-element-f9715de elementor-widget elementor-widget-heading" data-id="f9715de" data-element_type="widget" data-widget_type="heading.default">
@@ -47,112 +47,61 @@
                     <p class="elementor-heading fs-4">We would love to speak with you.<br>Feel
                         free to reach out using the below details.</p>
                     <div class="accordion" id="accordionExample">
-                        <div class="accordion-item p-4">
-                            <h2 class="accordion-header fs-5">
-                            <img src="wp-content\uploads\sites\231\2022\08\2807791_18166.jpg" alt="uk Flag" style="height:30px;">      
-                                United Kingdom (UK)
-                                
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="accordionAddress">
-                                        <div style="margin-top: 10px;">
-                                        <h2 class="fs-5">London</h2>
-                                        <a href="https://www.google.com/maps/place/Shop+71,+ALG+ID+Cards+t%2Fa+The+Lanyard,+75+Shelton+St,+London+WC2H+9JQ,+UK/@51.5149037,-0.1261591,17z/data=!3m1!4b1!4m6!3m5!1s0x487604ccab37652b:0x22220c3f07824033!8m2!3d51.5149037!4d-0.1235842!16s%2Fg%2F11ll1x_2x2?entry=ttu" target="_blank" rel="noopener">
-                                            71-75, Shelton Street, Covent,Garden<br/>
-                                            London, WC2H 9JQ, UNITED KINGDOM
-                                            </a>
-                                        </div>
-                                        <div style="margin-top: 10px;">
-                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
-                                        </div>
-                                        <div>
-                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
-                                        </div>
+                        <div class="container-fluid">
+                <div class="row justify-content-between">
+                    <div class="col-lg-12"><img src="admin\mophy\admin\images\World Map.png" class="img-fluid"></div>
+                </div>
+            </div>
 
-                                        <div style="margin-top: 20px;">
-                                    
-                                        <h3 class="fs-5">Birmingham</h3>
-                                        <a href="https://maps.app.goo.gl/at7ygDFHA6R1noo3A" target="_blank" rel="noopener">
-                                                Spaces - Birmingham,
-                                                The Mailbox Level 1, The Mailbox, 3<br />
-                                                Wharfside Street Spaces, Birmingham B1 1RD,<br />
-                                                United Kingdom
-                                            </a>
-                                        </div>
-                                        <div style="margin-top: 10px;">
-                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
-                                        </div>
-                                        <div>
-                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item p-4">
-                            <h2 class="accordion-header fs-5">
-                            <img src="wp-content\uploads\sites\231\2022\08\Flag_of_India.svg" alt="india Flag" style="height:30px;">    
-                                India
-                                
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse show " data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="accordionAddress">
-                                        <div style="margin-top: 10px;">
-                                        <h3 class="fs-5">Noida</h3>
-                                            <a href="https://maps.app.goo.gl/NMPC1ZvTYzknM3688" target="_blank" rel="noopener">
-                                                Ihdp Business Park <br> 
-                                                Plot, Street Number 7 <br>
-                                                Sector 127, Noida
-                                                 Uttar Pradesh 201304
-                                            </a>
-                                        </div>
-                                        <div style="margin-top: 10px;">
-                                            <a href="tel:+91 9871717425" class="text-dark">+91 9871717425</a>
-                                        </div>
-                                        <div>
-                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item p-4">
-                            <h2 class="accordion-header fs-5">
-                            <img src="wp-content\uploads\sites\231\2022\08\2807790_18165.jpg" alt="usa Flag" style="height:30px;">    
-                                USA
-                                
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse show " data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="accordionAddress">
-                                        <div style="margin-top: 10px;">
-                                        <h3 class="fs-5">Texas</h3>
-                                            <a href="https://maps.app.goo.gl/VuSneUee56kcJH1o7" target="_blank" rel="noopener">
-                                                Talent4World LLC <br>
-                                                4501 Nightland Dr Plano,
-                                                TX 75024 - USA
-                                            </a>
-                                        </div>
-                                        <div style="margin-top: 10px;">
-                                            <a href="tel:+1(972)-945-5043" class="text-dark">+1(972)-945-5043</a>
-                                        </div>
-                                        <div>
-                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
+    <!-- flag grid  -->
+    <div class="container" style="margin-top: 50px;">
+        <div class="row mb-4">
+            <div class="col-12 col-lg-4">
+                <p>United Kingdom</p>
+                <!-- <img src="admin\mophy\admin\images\UK.jpg" alt="UK" class="w-10 h-30"> -->
+                <img src="admin/mophy/admin/images/UK.jpg" alt="UK" style="width: 50%; height: 20%;">
+            </div>
+            <div class="col-12 col-lg-4">
+                <p>Birmingham</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.143732040343!2d-1.9067490243570109!3d52.47653323944804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bd5f589ef0d5%3A0xca4de25613579339!2sSpaces%20-%20Birmingham%2C%20The%20Mailbox!5e0!3m2!1sen!2sin!4v1721195199119!5m2!1sen!2sin" class="w-100 h-50" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="col-12 col-lg-4">
+                <p>London</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9077227532885!2d-0.12612132443082852!3d51.514908910156144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ccaaa0b0b7%3A0xbe144a0754857ae1!2s71-75%20Shelton%20St%2C%20London%20WC2H%209JQ%2C%20UK!5e0!3m2!1sen!2sin!4v1721198794179!5m2!1sen!2sin" class="w-100 h-50" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-12 col-lg-4">
+                <p>USA</p>
+                <img src="admin\mophy\admin\images\USA.jpg" alt="USA" style="width: 50%; height: 20%;">
+            </div>
+            <div class="col-12 col-lg-4">
+                <p>Texas</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3342.948872644063!2d-96.78265522561759!3d33.08412966823006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c3d3040d1d50d%3A0xd7baed8935eed4d9!2s4501%20Nightland%20Dr%2C%20Plano%2C%20TX%2075024%2C%20USA!5e0!3m2!1sen!2sin!4v1721194272503!5m2!1sen!2sin" width="100%" height="50%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="col-12 col-lg-4"></div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-12 col-lg-4">
+                <p>INDIA</p>
+                <img src="admin\mophy\admin\images\India.jpg" alt="India" style="width: 50%; height: 20%;">
+            </div>
+            <div class="col-12 col-lg-4">
+                <p>Faridabad</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3510.4567896110616!2d77.35981847415717!3d28.375268195719197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdd35926d1e43%3A0x1aa967f8efe2a9a9!2sUniversal%20Square%20by%20Auric!5e0!3m2!1sen!2sin!4v1720789558646!5m2!1sen!2sin" width="100%" height="50%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="col-12 col-lg-4">
+                <p>Nodia</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.175835772327!2d77.34481727416421!3d28.534434088531118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce6723b8b9179%3A0x7a7104262130597e!2sIHDP%20Business%20Park!5e0!3m2!1sen!2sin!4v1720789900373!5m2!1sen!2sin" width="100%" height="50%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Accordion ends -->
-        <div class="elementor-element elementor-element-4f81c598 e-con-full e-con" data-id="4f81c598" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+    <!-- Accordion ends -->
+    <div class="elementor-element elementor-element-4f81c598 e-con-full e-con" data-id="4f81c598" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
             <div class="elementor-element elementor-element-4db6c19f elementor-button-align-start elementor-tablet-button-align-center elementor-widget elementor-widget-form" data-id="4db6c19f" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                 <div class="elementor-widget-container">
                     <style>
