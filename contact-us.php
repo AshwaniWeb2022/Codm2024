@@ -41,8 +41,8 @@
                     </style>
                 <h1 class="elementor-heading-title elementor-size-default mt-5">Our Locations </h1>
                 </div>
-            </div>  
-            <div class="elementor-element elementor-element-f9715de elementor-widget elementor-widget-heading" data-id="f9715de" data-element_type="widget" data-widget_type="heading.default">
+                </div>  
+                <div class="elementor-element elementor-element-f9715de elementor-widget elementor-widget-heading" data-id="f9715de" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
                     <p class="elementor-heading fs-4">We would love to speak with you.<br>Feel
                         free to reach out using the below details.</p>
@@ -53,8 +53,8 @@
                 </div>
             </div>
 
-    <!-- flag grid  -->
-    <div class="container" style="margin-top: 50px;">
+             <!-- flag grid  -->
+        <div class="container" style="margin-top: 50px;">
         <div class="row mb-4">
             <div class="col-12 col-lg-4">
                 <p>United Kingdom</p>
