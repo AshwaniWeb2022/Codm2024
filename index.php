@@ -143,6 +143,17 @@
         z-index: 1;
         overflow: visible;
     }
+    
+    @media only screen and (min-width: 320px) and (max-width: 426px) {
+    .text-box {
+        background-color: white !important;
+        color: black;
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 1px 1px 5px rgba(0,0,0,0.1); /* Updated to give a subtle shadow */
+    }
+}
+
     </style>
     <div class="slider">
         <div class="slide">
@@ -648,7 +659,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-258b4811 elementor-align-center elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-button"
+                                <!-- <div class="elementor-element elementor-element-258b4811 elementor-align-center elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-button"
                                     data-id="258b4811" data-element_type="widget"
                                     data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}"
                                     data-widget_type="button.default">
@@ -663,7 +674,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <!-- Services ends -->
