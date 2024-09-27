@@ -680,7 +680,7 @@
 
 
                                     <div class="dropdown">
-                                        <a href="#!" class="elementor-item" style="padding: 23px;">Company</a>
+                                        <a class="elementor-item" style="padding: 23px; cursor:pointer;">Company</a>
                                         <div class="dropdown-content">
                                             <div class="rwo" style="">  
                                                     <!-- <h3>Category 1</h3> -->
