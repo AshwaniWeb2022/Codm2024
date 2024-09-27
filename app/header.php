@@ -770,7 +770,7 @@
 
 
                                     <div class="dropdown">
-                                        <a href="#" class="elementor-item" style="padding: 23px;">services</a>
+                                        <a class="elementor-item" style="padding: 23px; cursor:pointer;">services</a>
                                         <div class="dropdown-content2">
                                             <div class="rwo" style="width: 545px">  
                                                 <div class="column">
@@ -869,7 +869,7 @@
                                     </style>
 
                                     <div class="dropdown">
-                                        <a href="#" class="elementor-item" style="padding: 23px;">Products</a>
+                                        <a class="elementor-item" style="padding: 23px; cursor:pointer;">Products</a>
                                         <div class="dropdown-content">
                                             <div class="rwo" style="">  
                                                     <!-- <h3>Category 1</h3> -->
@@ -909,7 +909,7 @@
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#" class="elementor-item">Company</a>
+                                        <a class="elementor-item">Company</a>
                                         <ul class="sub-menu bg-white pt-3">
                                         <li><a class="text-dark elementor-item py-2 px-2" href="casestudies">Case Studies</a></li>    
                                         <li><a class="text-dark elementor-item py-2 px-2" href="about-us">About
@@ -919,7 +919,7 @@
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#" class="elementor-item">Services</a>
+                                        <a class="elementor-item">Services</a>
                                         <ul class="sub-menu bg-white pt-3 ">
                                             <li><a class="text-dark elementor-item py-2 px-2"
                                                     href="omnistudio">Omnistudio (Vlocity)</a></li>
@@ -953,7 +953,7 @@
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                        <a href="#" class="elementor-item">Products</a>
+                                        <a class="elementor-item cursor:pointer;">Products</a>
                                         <ul class="sub-menu bg-white pt-3">
                                             <li><a class="text-dark elementor-item py-2 px-2"
                                                     href="field-history-tracking">Field History Tracking</a></li>
