@@ -12,7 +12,7 @@ if (isset($_POST['Name']) && isset($_POST['email']) && isset($_POST['Phone_Numbe
     $subject = "Applied for" . $Job_Profile;
     $fromname = "CodMsoftware.com";
     $fromemail = $email;
-    $mailto = 'karan.dandriyal@codmsoftware.com';
+    $mailto = 'hr@codmsoftware.com';
 
     $content = file_get_contents($fileName);
     $content = chunk_split(base64_encode($content));
