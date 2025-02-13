@@ -1,3 +1,4 @@
+
 <?php include 'app/header.php'; ?>
 <!-- Accordion starts -->
 <div data-elementor-type="wp-page" data-elementor-id="50" class="elementor elementor-50">
@@ -56,54 +57,114 @@
              <!-- flag grid  -->
         <div class="container" style="margin-top: 50px;">
         <div class="row mb-4">
-            <div class="col-12 col-lg-4">
-                <p>United Kingdom</p>
-                <!-- <img src="admin\mophy\admin\images\UK.jpg" alt="UK" class="w-10 h-30"> -->
-                <img src="admin/mophy/admin/images/UK.jpg" alt="UK" style="width: 50%; height: 20%;">
+            <div class="col-12 col-lg-12" style="display: ruby;">
+            <!-- <h2 class="fs-5">United Kingdom (UK)</h2> -->
+            <div class="d-flex"><img src="admin/mophy/admin/images/UK.jpg" alt="UK" style="width: 70px; height: 40px;"></div>   
             </div>
-            <div class="col-12 col-lg-4">
-                <p>Birmingham</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.143732040343!2d-1.9067490243570109!3d52.47653323944804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bd5f589ef0d5%3A0xca4de25613579339!2sSpaces%20-%20Birmingham%2C%20The%20Mailbox!5e0!3m2!1sen!2sin!4v1721195199119!5m2!1sen!2sin" class="w-100 h-50" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-12 col-lg-6">
+                    <div style="margin-top: 10px;">
+                                        <h2 class="fs-6">London</h2>
+                                        <a href="https://www.google.com/maps/place/Shop+71,+ALG+ID+Cards+t%2Fa+The+Lanyard,+75+Shelton+St,+London+WC2H+9JQ,+UK/@51.5149037,-0.1261591,17z/data=!3m1!4b1!4m6!3m5!1s0x487604ccab37652b:0x22220c3f07824033!8m2!3d51.5149037!4d-0.1235842!16s%2Fg%2F11ll1x_2x2?entry=ttu" target="_blank" rel="noopener">
+                                            71-75, Shelton Street,<br/>
+                                            Covent,Garden London, WC2H 9JQ, UNITED KINGDOM
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
             </div>
-            <div class="col-12 col-lg-4">
-                <p>London</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9077227532885!2d-0.12612132443082852!3d51.514908910156144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ccaaa0b0b7%3A0xbe144a0754857ae1!2s71-75%20Shelton%20St%2C%20London%20WC2H%209JQ%2C%20UK!5e0!3m2!1sen!2sin!4v1721198794179!5m2!1sen!2sin" class="w-100 h-50" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-12 col-lg-6">
+                    <div style="margin-top: 10px;">
+                                        <h2 class="fs-6">Birmingham</h2>
+                                        <a href="https://maps.app.goo.gl/at7ygDFHA6R1noo3A" target="_blank" rel="noopener">
+                                                Spaces - Birmingham,The Mailbox Level 1,
+                                                The Mailbox, 3 Wharfside Street Spaces, <br>
+                                                Birmingham B1 1RD, United Kingdom
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:(+44) 0121 818 6924" class="text-dark">(+44) 0121 818 6924</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
             </div>
         </div>
         <div class="row mb-4">
-            <div class="col-12 col-lg-4">
-                <p>USA</p>
-                <img src="admin\mophy\admin\images\USA.jpg" alt="USA" style="width: 50%; height: 20%;">
+            <div class="col-12 col-lg-12" style="display: ruby;">
+            <!-- <h2 class="fs-5">USA</h2> -->
+            <div class="d-flex"><img src="admin\mophy\admin\images\USA.jpg" alt="USA" style="width: 70px; height: 40px;"></div>   
             </div>
-            <div class="col-12 col-lg-4">
-                <p>Texas</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3342.948872644063!2d-96.78265522561759!3d33.08412966823006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c3d3040d1d50d%3A0xd7baed8935eed4d9!2s4501%20Nightland%20Dr%2C%20Plano%2C%20TX%2075024%2C%20USA!5e0!3m2!1sen!2sin!4v1721194272503!5m2!1sen!2sin" width="100%" height="50%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-12 col-lg-6">
+                    <div style="margin-top: 10px;">
+                                        <h2 class="fs-6">Texas</h2>
+                                        <a href="https://maps.app.goo.gl/VuSneUee56kcJH1o7" target="_blank" rel="noopener">
+                                                Talent4World LLC <br>
+                                                4501 Nightland Dr Plano,
+                                                TX 75024 - USA
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:+1(972)-945-5043" class="text-dark">+1(972)-945-5043</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
             </div>
-            <div class="col-12 col-lg-4"></div>
+            <div class="col-12 col-lg-6">
+                <!-- <p>Emplty USA MAP</p> -->
+            </div>
         </div>
         <div class="row mb-4">
-            <div class="col-12 col-lg-4">
-                <p>INDIA</p>
-                <img src="admin\mophy\admin\images\India.jpg" alt="India" style="width: 50%; height: 20%;">
+            <div class="col-12 col-lg-12" style="display: ruby;">
+            <!-- <h2 class="fs-5">INDIA</h2> -->
+            <div class="d-flex"><img src="admin\mophy\admin\images\India.jpg" alt="India" style="width: 70px; height: 40px;"></div>   
             </div>
-            <div class="col-12 col-lg-4">
-                <p>Faridabad</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3510.4567896110616!2d77.35981847415717!3d28.375268195719197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdd35926d1e43%3A0x1aa967f8efe2a9a9!2sUniversal%20Square%20by%20Auric!5e0!3m2!1sen!2sin!4v1720789558646!5m2!1sen!2sin" width="100%" height="50%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-12 col-lg-6">
+                    <div style="margin-top: 10px;">
+                                        <h2 class="fs-6">Noida</h2>
+                                        <a href="https://maps.app.goo.gl/NMPC1ZvTYzknM3688" target="_blank" rel="noopener">
+                                                Ihdp Business Park <br> 
+                                                Plot, Street Number 7 <br>
+                                                Sector 127, Noida
+                                                Uttar Pradesh 201304
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:+91 9871717425" class="text-dark">+91 9871717425</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
             </div>
-            <div class="col-12 col-lg-4">
-                <p>Nodia</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.175835772327!2d77.34481727416421!3d28.534434088531118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce6723b8b9179%3A0x7a7104262130597e!2sIHDP%20Business%20Park!5e0!3m2!1sen!2sin!4v1720789900373!5m2!1sen!2sin" width="100%" height="50%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-12 col-lg-6">
+                    <div style="margin-top: 10px;">
+                                        <h2 class="fs-6">Faridabad</h2>
+                                        <a href="https://maps.app.goo.gl/5cbgX3JNpaUqx6ez8" target="_blank" rel="noopener">
+                                                Auric Universal Square<br>
+                                                Sector 79, Faridabad, Haryana
+                                            </a>
+                                        </div>
+                                        <div style="margin-top: 10px;">
+                                            <a href="tel:+91 9871717425" class="text-dark">+91 9871717425</a>
+                                        </div>
+                                        <div>
+                                            <a href="mailto:hr@Codmsoftware.com" class="text-dark">hr@codmsoftware.com</a>
+                                        </div>
             </div>
-        </div>
+        </div>    
     </div>
                     </div>
                 </div>
             </div>
         </div>
     <!-- Accordion ends -->
-    <div class="elementor-element elementor-element-4f81c598 e-con-full e-con" data-id="4f81c598" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+    <div class="elementor-element elementor-element-4f81c598  e-con" data-id="4f81c598" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" >
             <div class="elementor-element elementor-element-4db6c19f elementor-button-align-start elementor-tablet-button-align-center elementor-widget elementor-widget-form" data-id="4db6c19f" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
-                <div class="elementor-widget-container">
+            <div class="elementor-widget-container">
                     <style>
                         /*! elementor-pro - v3.12.3 - 23-04-2023 */
                         .elementor-button.elementor-hidden,
@@ -236,7 +297,6 @@
                             overflow: hidden;
                             margin-bottom: 10px
                         }
-
                         .e-form__indicators__indicator__icon img,
                         .e-form__indicators__indicator__icon object,
                         .e-form__indicators__indicator__icon svg {
@@ -254,7 +314,7 @@
                             border-width: 1px;
                             border-style: solid;
                             display: flex;
-                            justify-content: center;
+                            /* justify-content: center; */
                             align-items: center;
                             margin-bottom: 10px
                         }
@@ -368,7 +428,7 @@
                             content: "" !important
                         }
                     </style>
-                    <h2 class="fs-1 mb-5 pb-5 text-center "> Contact Us</h2>
+                    <h2 class="fs-1 mb-5 mt-5 pb-5 text-center "> Contact Us</h2>
                     <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post" autocomplete="off" name="Contact Form">
                         <input type=hidden name="oid" value="00D5i000008yVNX">
                         <input type=hidden name="retURL" value="thankyou.php">
@@ -416,4 +476,5 @@
         </div>
     </div>
     
+}
     <?php include 'app/footer.php'; ?>
